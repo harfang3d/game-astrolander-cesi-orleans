@@ -1,8 +1,10 @@
-<img src="img/logo_cesi_harfang.png" align="right" width="300"/>
+<img src="img/logo_cesi_harfang.png" align="right" width="220"/>
 
 # Astro-Lander Game
 
 ## CESI x HARFANG Workshop
+
+![cesi banner](img/cesi_banner.png)
 
 Astro-Lander is a game prototype co-created for a 1-day workshop between [CESI Orleans](https://orleans.cesi.fr/) & [Harfang 3D](https://www.harfang3d.com). The game relies on realtime physics to challenge the player on their skills to counterbalance gravity and inertia.<br>
 Astro-Lander works both in **2D** and **VR**. It is implemented in **[Python](https://www.python.org/)** :snake:<br>
