@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Astrolander",
+            "type": "python",
+            "request": "launch",
+            "program": "main.py",
+            "python": "${workspaceFolder}/bin/python/python",
+            "cwd": "${workspaceFolder}/source"
+        }
+    ]
+}
