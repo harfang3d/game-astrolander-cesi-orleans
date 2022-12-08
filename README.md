@@ -60,7 +60,19 @@ The gameplay remains in 2D, the display being in 3D or VR.
  - GO! CREATE!
 
 ## Contributors :red_haired_woman: :man: :bald_woman: :bearded_person:
+- Anthime-Didi
 - Astrofra
+- CharlesQ1
 - Disketflu
+- Entwickel
+- floxx2112
+- Kimimar0
 - Kipixelle
+- masky612
+- NinD9
+- Rom1RG
 - Scorpheus
+- StarLaqueur
+- Taikylah
+- Tetsud0
+- ugolicatesi
