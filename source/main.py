@@ -442,13 +442,13 @@ while not end_game:
 		if slow_clock_hit > -1:
 			# print(slow_clock_hit)
 			bonus_slow_clock[slow_clock_hit]["node"].Disable()
-			time_factor /= 2
+			time_factor /= 1.5
 		# get a fast clock bonus
 		fast_clock_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_fast_clock, 2.5)
 		if fast_clock_hit > -1:
 			# print(fast_clock_hit)
 			bonus_fast_clock[fast_clock_hit]["node"].Disable()
-			time_factor *= 2
+			time_factor *= 1.5
 
 
 		if collected_all_coins and life > 0:
