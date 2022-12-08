@@ -501,11 +501,11 @@ while not end_game:
 			compteur = 0
 			level_idx = 0
 		if level_restart == True and not_dead == True and reset_game == False:
-			hg.DrawText(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			DrawTextShadow(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), text_uniform_values, text_render_state)
 			restart_timer -= dtsmooth
 		if level_restart == True and restart_timer > 0 and not_dead == False and reset_game == False:
-			hg.DrawText(view_id, font, 'GAME OVER', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
-			hg.DrawText(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			DrawTextShadow(view_id, font, 'GAME OVER', font_program, hg.Vec3(res_x / 2, res_y / 2, 0), text_uniform_values, text_render_state)
+			DrawTextShadow(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), text_uniform_values, text_render_state)
 			restart_timer -= dtsmooth
 
 		elif restart_timer < 0:
@@ -526,7 +526,7 @@ while not end_game:
 
 		# debug physics
 		view_id += 1
-		display_physics_debug(scene, physics, view_id, res_x, res_y, vtx_decl_lines, physx_debug_lines_program)
+		# display_physics_debug(scene, physics, view_id, res_x, res_y, vtx_decl_lines, physx_debug_lines_program)
 
 		frame = hg.Frame()
 		hg.UpdateWindow(win)
