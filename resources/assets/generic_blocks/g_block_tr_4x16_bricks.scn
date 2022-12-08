@@ -60,7 +60,7 @@
 			],
 			"disabled": false,
 			"idx": 0,
-			"name": "g_block_16x16"
+			"name": "g_block_tr_4x16"
 		}
 	],
 	"objects": [
@@ -107,10 +107,10 @@
 							"name": "uBaseOpacityColor",
 							"type": "vec4",
 							"value": [
-								1.0,
-								1.0,
-								1.0,
-								0.0
+								0.75,
+								0.75,
+								0.75,
+								1.0
 							]
 						},
 						{
@@ -161,7 +161,7 @@
 					"write_z": true
 				}
 			],
-			"name": "assets/generic_blocks/g_block_16x16.geo"
+			"name": "assets/generic_blocks/g_block_tr_4x16.geo"
 		}
 	],
 	"transforms": [

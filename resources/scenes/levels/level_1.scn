@@ -79,13 +79,10 @@
 			"name": "assets/generic_blocks/g_block_16x32_bricks.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
+			"name": "assets/generic_blocks/g_block_16x16_bricks.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x32_bricks.scn"
+			"name": "assets/generic_blocks/g_block_tr_4x16_bricks.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_16x32_bricks.scn"
@@ -94,19 +91,22 @@
 			"name": "assets/generic_blocks/g_block_16x32_bricks.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+			"name": "assets/generic_blocks/g_block_16x32_bricks.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+			"name": "assets/generic_blocks/g_block_tr_4x16_bricks.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16_bricks.scn"
 		},
 		{
 			"name": "assets/coin.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
+			"name": "assets/generic_blocks/g_block_16x16_bricks.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+			"name": "assets/generic_blocks/g_block_tr_4x16_bricks.scn"
 		}
 	],
 	"key_values": null,
@@ -882,9 +882,9 @@
 		{
 			"parent": null,
 			"pos": [
-				32.33308792114258,
-				44.72021484375,
-				-93.14078521728516
+				33.38412094116211,
+				59.2879638671875,
+				-116.70491027832031
 			],
 			"rot": [
 				10.74315357208252,
