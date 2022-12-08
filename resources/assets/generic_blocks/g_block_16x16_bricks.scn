@@ -11,9 +11,9 @@
 	},
 	"environment": {
 		"ambient": [
-			62,
-			62,
-			62,
+			0,
+			0,
+			0,
 			255
 		],
 		"brdf_map": "core/pbr/brdf.dds",
@@ -26,27 +26,8 @@
 		],
 		"fog_far": 0.0,
 		"fog_near": 0.0,
-		"probe": {
-			"irradiance_map": "core/pbr/probe.hdr.irradiance",
-			"parallax": 0.0,
-			"pos": [
-				0.0,
-				0.0,
-				0.0
-			],
-			"radiance_map": "core/pbr/probe.hdr.radiance",
-			"rot": [
-				0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			],
-			"type": "sphere"
-		}
+		"irradiance_map": "core/pbr/probe.hdr.irradiance",
+		"radiance_map": "core/pbr/probe.hdr.radiance"
 	},
 	"key_values": null,
 	"nodes": [
@@ -59,8 +40,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 0,
-			"name": "g_block_16x32"
+			"idx": 13,
+			"name": "g_block_16x16"
 		}
 	],
 	"objects": [
@@ -81,6 +62,11 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
 							"path": "assets/generic_blocks/dirt_color.png",
 							"stage": 0
 						},
@@ -109,6 +95,16 @@
 							]
 						},
 						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
 							"name": "uOcclusionRoughnessMetalnessColor",
 							"type": "vec4",
 							"value": [
@@ -127,6 +123,16 @@
 								0.0,
 								-1.0
 							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
 						}
 					],
 					"write_a": true,
@@ -136,7 +142,7 @@
 					"write_z": true
 				}
 			],
-			"name": "assets/generic_blocks/g_block_16x32.geo"
+			"name": "assets/generic_blocks/g_block_16x16.geo"
 		}
 	],
 	"transforms": [
@@ -148,7 +154,7 @@
 				0.0
 			],
 			"rot": [
-				-0.0,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
