@@ -341,7 +341,7 @@ while not end_game:
 				hg.SetSourceVolume(dirty_thrust_source, 1 - dirty_thrust_ratio)
 
 
-			if not thrust_left and not thrust_right and not thrust_up:
+			if not (thrust_left or thrust_right or thrust_up):
 				flame_item_l.Disable()
 				flame_item_m.Disable()
 				flame_item_r.Disable()
