@@ -79,8 +79,6 @@ text_render_state = hg.ComputeRenderState(hg.BM_Alpha, hg.DT_Always, hg.FC_Disab
 text_uniform_values_white = [hg.MakeUniformSetValue('u_color', hg.Vec4(1, 1, 1))]
 
 # sounds
-collect_coin_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_got_item.wav")
-collision_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_metal_col_0.wav")
 thrust_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_thrust.wav")
 dirty_thrust_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_thrust_dirty.wav")
 game_over_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_game_over.wav")
@@ -140,6 +138,14 @@ while not end_game:
 	current_music_ref = hg.LoadWAVSoundAsset(levels[level_idx]['music'])
 	music_source_state = hg.StereoSourceState(0.7, hg.SR_Loop)
 	current_music_source = hg.PlayStereo(current_music_ref, music_source_state)
+
+	#sound
+	try:
+		collision_ref = hg.LoadWAVSoundAsset(levels[level_idx]['sfx_collision'])
+		collect_coin_ref = hg.LoadWAVSoundAsset(levels[level_idx]['sfx_coin'])
+	except:
+		collision_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_metal_col_0.wav")
+		collect_coin_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_got_item.wav")
 
 	# background
 	hg.LoadSceneFromAssets(levels[level_idx]['background'], scene, res, hg.GetForwardPipelineInfo())
