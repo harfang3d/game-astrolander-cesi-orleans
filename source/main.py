@@ -9,6 +9,7 @@ from levels import *
 from utils import clamp, range_adjust
 from statistics import mean
 from particles import InitParticle, UpdateParticleSystem
+from math import cos, sin
 
 level_idx = 0
 consumption = 2.5
@@ -101,6 +102,14 @@ mouse = hg.Mouse()
 end_game = False
 aaa_rendering = False
 levels.append({"level" :"assets/titles/victory.scn", "music": "audio/music/children_of_science.wav", "background": "assets/background_1.scn"})
+
+
+def DrawTextShadow(_view_id, _font, _str, _font_program, _pos, _text_uniform_values, _text_render_state):
+	for a in range(0, 360, 10):
+		_offset = hg.Vec3(cos(a), sin(a), 0) * 1.5
+		hg.DrawText(_view_id, _font, _str, _font_program, 'u_tex', 0, hg.Mat4.Identity, _pos + _offset, hg.DTHA_Left, hg.DTVA_Bottom, [hg.MakeUniformSetValue('u_color', hg.Vec4(0,0,0,0.1))], [], _text_render_state)
+	hg.DrawText(_view_id, _font, _str, _font_program, 'u_tex', 0, hg.Mat4.Identity, _pos, hg.DTHA_Left, hg.DTVA_Bottom, _text_uniform_values, [], _text_render_state)
+
 reset_levels = levels
 number_levels = len(levels)
 compteur = 0
@@ -487,13 +496,13 @@ while not end_game:
 			txt_col = text_uniform_values
 		else:
 			txt_col = text_uniform_values_white
-		hg.DrawText(view_id, font, '%d Coins' % len(coins), font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x - 200, res_y - 120, 0), hg.DTHA_Left, hg.DTVA_Bottom, txt_col, [], text_render_state)
-		hg.DrawText(view_id, font, 'Life: %d' % life, font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x - 200, res_y - 80, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
-		hg.DrawText(view_id, font, 'Fuel: %d' % fuel, font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x - 200, res_y - 40, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+		DrawTextShadow(view_id, font, '%d Coins' % len(coins), font_program, hg.Vec3(res_x - 200, res_y - 120, 0), txt_col, text_render_state)
+		DrawTextShadow(view_id, font, 'Life: %d' % life, font_program, hg.Vec3(res_x - 200, res_y - 80, 0), text_uniform_values, text_render_state)
+		DrawTextShadow(view_id, font, 'Fuel: %d' % fuel, font_program, hg.Vec3(res_x - 200, res_y - 40, 0), text_uniform_values, text_render_state)
 
 		# display FPS
 		if hg.time_to_sec_f(dt) > 0.0:
-			hg.DrawText(view_id, font, 'FPS: %i' % int(1.0 / hg.time_to_sec_f(dt)), font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(16, 16, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			DrawTextShadow(view_id, font, 'FPS: %i' % int(1.0 / hg.time_to_sec_f(dt)), font_program, hg.Vec3(16, 16, 0), text_uniform_values, text_render_state)
 
 
 		# debug physics
