@@ -491,7 +491,7 @@ while not end_game:
 
 		# debug physics
 		view_id += 1
-		# display_physics_debug(scene, physics, view_id, res_x, res_y, vtx_decl_lines, physx_debug_lines_program)
+		display_physics_debug(scene, physics, view_id, res_x, res_y, vtx_decl_lines, physx_debug_lines_program)
 
 		frame = hg.Frame()
 		hg.UpdateWindow(win)
