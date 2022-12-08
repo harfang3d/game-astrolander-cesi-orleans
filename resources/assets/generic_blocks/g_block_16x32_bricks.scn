@@ -81,7 +81,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
+							"path": "assets/generic_blocks/white_brick.png",
 							"stage": 0
 						},
 						{
