@@ -14,8 +14,6 @@ from math import cos, sin
 level_idx = 0
 consumption = 2.5
 
-print(levels)
-
 hg.InputInit()
 hg.AudioInit()
 hg.WindowSystemInit()
@@ -112,7 +110,9 @@ def DrawTextShadow(_view_id, _font, _str, _font_program, _pos, _text_uniform_val
 		hg.DrawText(_view_id, _font, _str, _font_program, 'u_tex', 0, hg.Mat4.Identity, _pos + _offset, hg.DTHA_Left, hg.DTVA_Bottom, [hg.MakeUniformSetValue('u_color', hg.Vec4(0,0,0,0.1))], [], _text_render_state)
 	hg.DrawText(_view_id, _font, _str, _font_program, 'u_tex', 0, hg.Mat4.Identity, _pos, hg.DTHA_Left, hg.DTVA_Bottom, _text_uniform_values, [], _text_render_state)
 
-
+reset_levels = levels
+number_levels = len(levels)
+compteur = 0
 while not end_game:
 	# Setup scene:
 	scene = hg.Scene()
@@ -132,9 +132,10 @@ while not end_game:
 	collected_all_coins = False
 	level_done = False
 	level_restart = False
+	reset_game = False
 	not_dead = False
 	restart_timer = 5
-
+	level_name = levels[compteur]['level']
 	# world
 	#music
 	current_music_ref = hg.LoadWAVSoundAsset(levels[level_idx]['music'])
@@ -249,7 +250,6 @@ while not end_game:
 	physics.SceneCreatePhysicsFromAssets(scene)
 
 	frame = 0
-
 	while not end_game and not level_done:
 		view_id = 0
 		pass_id = 0
@@ -263,10 +263,12 @@ while not end_game:
 			aaa_rendering = not aaa_rendering
 
 		if keyboard.Pressed(hg.K_R):
-			level_restart = True
-			not_dead = True
-
-
+			if level_name == 'assets/titles/victory.scn':
+				level_restart = True
+				reset_game = True
+			else:	 
+				level_restart = True
+				not_dead = True
 
 		dt = hg.TickClock()
 		dt_history.append(hg.time_to_sec_f(dt))
@@ -456,6 +458,7 @@ while not end_game:
 				if hg.Dist(hg.GetTranslation(_pod_world), end_pos) < 5.0:
 					hg.StopSource(current_music_source)
 					level_done = True
+					compteur += 1
 					level_idx += 1
 
 		# scene.Update(dt)
@@ -465,31 +468,44 @@ while not end_game:
 
 		else:
 			view_id, pass_id = hg.SubmitSceneToPipeline(view_id, scene, hg.IntRect(0, 0, res_x, res_y), True, pipeline, res)
+
 		vid_scene_opaque = hg.GetSceneForwardPipelinePassViewId(pass_id, hg.SFPP_Opaque)
 
 		view_id_scene_alpha = hg.GetSceneForwardPipelinePassViewId(pass_id, hg.SFPP_Transparent)
 		engine_particles = UpdateParticleSystem(engine_particles, render_state_quad_occluded, dtsmooth, cam_rot, view_id_scene_alpha, vtx_layout_particles, texture_smoke)
 
-		# on-screen usage text
+		view_id = 5
 		hg.SetView2D(view_id, 0, 0, res_x, res_y, -1, 1, hg.CF_Depth, hg.Color.Black, 1, 0)
-		if aaa_rendering:
-			DrawTextShadow(view_id, font, 'Render : AAA (K to Switch)', font_program, hg.Vec3(200, res_y - 120, 0), text_uniform_values, text_render_state)
-		else: 
-			DrawTextShadow(view_id, font, 'Render : Basic (K to Switch)', font_program, hg.Vec3(200, res_y - 120, 0), text_uniform_values, text_render_state)
 
-		DrawTextShadow(view_id, font, 'Time factor: %f' % time_factor, font_program, hg.Vec3(200, res_y - 80, 0), text_uniform_values, text_render_state)
-		DrawTextShadow(view_id, font, 'Level %d' % (level_idx + 1), font_program, hg.Vec3(200, res_y - 40, 0), text_uniform_values, text_render_state)
+		# on-screen usage text
+		if(level_name == 'assets/titles/victory.scn'):
+			hg.DrawText(view_id, font, 'Restart game : Press R', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+		else:
+			if aaa_rendering:
+				hg.DrawText(view_id, font, 'Render : AAA (K to Switch)', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			else: 
+				hg.DrawText(view_id, font, 'Render : Basic (K to Switch)', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+
+			hg.DrawText(view_id, font, 'Restart Level: Press R', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 120, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			hg.DrawText(view_id, font, 'Time factor: %f' % time_factor, font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 80, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			hg.DrawText(view_id, font, 'Level %d' % (level_idx + 1), font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 40, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+		
 		if life < 1 or fuel < 1:
 			if velocity < 0.03:
 				level_restart = True
 				hg.PlayStereo(game_over_ref, source_state)
-		
-		if level_restart == True and not_dead == True:
-			DrawTextShadow(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), text_uniform_values, text_render_state)
+
+		if level_restart and reset_game:
+			levels.append(reset_levels)
+			level_done = True
+			compteur = 0
+			level_idx = 0
+		if level_restart == True and not_dead == True and reset_game == False:
+			hg.DrawText(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
 			restart_timer -= dtsmooth
-		if level_restart == True and restart_timer > 0 and not_dead == False:
-			DrawTextShadow(view_id, font, 'GAME OVER', font_program, hg.Vec3(res_x / 2, res_y / 2, 0), text_uniform_values, text_render_state)
-			DrawTextShadow(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), text_uniform_values, text_render_state)
+		if level_restart == True and restart_timer > 0 and not_dead == False and reset_game == False:
+			hg.DrawText(view_id, font, 'GAME OVER', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			hg.DrawText(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
 			restart_timer -= dtsmooth
 
 		elif restart_timer < 0:
