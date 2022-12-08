@@ -332,7 +332,7 @@ while not end_game:
 				hg.SetSourceVolume(dirty_thrust_source, 1 - dirty_thrust_ratio)
 
 			# up
-			if thrust_up:
+			if thrust_up or (thrust_left and thrust_right):
 				physics.NodeAddForce(pod_master, hg.MakeVec3(hg.GetRow(_pod_world, 1) * pod_thrust), hg.GetTranslation(_pod_world))
 				flame_item_l.Enable()
 				flame_item_r.Enable()
