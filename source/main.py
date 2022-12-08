@@ -13,8 +13,6 @@ from particles import InitParticle, UpdateParticleSystem
 level_idx = 0
 consumption = 2.5
 
-print(levels)
-
 hg.InputInit()
 hg.AudioInit()
 hg.WindowSystemInit()
@@ -103,7 +101,9 @@ mouse = hg.Mouse()
 end_game = False
 aaa_rendering = False
 levels.append({"level" :"assets/titles/victory.scn", "music": "audio/music/children_of_science.wav", "background": "assets/background_1.scn"})
-
+reset_levels = levels
+number_levels = len(levels)
+compteur = 0
 while not end_game:
 	# Setup scene:
 	scene = hg.Scene()
@@ -123,9 +123,10 @@ while not end_game:
 	collected_all_coins = False
 	level_done = False
 	level_restart = False
+	reset_game = False
 	not_dead = False
 	restart_timer = 5
-
+	level_name = levels[compteur]['level']
 	# world
 	#music
 	current_music_ref = hg.LoadWAVSoundAsset(levels[level_idx]['music'])
@@ -234,7 +235,6 @@ while not end_game:
 	physics.SceneCreatePhysicsFromAssets(scene)
 
 	frame = 0
-
 	while not end_game and not level_done:
 		view_id = 0
 		pass_id = 0
@@ -248,10 +248,12 @@ while not end_game:
 			aaa_rendering = not aaa_rendering
 
 		if keyboard.Pressed(hg.K_R):
-			level_restart = True
-			not_dead = True
-
-
+			if level_name == 'assets/titles/victory.scn':
+				level_restart = True
+				reset_game = True
+			else:	 
+				level_restart = True
+				not_dead = True
 
 		dt = hg.TickClock()
 		dt_history.append(hg.time_to_sec_f(dt))
@@ -428,6 +430,7 @@ while not end_game:
 				if hg.Dist(hg.GetTranslation(_pod_world), end_pos) < 5.0:
 					hg.StopSource(current_music_source)
 					level_done = True
+					compteur += 1
 					level_idx += 1
 
 		# scene.Update(dt)
@@ -456,11 +459,17 @@ while not end_game:
 			if velocity < 0.03:
 				level_restart = True
 				hg.PlayStereo(game_over_ref, source_state)
-		
-		if level_restart == True and not_dead == True:
+
+		if level_restart and reset_game:
+			levels.append(reset_levels)
+			hg.StopSource(current_music_source)
+			level_done = True
+			compteur = 0
+			level_idx = 0
+		if level_restart == True and not_dead == True and reset_game == False:
 			hg.DrawText(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
 			restart_timer -= dtsmooth
-		if level_restart == True and restart_timer > 0 and not_dead == False:
+		if level_restart == True and restart_timer > 0 and not_dead == False and reset_game == False:
 			hg.DrawText(view_id, font, 'GAME OVER', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
 			hg.DrawText(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
 			restart_timer -= dtsmooth
