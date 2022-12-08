@@ -24,8 +24,30 @@
 			255
 		],
 		"fog_far": 0.0,
-		"fog_near": 0.0
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
 	},
+	"key_values": null,
 	"nodes": [
 		{
 			"components": [
@@ -35,6 +57,7 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 0,
 			"name": "rotary_gate_0"
 		},
@@ -46,6 +69,7 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 1,
 			"name": "jawgate_top"
 		},
@@ -57,6 +81,7 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 2,
 			"name": "jawgate_bottom"
 		},
@@ -68,6 +93,7 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 3,
 			"name": "rotary_gate_slot"
 		},
@@ -79,6 +105,7 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 4,
 			"name": "fx_plane"
 		},
@@ -90,6 +117,7 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 5,
 			"name": "body_capsule_foot"
 		},
@@ -101,6 +129,7 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 6,
 			"name": "body_capsule_edge"
 		},
@@ -112,6 +141,7 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 7,
 			"name": "homing_mine"
 		},
@@ -123,12 +153,14 @@
 				4294967295,
 				4294967295
 			],
+			"disabled": false,
 			"idx": 8,
 			"name": "bonus_coin"
 		}
 	],
 	"objects": [
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "mobile_rotary"
@@ -139,20 +171,17 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"textures": [
 						{
 							"name": "uDiffuseMap",
-							"stage": 0,
-							"texture": {
-								"flags": 0,
-								"name": "assets/mobiles_items/rotary_gate_color.png"
-							}
+							"path": "assets/mobiles_items/rotary_gate_color.png",
+							"stage": 0
 						}
 					],
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -163,7 +192,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -174,7 +202,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -195,6 +222,7 @@
 			"name": "assets/mobiles_items/rotary_gate_0.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "jawgate_metal"
@@ -211,10 +239,10 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -225,7 +253,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -236,7 +263,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -257,10 +283,10 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -271,7 +297,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -282,7 +307,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -303,10 +327,10 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -317,7 +341,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -328,7 +351,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -349,6 +371,7 @@
 			"name": "assets/mobiles_items/jawgate_top.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "jawgate_metal"
@@ -365,10 +388,10 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -379,7 +402,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -390,7 +412,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -411,10 +432,10 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -425,7 +446,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -436,7 +456,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -457,10 +476,10 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -471,7 +490,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -482,7 +500,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -503,6 +520,7 @@
 			"name": "assets/mobiles_items/jawgate_bottom.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "mobile_rotary"
@@ -513,20 +531,17 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"textures": [
 						{
 							"name": "uDiffuseMap",
-							"stage": 0,
-							"texture": {
-								"flags": 0,
-								"name": "assets/mobiles_items/rotary_gate_color.png"
-							}
+							"path": "assets/mobiles_items/rotary_gate_color.png",
+							"stage": 0
 						}
 					],
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -537,7 +552,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -548,7 +562,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -569,6 +582,7 @@
 			"name": "assets/mobiles_items/rotary_gate_slot.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "fx_plane"
@@ -579,20 +593,17 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"textures": [
 						{
 							"name": "uDiffuseMap",
-							"stage": 0,
-							"texture": {
-								"flags": 0,
-								"name": "assets/mobiles_items/item_taken_feedback.jpg"
-							}
+							"path": "assets/mobiles_items/item_taken_feedback.jpg",
+							"stage": 0
 						}
 					],
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -603,7 +614,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -614,7 +624,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -635,6 +644,7 @@
 			"name": "assets/mobiles_items/fx_plane.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "capsule_metal"
@@ -648,20 +658,17 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"textures": [
 						{
 							"name": "uDiffuseMap",
-							"stage": 0,
-							"texture": {
-								"flags": 0,
-								"name": "assets/mobiles_items/capsule_diffuse.jpg"
-							}
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
 						}
 					],
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -672,7 +679,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -683,7 +689,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -704,28 +709,22 @@
 					"blend_mode": "alpha",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"textures": [
 						{
 							"name": "uDiffuseMap",
-							"stage": 0,
-							"texture": {
-								"flags": 0,
-								"name": "assets/mobiles_items/capsule_icon_foot.png"
-							}
+							"path": "assets/mobiles_items/capsule_icon_foot.png",
+							"stage": 0
 						},
 						{
 							"name": "uOpacityMap",
-							"stage": 5,
-							"texture": {
-								"flags": 0,
-								"name": "assets/mobiles_items/capsule_icon_foot.png"
-							}
+							"path": "assets/mobiles_items/capsule_icon_foot.png",
+							"stage": 5
 						}
 					],
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -736,7 +735,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -747,7 +745,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -768,6 +765,7 @@
 			"name": "assets/mobiles_items/body_capsule_foot.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "Standard_22"
@@ -778,10 +776,10 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -792,7 +790,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -803,7 +800,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -824,6 +820,7 @@
 			"name": "assets/mobiles_items/body_capsule_edge.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "capsule_metal"
@@ -837,20 +834,17 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"textures": [
 						{
 							"name": "uDiffuseMap",
-							"stage": 0,
-							"texture": {
-								"flags": 0,
-								"name": "assets/mobiles_items/capsule_diffuse.jpg"
-							}
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
 						}
 					],
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -861,7 +855,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -872,7 +865,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -893,10 +885,10 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -907,7 +899,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -918,7 +909,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -939,6 +929,7 @@
 			"name": "assets/mobiles_items/homing_mine.geo"
 		},
 		{
+			"bones": [],
 			"material_infos": [
 				{
 					"name": "bonus_coin"
@@ -949,20 +940,17 @@
 					"blend_mode": "opaque",
 					"depth_test": "less",
 					"face_culling": "cw",
+					"flags": [],
 					"program": "core/shader/default.hps",
 					"textures": [
 						{
 							"name": "uDiffuseMap",
-							"stage": 0,
-							"texture": {
-								"flags": 0,
-								"name": "assets/mobiles_items/coin_color.png"
-							}
+							"path": "assets/mobiles_items/coin_color.png",
+							"stage": 0
 						}
 					],
 					"values": [
 						{
-							"count": 1,
 							"name": "uDiffuseColor",
 							"type": "vec4",
 							"value": [
@@ -973,7 +961,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSelfColor",
 							"type": "vec4",
 							"value": [
@@ -984,7 +971,6 @@
 							]
 						},
 						{
-							"count": 1,
 							"name": "uSpecularColor",
 							"type": "vec4",
 							"value": [
@@ -1014,7 +1000,7 @@
 				0.0
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
@@ -1032,7 +1018,7 @@
 				0.0
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
@@ -1050,7 +1036,7 @@
 				0.0
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
@@ -1068,7 +1054,7 @@
 				0.0
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
@@ -1086,7 +1072,7 @@
 				0.0
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
@@ -1104,7 +1090,7 @@
 				0.0
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
@@ -1122,7 +1108,7 @@
 				0.0
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
@@ -1145,9 +1131,9 @@
 				0.0
 			],
 			"scl": [
-				1.0,
-				1.0590579509735107,
-				1.0
+				4.0,
+				4.0,
+				4.0
 			]
 		},
 		{
@@ -1158,7 +1144,7 @@
 				-0.013966817408800125
 			],
 			"rot": [
-				-7.016708279672639e-15,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],
