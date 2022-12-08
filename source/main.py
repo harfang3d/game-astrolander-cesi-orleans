@@ -506,6 +506,7 @@ while not end_game:
 		if level_restart and reset_game:
 			levels.append(reset_levels)
 			level_done = True
+			hg.StopSource(current_music_source)
 			compteur = 0
 			level_idx = 0
 		if level_restart == True and not_dead == True and reset_game == False:
