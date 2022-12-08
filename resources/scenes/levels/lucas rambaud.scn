@@ -4388,7 +4388,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 266,
+			"idx": 497,
 			"name": "bonus_heal"
 		},
 		{
@@ -4400,7 +4400,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 267,
+			"idx": 498,
 			"instance": 236,
 			"name": "Coin"
 		},
@@ -4413,7 +4413,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 268,
+			"idx": 500,
 			"instance": 235,
 			"name": "Coin"
 		},
@@ -4426,7 +4426,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 269,
+			"idx": 502,
 			"instance": 234,
 			"name": "Coin"
 		},
@@ -4439,7 +4439,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 270,
+			"idx": 504,
 			"instance": 233,
 			"name": "Coin"
 		},
@@ -4452,212 +4452,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 271,
+			"idx": 506,
 			"name": "bonus_fuel"
-		},
-		{
-			"components": [
-				288,
-				4294967295,
-				76,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 509,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				272,
-				4294967295,
-				60,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 510,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				273,
-				4294967295,
-				61,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 511,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				274,
-				4294967295,
-				62,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 512,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				275,
-				4294967295,
-				63,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 513,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				276,
-				4294967295,
-				64,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 514,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				277,
-				4294967295,
-				65,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 515,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				278,
-				4294967295,
-				66,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 516,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				279,
-				4294967295,
-				67,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 517,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				280,
-				4294967295,
-				68,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 518,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				281,
-				4294967295,
-				69,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 519,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				282,
-				4294967295,
-				70,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 520,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				283,
-				4294967295,
-				71,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 521,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				284,
-				4294967295,
-				72,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 522,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				285,
-				4294967295,
-				73,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 523,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				286,
-				4294967295,
-				74,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 524,
-			"name": "bonus_damage"
-		},
-		{
-			"components": [
-				287,
-				4294967295,
-				75,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 525,
-			"name": "bonus_damage"
 		}
 	],
 	"objects": [
@@ -9947,1060 +9743,6 @@
 				}
 			],
 			"name": "assets/bonus/bonus_fuel.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": ""
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/default.hps",
-					"textures": [
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/bonus/bonus_damage.jpg",
-							"stage": 0
-						}
-					],
-					"values": [
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.699999988079071,
-								0.699999988079071,
-								0.699999988079071,
-								0.10000000149011612
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/bonus/bonus_damage.geo"
 		}
 	],
 	"transforms": [
@@ -11697,7 +10439,7 @@
 			],
 			"rot": [
 				21.08810806274414,
-				13.79854679107666,
+				13.798547744750977,
 				-2.6659447485144483e-06
 			],
 			"scl": [
@@ -11751,7 +10493,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-3.7915141594495084e-22,
+				-3.791514411884998e-22,
 				0.0
 			],
 			"scl": [
@@ -11769,7 +10511,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-3.7915141594495084e-22,
+				-3.791514411884998e-22,
 				0.0
 			],
 			"scl": [
@@ -11786,9 +10528,9 @@
 				0.0
 			],
 			"rot": [
-				28.647871017456055,
+				28.647872924804688,
 				33.804508209228516,
-				-6.875488758087158
+				-6.875489234924316
 			],
 			"scl": [
 				1.0,
@@ -11823,7 +10565,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-3.7915141594495084e-22,
+				-3.791514411884998e-22,
 				0.0
 			],
 			"scl": [
@@ -12164,9 +10906,9 @@
 				-1.0528576694923686e-06
 			],
 			"rot": [
-				-5.008955668017734e-06,
+				-5.008956122765085e-06,
 				5.008955668017734e-06,
-				-89.9999771118164
+				-89.99998474121094
 			],
 			"scl": [
 				0.9999998807907104,
@@ -12591,8 +11333,8 @@
 		{
 			"parent": null,
 			"pos": [
-				100.11641693115234,
-				78.6561279296875,
+				97.4415512084961,
+				78.81982421875,
 				0.2768995761871338
 			],
 			"rot": [
@@ -12609,7 +11351,7 @@
 		{
 			"parent": null,
 			"pos": [
-				103.5199966430664,
+				102.13341522216797,
 				78.741943359375,
 				0.0
 			],
@@ -13095,8 +11837,8 @@
 		{
 			"parent": null,
 			"pos": [
-				198.29930114746094,
-				121.08919525146484,
+				197.47059631347656,
+				122.2823486328125,
 				0.2768995761871338
 			],
 			"rot": [
@@ -13190,8 +11932,8 @@
 				-0.4409318268299103
 			],
 			"rot": [
-				89.99996948242188,
-				-8.570196012277001e-14,
+				89.9999771118164,
+				-8.570196689903359e-14,
 				-90.0
 			],
 			"scl": [
@@ -13677,7 +12419,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-5.6872736373114145e-22,
+				-5.687274142182394e-22,
 				27.000001907348633
 			],
 			"scl": [
@@ -13767,7 +12509,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-5.687279190892187e-22,
+				-5.687279695763167e-22,
 				-60.0
 			],
 			"scl": [
@@ -14073,7 +12815,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-5.687240315826778e-22,
+				-5.687240820697757e-22,
 				-27.000001907348633
 			],
 			"scl": [
@@ -14361,7 +13103,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-4.519839199182911e-29,
+				-4.519839500109465e-29,
 				90.0
 			],
 			"scl": [
@@ -14396,8 +13138,8 @@
 				2.694053086762767e-15
 			],
 			"rot": [
-				-7.0167078561561656e-15,
-				-9.039678398365822e-29,
+				-7.016708279672639e-15,
+				-9.03967900021893e-29,
 				90.0
 			],
 			"scl": [
@@ -14500,7 +13242,7 @@
 			"parent": null,
 			"pos": [
 				210.75132751464844,
-				157.29452514648438,
+				156.06430053710938,
 				0.0
 			],
 			"rot": [
@@ -14954,9 +13696,9 @@
 				-0.19072982668876648
 			],
 			"rot": [
-				-7.243932884808102e-19,
-				-179.9999542236328,
-				-179.9999542236328
+				-7.243933401795985e-19,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999990463256836,
@@ -14972,9 +13714,9 @@
 				-0.19076034426689148
 			],
 			"rot": [
-				3.2568836950269686e-12,
+				3.256883911867403e-12,
 				-179.99989318847656,
-				-152.9999542236328
+				-152.99996948242188
 			],
 			"scl": [
 				0.9999988079071045,
@@ -14990,9 +13732,9 @@
 				-0.19072982668876648
 			],
 			"rot": [
-				-1.1827863850701868e-18,
-				-179.9999542236328,
-				-179.9999542236328
+				-1.1827864884677634e-18,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999988079071045,
@@ -15008,9 +13750,9 @@
 				-0.1907317340373993
 			],
 			"rot": [
-				-1.957982004846707e-18,
-				-179.9999542236328,
-				-179.9999542236328
+				-1.95798221164186e-18,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999983310699463,
@@ -15045,7 +13787,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -15064,7 +13806,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999995827674866,
@@ -15075,19 +13817,19 @@
 		{
 			"parent": null,
 			"pos": [
-				208.67327880859375,
-				152.8988037109375,
-				-1.8507305687975872e-09
+				208.6762237548828,
+				153.62020874023438,
+				-1.4882543087005615
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
-				1.0999987125396729,
+				1.0999990701675415,
 				1.100000023841858,
-				1.0999987125396729
+				1.0999990701675415
 			]
 		},
 		{
@@ -15135,7 +13877,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -15189,7 +13931,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -15208,7 +13950,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999997019767761,
@@ -15224,8 +13966,8 @@
 				-0.18354487419128418
 			],
 			"rot": [
-				1.8513261359853204e-25,
-				-179.9999542236328,
+				1.8513262592448368e-25,
+				-179.99996948242188,
 				179.99989318847656
 			],
 			"scl": [
@@ -15243,7 +13985,7 @@
 			],
 			"rot": [
 				-5.694518648956064e-19,
-				-179.9999542236328,
+				-179.99996948242188,
 				179.99989318847656
 			],
 			"scl": [
@@ -15261,7 +14003,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -15279,7 +14021,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -15297,7 +14039,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -15314,9 +14056,9 @@
 				-0.19072982668876648
 			],
 			"rot": [
-				-1.29788226005477e-18,
-				-179.9999542236328,
-				-179.9999542236328
+				-1.2978823634523465e-18,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999986886978149,
@@ -15352,7 +14094,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999996423721313,
@@ -15370,7 +14112,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999997019767761,
@@ -15423,7 +14165,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.9999542236328,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -15441,8 +14183,8 @@
 			],
 			"rot": [
 				-9.89354127932571e-19,
-				-179.9999542236328,
-				-179.9999542236328
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.999998927116394,
@@ -15478,7 +14220,7 @@
 			"rot": [
 				-9.89354127932571e-19,
 				-1.2099214212168045e-32,
-				-179.99993896484375
+				-179.9999542236328
 			],
 			"scl": [
 				0.9999988079071045,
@@ -15496,7 +14238,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999997019767761,
@@ -15514,7 +14256,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999996423721313,
@@ -15532,7 +14274,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999996423721313,
@@ -15550,7 +14292,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999993443489075,
@@ -15567,8 +14309,8 @@
 			],
 			"rot": [
 				-3.559077063654381e-20,
-				-179.9999542236328,
-				-179.9999542236328
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999998807907104,
@@ -15657,7 +14399,7 @@
 			],
 			"rot": [
 				2.588127129202095e-20,
-				-179.9999542236328,
+				-179.99996948242188,
 				90.0
 			],
 			"scl": [
@@ -15676,7 +14418,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.9999542236328
+				179.99996948242188
 			],
 			"scl": [
 				0.9999998211860657,
@@ -15746,7 +14488,7 @@
 				-0.010535240173339844
 			],
 			"rot": [
-				89.99996948242188,
+				89.9999771118164,
 				0.0,
 				0.0
 			],
@@ -15872,9 +14614,9 @@
 				-0.19072410464286804
 			],
 			"rot": [
-				-2.3629594997901655e-18,
+				-2.3629597065853186e-18,
 				0.0,
-				-179.99993896484375
+				-179.9999542236328
 			],
 			"scl": [
 				0.9999982118606567,
@@ -15892,318 +14634,12 @@
 			"rot": [
 				-5.008955668017734e-06,
 				0.0,
-				-89.99994659423828
+				-89.99995422363281
 			],
 			"scl": [
 				0.9999994039535522,
 				0.9999994039535522,
 				0.9999998807907104
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				104.2191390991211,
-				0.01313161849975586,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				129.7294921875,
-				29.6805419921875,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				97.27704620361328,
-				78.67505645751953,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				192.0921630859375,
-				103.32405090332031,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				197.75149536132813,
-				124.24198150634766,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				210.97091674804688,
-				154.19049072265625,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				177.6665802001953,
-				47.82938766479492,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				185.2052459716797,
-				-0.9706668853759766,
-				3.814697265625e-06
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				182.1641387939453,
-				-19.74345588684082,
-				3.814697265625e-06
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				158.00070190429688,
-				-48.478248596191406,
-				3.814697265625e-06
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				132.7972869873047,
-				-28.614580154418945,
-				-0.00046231021406129
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				99.52333068847656,
-				-28.51047706604004,
-				-0.00046231021406129
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				41.74125289916992,
-				-18.963151931762695,
-				-0.00046231021406129
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				61.25175857543945,
-				-62.35118865966797,
-				-0.00046231021406129
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				79.41546630859375,
-				-46.3389892578125,
-				-0.00046231021406129
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				41.967716217041016,
-				-46.47704315185547,
-				-0.00046231021406129
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				41.77308654785156,
-				-1.5869860649108887,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
 			]
 		}
 	]
