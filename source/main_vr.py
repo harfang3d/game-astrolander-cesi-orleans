@@ -8,7 +8,8 @@ from gameplay import test_pos_vs_nodes_table
 from levels import *
 from utils import clamp, range_adjust
 from statistics import mean
-from particles import InitParticle, UpdateParticleSystem
+from particles import InitParticle, UpdateParticleSystem, UpdateBlockParticleSystem
+from math import cos, sin
 import sys
 
 level_idx = 0
@@ -174,6 +175,16 @@ end_game = False
 aaa_rendering = True
 levels.append({"level" :"assets/titles/victory.scn", "music": "audio/music/children_of_science.wav", "background": "assets/background_1.scn"})
 
+
+def DrawTextShadow(_view_id, _font, _str, _font_program, _pos, _text_uniform_values, _text_render_state):
+	for a in range(0, 360, 10):
+		_offset = hg.Vec3(cos(a), sin(a), 0) * 1.5
+		hg.DrawText(_view_id, _font, _str, _font_program, 'u_tex', 0, hg.Mat4.Identity, _pos + _offset, hg.DTHA_Left, hg.DTVA_Bottom, [hg.MakeUniformSetValue('u_color', hg.Vec4(0,0,0,0.1))], [], _text_render_state)
+	hg.DrawText(_view_id, _font, _str, _font_program, 'u_tex', 0, hg.Mat4.Identity, _pos, hg.DTHA_Left, hg.DTVA_Bottom, _text_uniform_values, [], _text_render_state)
+
+reset_levels = levels
+number_levels = len(levels)
+compteur = 0
 while not end_game:
 	# Setup scene:
 	scene = hg.Scene()
@@ -188,12 +199,30 @@ while not end_game:
 	hg.LoadSceneFromAssets("assets/pod/pod.scn", scene, res, hg.GetForwardPipelineInfo())
 	fuel = 100.0
 	life = 100.0
+	time_factor = 1.0
 	collected_all_coins = False
 	level_done = False
 	level_restart = False
+	reset_game = False
+	not_dead = False
 	restart_timer = 5
-
+	level_name = levels[compteur]['level']
 	# world
+	#music
+	current_music_ref = hg.LoadWAVSoundAsset(levels[level_idx]['music'])
+	music_source_state = hg.StereoSourceState(0.7, hg.SR_Loop)
+	current_music_source = hg.PlayStereo(current_music_ref, music_source_state)
+
+	#sound
+	if "sfx_collision" in levels[level_idx]:
+		collision_ref = hg.LoadWAVSoundAsset(levels[level_idx]['sfx_collision'])
+	else:
+		collision_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_metal_col_0.wav")
+	if "sfx_coin" in levels[level_idx]:
+		collect_coin_ref = hg.LoadWAVSoundAsset(levels[level_idx]['sfx_coin'])
+	else:
+		collect_coin_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_got_item.wav")
+
 	# background
 	hg.LoadSceneFromAssets(levels[level_idx]['background'], scene, res, hg.GetForwardPipelineInfo())
 
@@ -211,10 +240,18 @@ while not end_game:
 	coins = []
 	bonus_life = []
 	bonus_fuel = []
+	bonus_donuts = []
+	bomb_homing = []
+	bonus_slow_clock = []
+	bonus_fast_clock = []
+	bonus_damage = []
+	bonus_damage_particles = []
 	engine_particles = []
 	coll_nodes = []
 	target_tex, _ = hg.LoadTextureFromAssets("assets/pod/touch_feedback.png", 0)
+	fire_tex, _ = hg.LoadTextureFromAssets("assets/pod/explosion.png", 0)
 	texture_smoke = hg.MakeUniformSetTexture("s_texTexture", target_tex, 0)
+	texture_fire = hg.MakeUniformSetTexture("s_texTexture", fire_tex, 0)
 	coll_id = 0
 	for i in range(nodes.size()):
 		nd = nodes.at(i)
@@ -228,6 +265,18 @@ while not end_game:
 			coins.append({"node": nd, "pos": nd.GetTransform().GetPos()})
 		if nd.HasObject() and nd.GetName().lower() == "bonus_fuel":
 			bonus_fuel.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.GetName().lower() == "donuts":
+			bonus_donuts.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.GetName().lower() == "homing_mine":
+			bomb_homing.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.HasObject() and nd.GetName().lower() == "bonus_heal":
+			bonus_life.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.HasObject() and nd.GetName().lower() == "bonus_slow_clock":
+			bonus_slow_clock.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.HasObject() and nd.GetName().lower() == "bonus_fast_clock":
+			bonus_fast_clock.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.HasObject() and nd.GetName().lower() == "bonus_damage":
+			bonus_damage.append({"node": nd, "pos": nd.GetTransform().GetPos()})
 
 	pod_bbox = hg.Vec3(3.0, 4.0, 2.0)
 
@@ -303,6 +352,14 @@ while not end_game:
 		if keyboard.Pressed(hg.K_K):
 			aaa_rendering = not aaa_rendering
 
+		if keyboard.Pressed(hg.K_R):
+			if level_name == 'assets/titles/victory.scn':
+				level_restart = True
+				reset_game = True
+			else:	 
+				level_restart = True
+				not_dead = True
+
 		dt = hg.TickClock()
 		dt_history.append(hg.time_to_sec_f(dt))
 		if len(dt_history) > 120:
@@ -329,7 +386,7 @@ while not end_game:
 		
 
 		cam_target = hg.GetT(_pod_world) * hg.Vec3(1.0, 1.0, 0.0) + cam_pos * hg.Vec3(0.0, 0.0, 1.0)
-		cam_target += physics.NodeGetLinearVelocity(pod_master) * hg.Vec3(1.0, 1.0, 0.0)
+		cam_target += physics.NodeGetLinearVelocity(pod_master) * hg.Vec3(1.0, 1.0, 0.0) * time_factor * 2.0
 		cam_pos = hg.Lerp(cam_pos, cam_target, dtsmooth * 0.5)
 		cam.GetTransform().SetPos(cam_pos)
 
@@ -449,19 +506,75 @@ while not end_game:
 
 			if len(coins) <= 0:
 				collected_all_coins = True
-
+		# get a heal bonus
+		heal_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_life, 2.5)
+		if heal_hit > -1:
+			# print(heal_hit)
+			bonus_life[heal_hit]["node"].Disable()
+			life = 100
 		# get a fuel bonus
 		fuel_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_fuel, 2.5)
 		if fuel_hit > -1:
 			# print(fuel_hit)
 			bonus_fuel[fuel_hit]["node"].Disable()
 			fuel = 100
+		# get a full bonus bomb_homing
+		donuts_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_donuts, 2.5)
+		if donuts_hit > -1:
+			# print(donuts_hit)
+			bonus_donuts[donuts_hit]["node"].Disable()
+			fuel = 100
+			life = 100
+		# homing mine dmg 
+		homing_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bomb_homing, 2.5)
+		if homing_hit > -1:
+			# print(homing_hit)
+			bomb_homing[homing_hit]["node"].Disable()
+			life = life - 80
+		# get a slow clock bonus
+		slow_clock_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_slow_clock, 2.5)
+		if slow_clock_hit > -1:
+			# print(slow_clock_hit)
+			bonus_slow_clock[slow_clock_hit]["node"].Disable()
+			time_factor /= 1.5
+		# get a fast clock bonus
+		fast_clock_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_fast_clock, 2.5)
+		if fast_clock_hit > -1:
+			# print(fast_clock_hit)
+			bonus_fast_clock[fast_clock_hit]["node"].Disable()
+			time_factor *= 1.5
+
+		# take damages on bonus_damage
+		damage_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_damage, 2.5)
+		if damage_hit > -1:
+			# print(fast_clock_hit)
+			life -= 10
+			InitParticle(bonus_damage_particles, bonus_damage[damage_hit]["pos"], 10, shader_texture, hg.Vec3(random_scale, random_scale, random_scale))
+			for x in range(0, 10):
+				bonus_damage_particles = UpdateBlockParticleSystem(bonus_damage_particles, render_state_quad_occluded, dtsmooth, cam_rot, view_id_scene_alpha, vtx_layout_particles, texture_fire)
+			bonus_damage[damage_hit]["node"].Disable()
+			bonus_damage_particles = []
+
+			# adding force vector tu push the pod
+			pushInX = 0
+			pushInY = 0
+			if hg.GetTranslation(_pod_world).y - bonus_damage[damage_hit]["pos"].y > 1:
+				pushInY = 100
+			if hg.GetTranslation(_pod_world).y - bonus_damage[damage_hit]["pos"].y < -1:
+				pushInY = -200
+			if hg.GetTranslation(_pod_world).x - bonus_damage[damage_hit]["pos"].x > 1:
+				pushInX = 100
+			if hg.GetTranslation(_pod_world).x - bonus_damage[damage_hit]["pos"].x < -1:
+				pushInX = -100
+			physics.NodeAddImpulse(pod_master, hg.Vec3(pushInX, pushInY, 0))
 
 
 		if collected_all_coins and life > 0:
 			if velocity < 0.1:
 				if hg.Dist(hg.GetTranslation(_pod_world), end_pos) < 5.0:
+					hg.StopSource(current_music_source)
 					level_done = True
+					compteur += 1
 					level_idx += 1
 
 		# scene.Update(dt)
