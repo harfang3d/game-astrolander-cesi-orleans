@@ -440,21 +440,28 @@ while not end_game:
 
 		else:
 			view_id, pass_id = hg.SubmitSceneToPipeline(view_id, scene, hg.IntRect(0, 0, res_x, res_y), True, pipeline, res)
+
 		vid_scene_opaque = hg.GetSceneForwardPipelinePassViewId(pass_id, hg.SFPP_Opaque)
 
 		view_id_scene_alpha = hg.GetSceneForwardPipelinePassViewId(pass_id, hg.SFPP_Transparent)
 		engine_particles = UpdateParticleSystem(engine_particles, render_state_quad_occluded, dtsmooth, cam_rot, view_id_scene_alpha, vtx_layout_particles, texture_smoke)
 
-		# on-screen usage text
+		view_id = 5
 		hg.SetView2D(view_id, 0, 0, res_x, res_y, -1, 1, hg.CF_Depth, hg.Color.Black, 1, 0)
-		if aaa_rendering:
-			hg.DrawText(view_id, font, 'Render : AAA (K to Switch)', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
-		else: 
-			hg.DrawText(view_id, font, 'Render : Basic (K to Switch)', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
 
-		hg.DrawText(view_id, font, 'Restart Level: Press R', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 120, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
-		hg.DrawText(view_id, font, 'Time factor: %f' % time_factor, font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 80, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
-		hg.DrawText(view_id, font, 'Level %d' % (level_idx + 1), font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 40, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+		# on-screen usage text
+		if(level_name == 'assets/titles/victory.scn'):
+			hg.DrawText(view_id, font, 'Restart game : Press R', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+		else:
+			if aaa_rendering:
+				hg.DrawText(view_id, font, 'Render : AAA (K to Switch)', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			else: 
+				hg.DrawText(view_id, font, 'Render : Basic (K to Switch)', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+
+			hg.DrawText(view_id, font, 'Restart Level: Press R', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 120, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			hg.DrawText(view_id, font, 'Time factor: %f' % time_factor, font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 80, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			hg.DrawText(view_id, font, 'Level %d' % (level_idx + 1), font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 40, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+		
 		if life < 1 or fuel < 1:
 			if velocity < 0.03:
 				level_restart = True
@@ -462,7 +469,6 @@ while not end_game:
 
 		if level_restart and reset_game:
 			levels.append(reset_levels)
-			hg.StopSource(current_music_source)
 			level_done = True
 			compteur = 0
 			level_idx = 0
