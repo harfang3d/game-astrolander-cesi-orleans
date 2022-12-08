@@ -474,7 +474,7 @@ while not end_game:
 		view_id_scene_alpha = hg.GetSceneForwardPipelinePassViewId(pass_id, hg.SFPP_Transparent)
 		engine_particles = UpdateParticleSystem(engine_particles, render_state_quad_occluded, dtsmooth, cam_rot, view_id_scene_alpha, vtx_layout_particles, texture_smoke)
 
-		view_id = 5
+		view_id += 5
 		hg.SetView2D(view_id, 0, 0, res_x, res_y, -1, 1, hg.CF_Depth, hg.Color.Black, 1, 0)
 
 		# on-screen usage text
