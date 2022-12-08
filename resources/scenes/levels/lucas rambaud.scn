@@ -61,22 +61,6 @@
 	},
 	"instances": [
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
 			"anim": "rotation",
 			"loop_mode": "loop",
 			"name": "assets/coin.scn"
@@ -432,18 +416,6 @@
 			"name": "assets/coin.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x8.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x8.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
-		},
-		{
 			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
 		},
 		{
@@ -876,6 +848,42 @@
 		},
 		{
 			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
 		}
 	],
 	"key_values": null,
@@ -950,7 +958,7 @@
 			],
 			"disabled": false,
 			"idx": 0,
-			"instance": 55,
+			"instance": 51,
 			"name": "g_block_16x32"
 		},
 		{
@@ -963,7 +971,7 @@
 			],
 			"disabled": false,
 			"idx": 1,
-			"instance": 54,
+			"instance": 50,
 			"name": "g_block_16x32"
 		},
 		{
@@ -976,7 +984,7 @@
 			],
 			"disabled": false,
 			"idx": 2,
-			"instance": 51,
+			"instance": 47,
 			"name": "g_block_16x16"
 		},
 		{
@@ -989,7 +997,7 @@
 			],
 			"disabled": false,
 			"idx": 3,
-			"instance": 50,
+			"instance": 46,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1002,7 +1010,7 @@
 			],
 			"disabled": false,
 			"idx": 4,
-			"instance": 48,
+			"instance": 44,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1015,7 +1023,7 @@
 			],
 			"disabled": false,
 			"idx": 5,
-			"instance": 46,
+			"instance": 42,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1028,7 +1036,7 @@
 			],
 			"disabled": false,
 			"idx": 6,
-			"instance": 28,
+			"instance": 24,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1041,7 +1049,7 @@
 			],
 			"disabled": false,
 			"idx": 7,
-			"instance": 181,
+			"instance": 173,
 			"name": "g_block_4x8"
 		},
 		{
@@ -1054,7 +1062,7 @@
 			],
 			"disabled": false,
 			"idx": 8,
-			"instance": 53,
+			"instance": 49,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1067,7 +1075,7 @@
 			],
 			"disabled": false,
 			"idx": 9,
-			"instance": 52,
+			"instance": 48,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1080,7 +1088,7 @@
 			],
 			"disabled": false,
 			"idx": 10,
-			"instance": 49,
+			"instance": 45,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1093,7 +1101,7 @@
 			],
 			"disabled": false,
 			"idx": 11,
-			"instance": 47,
+			"instance": 43,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1106,7 +1114,7 @@
 			],
 			"disabled": false,
 			"idx": 12,
-			"instance": 210,
+			"instance": 202,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1119,7 +1127,7 @@
 			],
 			"disabled": false,
 			"idx": 13,
-			"instance": 183,
+			"instance": 175,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1132,7 +1140,7 @@
 			],
 			"disabled": false,
 			"idx": 14,
-			"instance": 212,
+			"instance": 204,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1145,7 +1153,7 @@
 			],
 			"disabled": false,
 			"idx": 15,
-			"instance": 209,
+			"instance": 201,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1158,7 +1166,7 @@
 			],
 			"disabled": false,
 			"idx": 16,
-			"instance": 208,
+			"instance": 200,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1171,7 +1179,7 @@
 			],
 			"disabled": false,
 			"idx": 17,
-			"instance": 43,
+			"instance": 39,
 			"name": "g_block_1x4"
 		},
 		{
@@ -1184,7 +1192,7 @@
 			],
 			"disabled": false,
 			"idx": 18,
-			"instance": 44,
+			"instance": 40,
 			"name": "g_block_1x1"
 		},
 		{
@@ -1197,7 +1205,7 @@
 			],
 			"disabled": false,
 			"idx": 19,
-			"instance": 45,
+			"instance": 41,
 			"name": "g_block_1x1"
 		},
 		{
@@ -1210,7 +1218,7 @@
 			],
 			"disabled": false,
 			"idx": 20,
-			"instance": 211,
+			"instance": 203,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1223,7 +1231,7 @@
 			],
 			"disabled": false,
 			"idx": 21,
-			"instance": 187,
+			"instance": 179,
 			"name": "g_block_4x8"
 		},
 		{
@@ -1236,7 +1244,7 @@
 			],
 			"disabled": false,
 			"idx": 22,
-			"instance": 207,
+			"instance": 199,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1249,7 +1257,7 @@
 			],
 			"disabled": false,
 			"idx": 23,
-			"instance": 184,
+			"instance": 176,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1262,7 +1270,7 @@
 			],
 			"disabled": false,
 			"idx": 24,
-			"instance": 27,
+			"instance": 23,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1275,7 +1283,7 @@
 			],
 			"disabled": false,
 			"idx": 25,
-			"instance": 185,
+			"instance": 177,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1288,7 +1296,7 @@
 			],
 			"disabled": false,
 			"idx": 26,
-			"instance": 186,
+			"instance": 178,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1301,7 +1309,7 @@
 			],
 			"disabled": false,
 			"idx": 27,
-			"instance": 213,
+			"instance": 205,
 			"name": "g_block_4x8"
 		},
 		{
@@ -1314,7 +1322,7 @@
 			],
 			"disabled": false,
 			"idx": 28,
-			"instance": 56,
+			"instance": 52,
 			"name": "Coin"
 		},
 		{
@@ -1327,7 +1335,7 @@
 			],
 			"disabled": false,
 			"idx": 29,
-			"instance": 57,
+			"instance": 53,
 			"name": "Coin"
 		},
 		{
@@ -1340,12 +1348,12 @@
 			],
 			"disabled": false,
 			"idx": 30,
-			"instance": 188,
+			"instance": 180,
 			"name": "Coin"
 		},
 		{
 			"components": [
-				246,
+				242,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1353,7 +1361,7 @@
 			],
 			"disabled": false,
 			"idx": 31,
-			"instance": 107,
+			"instance": 99,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -1366,7 +1374,7 @@
 			],
 			"disabled": false,
 			"idx": 32,
-			"instance": 189,
+			"instance": 181,
 			"name": "Coin"
 		},
 		{
@@ -1379,7 +1387,7 @@
 			],
 			"disabled": false,
 			"idx": 33,
-			"instance": 58,
+			"instance": 54,
 			"name": "Coin"
 		},
 		{
@@ -1392,7 +1400,7 @@
 			],
 			"disabled": false,
 			"idx": 34,
-			"instance": 225,
+			"instance": 217,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1405,7 +1413,7 @@
 			],
 			"disabled": false,
 			"idx": 35,
-			"instance": 226,
+			"instance": 218,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1418,7 +1426,7 @@
 			],
 			"disabled": false,
 			"idx": 36,
-			"instance": 59,
+			"instance": 55,
 			"name": "Coin"
 		},
 		{
@@ -1491,7 +1499,7 @@
 			],
 			"disabled": false,
 			"idx": 42,
-			"instance": 60,
+			"instance": 56,
 			"name": "g_block_8x8"
 		},
 		{
@@ -1504,7 +1512,7 @@
 			],
 			"disabled": false,
 			"idx": 43,
-			"instance": 61,
+			"instance": 57,
 			"name": "g_block_8x8"
 		},
 		{
@@ -1517,7 +1525,7 @@
 			],
 			"disabled": false,
 			"idx": 44,
-			"instance": 215,
+			"instance": 207,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1530,7 +1538,7 @@
 			],
 			"disabled": false,
 			"idx": 45,
-			"instance": 214,
+			"instance": 206,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1555,7 +1563,7 @@
 			],
 			"disabled": false,
 			"idx": 47,
-			"instance": 176,
+			"instance": 168,
 			"name": "prop_reservoir"
 		},
 		{
@@ -1568,7 +1576,7 @@
 			],
 			"disabled": false,
 			"idx": 48,
-			"instance": 177,
+			"instance": 169,
 			"name": "g_block_8x8"
 		},
 		{
@@ -1617,7 +1625,7 @@
 			],
 			"disabled": false,
 			"idx": 52,
-			"instance": 182,
+			"instance": 174,
 			"name": "Coin"
 		},
 		{
@@ -1630,7 +1638,7 @@
 			],
 			"disabled": false,
 			"idx": 53,
-			"instance": 220,
+			"instance": 212,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1643,7 +1651,7 @@
 			],
 			"disabled": false,
 			"idx": 54,
-			"instance": 7,
+			"instance": 3,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1656,7 +1664,7 @@
 			],
 			"disabled": false,
 			"idx": 55,
-			"instance": 222,
+			"instance": 214,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1669,7 +1677,7 @@
 			],
 			"disabled": false,
 			"idx": 56,
-			"instance": 223,
+			"instance": 215,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1682,7 +1690,7 @@
 			],
 			"disabled": false,
 			"idx": 57,
-			"instance": 224,
+			"instance": 216,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1707,7 +1715,7 @@
 			],
 			"disabled": false,
 			"idx": 59,
-			"instance": 62,
+			"instance": 58,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1720,7 +1728,7 @@
 			],
 			"disabled": false,
 			"idx": 60,
-			"instance": 63,
+			"instance": 59,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1733,7 +1741,7 @@
 			],
 			"disabled": false,
 			"idx": 61,
-			"instance": 64,
+			"instance": 60,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1746,7 +1754,7 @@
 			],
 			"disabled": false,
 			"idx": 62,
-			"instance": 65,
+			"instance": 61,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1759,7 +1767,7 @@
 			],
 			"disabled": false,
 			"idx": 63,
-			"instance": 66,
+			"instance": 62,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1772,7 +1780,7 @@
 			],
 			"disabled": false,
 			"idx": 64,
-			"instance": 67,
+			"instance": 63,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1785,12 +1793,12 @@
 			],
 			"disabled": false,
 			"idx": 65,
-			"instance": 68,
+			"instance": 64,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				247,
+				243,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1798,12 +1806,12 @@
 			],
 			"disabled": false,
 			"idx": 66,
-			"instance": 118,
+			"instance": 110,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				248,
+				244,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1811,12 +1819,12 @@
 			],
 			"disabled": false,
 			"idx": 67,
-			"instance": 115,
+			"instance": 107,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				234,
+				230,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1824,12 +1832,12 @@
 			],
 			"disabled": false,
 			"idx": 68,
-			"instance": 114,
+			"instance": 106,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				235,
+				231,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1837,7 +1845,7 @@
 			],
 			"disabled": false,
 			"idx": 69,
-			"instance": 117,
+			"instance": 109,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -1850,7 +1858,7 @@
 			],
 			"disabled": false,
 			"idx": 70,
-			"instance": 69,
+			"instance": 65,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1867,7 +1875,7 @@
 		},
 		{
 			"components": [
-				236,
+				232,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1875,7 +1883,7 @@
 			],
 			"disabled": false,
 			"idx": 72,
-			"instance": 141,
+			"instance": 133,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -1888,7 +1896,7 @@
 			],
 			"disabled": false,
 			"idx": 73,
-			"instance": 70,
+			"instance": 66,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1901,7 +1909,7 @@
 			],
 			"disabled": false,
 			"idx": 74,
-			"instance": 71,
+			"instance": 67,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1914,7 +1922,7 @@
 			],
 			"disabled": false,
 			"idx": 75,
-			"instance": 72,
+			"instance": 68,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1927,7 +1935,7 @@
 			],
 			"disabled": false,
 			"idx": 76,
-			"instance": 0,
+			"instance": 230,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1940,7 +1948,7 @@
 			],
 			"disabled": false,
 			"idx": 77,
-			"instance": 1,
+			"instance": 229,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1953,7 +1961,7 @@
 			],
 			"disabled": false,
 			"idx": 78,
-			"instance": 73,
+			"instance": 69,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1966,12 +1974,12 @@
 			],
 			"disabled": false,
 			"idx": 79,
-			"instance": 138,
+			"instance": 130,
 			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
-				237,
+				233,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1979,12 +1987,12 @@
 			],
 			"disabled": false,
 			"idx": 80,
-			"instance": 147,
+			"instance": 139,
 			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
-				238,
+				234,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1992,12 +2000,12 @@
 			],
 			"disabled": false,
 			"idx": 81,
-			"instance": 146,
+			"instance": 138,
 			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
-				239,
+				235,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2005,12 +2013,12 @@
 			],
 			"disabled": false,
 			"idx": 82,
-			"instance": 149,
+			"instance": 141,
 			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
-				240,
+				236,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2018,7 +2026,7 @@
 			],
 			"disabled": false,
 			"idx": 83,
-			"instance": 150,
+			"instance": 142,
 			"name": "g_block_tr_4x4"
 		},
 		{
@@ -2035,7 +2043,7 @@
 		},
 		{
 			"components": [
-				241,
+				237,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2043,7 +2051,7 @@
 			],
 			"disabled": false,
 			"idx": 85,
-			"instance": 119,
+			"instance": 111,
 			"name": "g_block_tr_4x4"
 		},
 		{
@@ -2056,7 +2064,7 @@
 			],
 			"disabled": false,
 			"idx": 86,
-			"instance": 2,
+			"instance": 228,
 			"name": "Coin"
 		},
 		{
@@ -2069,7 +2077,7 @@
 			],
 			"disabled": false,
 			"idx": 87,
-			"instance": 3,
+			"instance": 227,
 			"name": "Coin"
 		},
 		{
@@ -2082,7 +2090,7 @@
 			],
 			"disabled": false,
 			"idx": 88,
-			"instance": 137,
+			"instance": 129,
 			"name": "Coin"
 		},
 		{
@@ -2095,7 +2103,7 @@
 			],
 			"disabled": false,
 			"idx": 89,
-			"instance": 136,
+			"instance": 128,
 			"name": "Coin"
 		},
 		{
@@ -2108,7 +2116,7 @@
 			],
 			"disabled": false,
 			"idx": 90,
-			"instance": 4,
+			"instance": 0,
 			"name": "Coin"
 		},
 		{
@@ -2121,7 +2129,7 @@
 			],
 			"disabled": false,
 			"idx": 91,
-			"instance": 178,
+			"instance": 170,
 			"name": "Coin"
 		},
 		{
@@ -2134,7 +2142,7 @@
 			],
 			"disabled": false,
 			"idx": 92,
-			"instance": 5,
+			"instance": 1,
 			"name": "Coin"
 		},
 		{
@@ -2147,7 +2155,7 @@
 			],
 			"disabled": false,
 			"idx": 93,
-			"instance": 194,
+			"instance": 186,
 			"name": "Coin"
 		},
 		{
@@ -2160,7 +2168,7 @@
 			],
 			"disabled": false,
 			"idx": 94,
-			"instance": 135,
+			"instance": 127,
 			"name": "Coin"
 		},
 		{
@@ -2173,12 +2181,12 @@
 			],
 			"disabled": false,
 			"idx": 95,
-			"instance": 134,
+			"instance": 126,
 			"name": "Coin"
 		},
 		{
 			"components": [
-				242,
+				238,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2186,7 +2194,7 @@
 			],
 			"disabled": false,
 			"idx": 96,
-			"instance": 112,
+			"instance": 104,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -2199,7 +2207,7 @@
 			],
 			"disabled": false,
 			"idx": 97,
-			"instance": 133,
+			"instance": 125,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2212,7 +2220,7 @@
 			],
 			"disabled": false,
 			"idx": 98,
-			"instance": 227,
+			"instance": 219,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2273,7 +2281,7 @@
 			],
 			"disabled": false,
 			"idx": 103,
-			"instance": 132,
+			"instance": 124,
 			"name": "Coin"
 		},
 		{
@@ -2286,7 +2294,7 @@
 			],
 			"disabled": false,
 			"idx": 104,
-			"instance": 131,
+			"instance": 123,
 			"name": "prop_reservoir"
 		},
 		{
@@ -2299,7 +2307,7 @@
 			],
 			"disabled": false,
 			"idx": 105,
-			"instance": 130,
+			"instance": 122,
 			"name": "Coin"
 		},
 		{
@@ -2336,7 +2344,7 @@
 			],
 			"disabled": false,
 			"idx": 108,
-			"instance": 221,
+			"instance": 213,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2349,7 +2357,7 @@
 			],
 			"disabled": false,
 			"idx": 109,
-			"instance": 129,
+			"instance": 121,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2362,7 +2370,7 @@
 			],
 			"disabled": false,
 			"idx": 110,
-			"instance": 156,
+			"instance": 148,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2387,7 +2395,7 @@
 			],
 			"disabled": false,
 			"idx": 112,
-			"instance": 155,
+			"instance": 147,
 			"name": "Coin"
 		},
 		{
@@ -2400,12 +2408,12 @@
 			],
 			"disabled": false,
 			"idx": 113,
-			"instance": 154,
+			"instance": 146,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				243,
+				239,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2413,12 +2421,12 @@
 			],
 			"disabled": false,
 			"idx": 114,
-			"instance": 204,
+			"instance": 196,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				244,
+				240,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2426,7 +2434,7 @@
 			],
 			"disabled": false,
 			"idx": 115,
-			"instance": 206,
+			"instance": 198,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -2439,7 +2447,7 @@
 			],
 			"disabled": false,
 			"idx": 116,
-			"instance": 153,
+			"instance": 145,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2456,7 +2464,7 @@
 		},
 		{
 			"components": [
-				245,
+				241,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2464,7 +2472,7 @@
 			],
 			"disabled": false,
 			"idx": 118,
-			"instance": 200,
+			"instance": 192,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -2477,7 +2485,7 @@
 			],
 			"disabled": false,
 			"idx": 119,
-			"instance": 152,
+			"instance": 144,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2490,12 +2498,12 @@
 			],
 			"disabled": false,
 			"idx": 120,
-			"instance": 127,
+			"instance": 119,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				249,
+				245,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2503,7 +2511,7 @@
 			],
 			"disabled": false,
 			"idx": 121,
-			"instance": 111,
+			"instance": 103,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -2516,12 +2524,12 @@
 			],
 			"disabled": false,
 			"idx": 122,
-			"instance": 126,
+			"instance": 118,
 			"name": "g_block_16x16"
 		},
 		{
 			"components": [
-				250,
+				246,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2529,7 +2537,7 @@
 			],
 			"disabled": false,
 			"idx": 123,
-			"instance": 140,
+			"instance": 132,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -2542,7 +2550,7 @@
 			],
 			"disabled": false,
 			"idx": 124,
-			"instance": 75,
+			"instance": 71,
 			"name": "Coin"
 		},
 		{
@@ -2555,7 +2563,7 @@
 			],
 			"disabled": false,
 			"idx": 125,
-			"instance": 192,
+			"instance": 184,
 			"name": "Coin"
 		},
 		{
@@ -2568,7 +2576,7 @@
 			],
 			"disabled": false,
 			"idx": 126,
-			"instance": 191,
+			"instance": 183,
 			"name": "Coin"
 		},
 		{
@@ -2581,7 +2589,7 @@
 			],
 			"disabled": false,
 			"idx": 127,
-			"instance": 233,
+			"instance": 225,
 			"name": "Coin"
 		},
 		{
@@ -2594,7 +2602,7 @@
 			],
 			"disabled": false,
 			"idx": 128,
-			"instance": 190,
+			"instance": 182,
 			"name": "Coin"
 		},
 		{
@@ -2607,7 +2615,7 @@
 			],
 			"disabled": false,
 			"idx": 129,
-			"instance": 232,
+			"instance": 224,
 			"name": "Coin"
 		},
 		{
@@ -2620,7 +2628,7 @@
 			],
 			"disabled": false,
 			"idx": 130,
-			"instance": 231,
+			"instance": 223,
 			"name": "Coin"
 		},
 		{
@@ -2633,7 +2641,7 @@
 			],
 			"disabled": false,
 			"idx": 131,
-			"instance": 230,
+			"instance": 222,
 			"name": "Coin"
 		},
 		{
@@ -2646,7 +2654,7 @@
 			],
 			"disabled": false,
 			"idx": 132,
-			"instance": 128,
+			"instance": 120,
 			"name": "Coin"
 		},
 		{
@@ -2663,7 +2671,7 @@
 		},
 		{
 			"components": [
-				251,
+				247,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2671,12 +2679,12 @@
 			],
 			"disabled": false,
 			"idx": 134,
-			"instance": 203,
+			"instance": 195,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				252,
+				248,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2684,7 +2692,7 @@
 			],
 			"disabled": false,
 			"idx": 135,
-			"instance": 199,
+			"instance": 191,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -2721,7 +2729,7 @@
 			],
 			"disabled": false,
 			"idx": 138,
-			"instance": 229,
+			"instance": 221,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2734,7 +2742,7 @@
 			],
 			"disabled": false,
 			"idx": 139,
-			"instance": 6,
+			"instance": 2,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2747,7 +2755,7 @@
 			],
 			"disabled": false,
 			"idx": 140,
-			"instance": 228,
+			"instance": 220,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2772,7 +2780,7 @@
 			],
 			"disabled": false,
 			"idx": 142,
-			"instance": 179,
+			"instance": 171,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2785,12 +2793,12 @@
 			],
 			"disabled": false,
 			"idx": 143,
-			"instance": 180,
+			"instance": 172,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				253,
+				249,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2798,12 +2806,12 @@
 			],
 			"disabled": false,
 			"idx": 144,
-			"instance": 121,
+			"instance": 113,
 			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
-				254,
+				250,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2811,7 +2819,7 @@
 			],
 			"disabled": false,
 			"idx": 145,
-			"instance": 202,
+			"instance": 194,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -2824,7 +2832,7 @@
 			],
 			"disabled": false,
 			"idx": 146,
-			"instance": 175,
+			"instance": 167,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2837,7 +2845,7 @@
 			],
 			"disabled": false,
 			"idx": 147,
-			"instance": 174,
+			"instance": 166,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2850,7 +2858,7 @@
 			],
 			"disabled": false,
 			"idx": 148,
-			"instance": 173,
+			"instance": 165,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2863,7 +2871,7 @@
 			],
 			"disabled": false,
 			"idx": 149,
-			"instance": 172,
+			"instance": 164,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2876,7 +2884,7 @@
 			],
 			"disabled": false,
 			"idx": 150,
-			"instance": 171,
+			"instance": 163,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2889,7 +2897,7 @@
 			],
 			"disabled": false,
 			"idx": 151,
-			"instance": 170,
+			"instance": 162,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2902,7 +2910,7 @@
 			],
 			"disabled": false,
 			"idx": 152,
-			"instance": 169,
+			"instance": 161,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2915,7 +2923,7 @@
 			],
 			"disabled": false,
 			"idx": 153,
-			"instance": 168,
+			"instance": 160,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2928,7 +2936,7 @@
 			],
 			"disabled": false,
 			"idx": 154,
-			"instance": 167,
+			"instance": 159,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2941,7 +2949,7 @@
 			],
 			"disabled": false,
 			"idx": 155,
-			"instance": 166,
+			"instance": 158,
 			"name": "g_block_8x32"
 		},
 		{
@@ -2954,7 +2962,7 @@
 			],
 			"disabled": false,
 			"idx": 156,
-			"instance": 165,
+			"instance": 157,
 			"name": "Coin"
 		},
 		{
@@ -2967,7 +2975,7 @@
 			],
 			"disabled": false,
 			"idx": 157,
-			"instance": 164,
+			"instance": 156,
 			"name": "Coin"
 		},
 		{
@@ -2980,7 +2988,7 @@
 			],
 			"disabled": false,
 			"idx": 158,
-			"instance": 163,
+			"instance": 155,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2997,7 +3005,7 @@
 		},
 		{
 			"components": [
-				255,
+				251,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3005,12 +3013,12 @@
 			],
 			"disabled": false,
 			"idx": 160,
-			"instance": 116,
+			"instance": 108,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				256,
+				252,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3018,7 +3026,7 @@
 			],
 			"disabled": false,
 			"idx": 161,
-			"instance": 142,
+			"instance": 134,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -3031,7 +3039,7 @@
 			],
 			"disabled": false,
 			"idx": 162,
-			"instance": 162,
+			"instance": 154,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3044,7 +3052,7 @@
 			],
 			"disabled": false,
 			"idx": 163,
-			"instance": 161,
+			"instance": 153,
 			"name": "Coin"
 		},
 		{
@@ -3057,7 +3065,7 @@
 			],
 			"disabled": false,
 			"idx": 164,
-			"instance": 160,
+			"instance": 152,
 			"name": "g_block_8x32"
 		},
 		{
@@ -3070,12 +3078,12 @@
 			],
 			"disabled": false,
 			"idx": 165,
-			"instance": 159,
+			"instance": 151,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				257,
+				253,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3083,7 +3091,7 @@
 			],
 			"disabled": false,
 			"idx": 166,
-			"instance": 196,
+			"instance": 188,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -3096,7 +3104,7 @@
 			],
 			"disabled": false,
 			"idx": 167,
-			"instance": 158,
+			"instance": 150,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3109,12 +3117,12 @@
 			],
 			"disabled": false,
 			"idx": 168,
-			"instance": 157,
+			"instance": 149,
 			"name": "g_block_16x16"
 		},
 		{
 			"components": [
-				258,
+				254,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3122,7 +3130,7 @@
 			],
 			"disabled": false,
 			"idx": 169,
-			"instance": 234,
+			"instance": 226,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -3163,7 +3171,7 @@
 		},
 		{
 			"components": [
-				259,
+				255,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3171,12 +3179,12 @@
 			],
 			"disabled": false,
 			"idx": 173,
-			"instance": 197,
+			"instance": 189,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				260,
+				256,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3184,12 +3192,12 @@
 			],
 			"disabled": false,
 			"idx": 174,
-			"instance": 108,
+			"instance": 100,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				261,
+				257,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3197,7 +3205,7 @@
 			],
 			"disabled": false,
 			"idx": 175,
-			"instance": 110,
+			"instance": 102,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -3210,7 +3218,7 @@
 			],
 			"disabled": false,
 			"idx": 176,
-			"instance": 219,
+			"instance": 211,
 			"name": "g_block_8x32"
 		},
 		{
@@ -3223,7 +3231,7 @@
 			],
 			"disabled": false,
 			"idx": 177,
-			"instance": 218,
+			"instance": 210,
 			"name": "g_block_8x32"
 		},
 		{
@@ -3236,7 +3244,7 @@
 			],
 			"disabled": false,
 			"idx": 178,
-			"instance": 217,
+			"instance": 209,
 			"name": "g_block_8x32"
 		},
 		{
@@ -3249,7 +3257,7 @@
 			],
 			"disabled": false,
 			"idx": 179,
-			"instance": 216,
+			"instance": 208,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3262,7 +3270,7 @@
 			],
 			"disabled": false,
 			"idx": 180,
-			"instance": 8,
+			"instance": 4,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3275,7 +3283,7 @@
 			],
 			"disabled": false,
 			"idx": 181,
-			"instance": 9,
+			"instance": 5,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3288,7 +3296,7 @@
 			],
 			"disabled": false,
 			"idx": 182,
-			"instance": 10,
+			"instance": 6,
 			"name": "g_block_8x32"
 		},
 		{
@@ -3301,12 +3309,12 @@
 			],
 			"disabled": false,
 			"idx": 183,
-			"instance": 11,
+			"instance": 7,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				262,
+				258,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3314,12 +3322,12 @@
 			],
 			"disabled": false,
 			"idx": 184,
-			"instance": 143,
+			"instance": 135,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				269,
+				265,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3327,7 +3335,7 @@
 			],
 			"disabled": false,
 			"idx": 185,
-			"instance": 74,
+			"instance": 70,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3340,7 +3348,7 @@
 			],
 			"disabled": false,
 			"idx": 186,
-			"instance": 12,
+			"instance": 8,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3353,7 +3361,7 @@
 			],
 			"disabled": false,
 			"idx": 187,
-			"instance": 13,
+			"instance": 9,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3366,7 +3374,7 @@
 			],
 			"disabled": false,
 			"idx": 188,
-			"instance": 14,
+			"instance": 10,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3379,7 +3387,7 @@
 			],
 			"disabled": false,
 			"idx": 189,
-			"instance": 15,
+			"instance": 11,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3392,7 +3400,7 @@
 			],
 			"disabled": false,
 			"idx": 190,
-			"instance": 16,
+			"instance": 12,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3405,7 +3413,7 @@
 			],
 			"disabled": false,
 			"idx": 191,
-			"instance": 17,
+			"instance": 13,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3418,7 +3426,7 @@
 			],
 			"disabled": false,
 			"idx": 192,
-			"instance": 18,
+			"instance": 14,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3431,7 +3439,7 @@
 			],
 			"disabled": false,
 			"idx": 193,
-			"instance": 19,
+			"instance": 15,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3444,7 +3452,7 @@
 			],
 			"disabled": false,
 			"idx": 194,
-			"instance": 20,
+			"instance": 16,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3457,7 +3465,7 @@
 			],
 			"disabled": false,
 			"idx": 195,
-			"instance": 21,
+			"instance": 17,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3470,7 +3478,7 @@
 			],
 			"disabled": false,
 			"idx": 196,
-			"instance": 22,
+			"instance": 18,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3483,7 +3491,7 @@
 			],
 			"disabled": false,
 			"idx": 197,
-			"instance": 23,
+			"instance": 19,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3496,7 +3504,7 @@
 			],
 			"disabled": false,
 			"idx": 198,
-			"instance": 24,
+			"instance": 20,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3509,7 +3517,7 @@
 			],
 			"disabled": false,
 			"idx": 199,
-			"instance": 25,
+			"instance": 21,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3522,7 +3530,7 @@
 			],
 			"disabled": false,
 			"idx": 200,
-			"instance": 26,
+			"instance": 22,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3535,7 +3543,7 @@
 			],
 			"disabled": false,
 			"idx": 201,
-			"instance": 29,
+			"instance": 25,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3548,7 +3556,7 @@
 			],
 			"disabled": false,
 			"idx": 202,
-			"instance": 30,
+			"instance": 26,
 			"name": "g_block_8x32"
 		},
 		{
@@ -3565,7 +3573,7 @@
 		},
 		{
 			"components": [
-				263,
+				259,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3573,7 +3581,7 @@
 			],
 			"disabled": false,
 			"idx": 204,
-			"instance": 144,
+			"instance": 136,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -3586,7 +3594,7 @@
 			],
 			"disabled": false,
 			"idx": 205,
-			"instance": 31,
+			"instance": 27,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3599,7 +3607,7 @@
 			],
 			"disabled": false,
 			"idx": 206,
-			"instance": 32,
+			"instance": 28,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3612,7 +3620,7 @@
 			],
 			"disabled": false,
 			"idx": 207,
-			"instance": 33,
+			"instance": 29,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3625,7 +3633,7 @@
 			],
 			"disabled": false,
 			"idx": 208,
-			"instance": 34,
+			"instance": 30,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3638,7 +3646,7 @@
 			],
 			"disabled": false,
 			"idx": 209,
-			"instance": 35,
+			"instance": 31,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3651,7 +3659,7 @@
 			],
 			"disabled": false,
 			"idx": 210,
-			"instance": 36,
+			"instance": 32,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3664,7 +3672,7 @@
 			],
 			"disabled": false,
 			"idx": 211,
-			"instance": 37,
+			"instance": 33,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3677,7 +3685,7 @@
 			],
 			"disabled": false,
 			"idx": 212,
-			"instance": 38,
+			"instance": 34,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3690,7 +3698,7 @@
 			],
 			"disabled": false,
 			"idx": 213,
-			"instance": 39,
+			"instance": 35,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3703,12 +3711,12 @@
 			],
 			"disabled": false,
 			"idx": 214,
-			"instance": 40,
+			"instance": 36,
 			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
-				264,
+				260,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3716,7 +3724,7 @@
 			],
 			"disabled": false,
 			"idx": 215,
-			"instance": 124,
+			"instance": 116,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -3729,7 +3737,7 @@
 			],
 			"disabled": false,
 			"idx": 216,
-			"instance": 41,
+			"instance": 37,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3742,12 +3750,12 @@
 			],
 			"disabled": false,
 			"idx": 217,
-			"instance": 42,
+			"instance": 38,
 			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
-				265,
+				261,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3755,7 +3763,7 @@
 			],
 			"disabled": false,
 			"idx": 218,
-			"instance": 125,
+			"instance": 117,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -3768,7 +3776,7 @@
 			],
 			"disabled": false,
 			"idx": 219,
-			"instance": 76,
+			"instance": 72,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3781,7 +3789,7 @@
 			],
 			"disabled": false,
 			"idx": 220,
-			"instance": 77,
+			"instance": 73,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3794,7 +3802,7 @@
 			],
 			"disabled": false,
 			"idx": 221,
-			"instance": 78,
+			"instance": 74,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3807,7 +3815,7 @@
 			],
 			"disabled": false,
 			"idx": 222,
-			"instance": 79,
+			"instance": 75,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3820,12 +3828,12 @@
 			],
 			"disabled": false,
 			"idx": 223,
-			"instance": 80,
+			"instance": 76,
 			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
-				268,
+				264,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3833,7 +3841,7 @@
 			],
 			"disabled": false,
 			"idx": 224,
-			"instance": 123,
+			"instance": 115,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -3846,7 +3854,7 @@
 			],
 			"disabled": false,
 			"idx": 225,
-			"instance": 81,
+			"instance": 77,
 			"name": "Coin"
 		},
 		{
@@ -3859,7 +3867,7 @@
 			],
 			"disabled": false,
 			"idx": 226,
-			"instance": 82,
+			"instance": 78,
 			"name": "Coin"
 		},
 		{
@@ -3872,7 +3880,7 @@
 			],
 			"disabled": false,
 			"idx": 227,
-			"instance": 83,
+			"instance": 79,
 			"name": "Coin"
 		},
 		{
@@ -3885,7 +3893,7 @@
 			],
 			"disabled": false,
 			"idx": 228,
-			"instance": 84,
+			"instance": 80,
 			"name": "Coin"
 		},
 		{
@@ -3898,7 +3906,7 @@
 			],
 			"disabled": false,
 			"idx": 229,
-			"instance": 85,
+			"instance": 81,
 			"name": "Coin"
 		},
 		{
@@ -3911,7 +3919,7 @@
 			],
 			"disabled": false,
 			"idx": 230,
-			"instance": 86,
+			"instance": 82,
 			"name": "Coin"
 		},
 		{
@@ -3924,7 +3932,7 @@
 			],
 			"disabled": false,
 			"idx": 231,
-			"instance": 87,
+			"instance": 83,
 			"name": "Coin"
 		},
 		{
@@ -3937,7 +3945,7 @@
 			],
 			"disabled": false,
 			"idx": 232,
-			"instance": 88,
+			"instance": 84,
 			"name": "Coin"
 		},
 		{
@@ -3950,7 +3958,7 @@
 			],
 			"disabled": false,
 			"idx": 233,
-			"instance": 89,
+			"instance": 85,
 			"name": "Coin"
 		},
 		{
@@ -3963,12 +3971,12 @@
 			],
 			"disabled": false,
 			"idx": 234,
-			"instance": 90,
+			"instance": 86,
 			"name": "Coin"
 		},
 		{
 			"components": [
-				266,
+				262,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3976,7 +3984,7 @@
 			],
 			"disabled": false,
 			"idx": 235,
-			"instance": 139,
+			"instance": 131,
 			"name": "Coin"
 		},
 		{
@@ -3989,7 +3997,7 @@
 			],
 			"disabled": false,
 			"idx": 236,
-			"instance": 91,
+			"instance": 87,
 			"name": "Coin"
 		},
 		{
@@ -4002,7 +4010,7 @@
 			],
 			"disabled": false,
 			"idx": 237,
-			"instance": 92,
+			"instance": 88,
 			"name": "Coin"
 		},
 		{
@@ -4015,7 +4023,7 @@
 			],
 			"disabled": false,
 			"idx": 238,
-			"instance": 93,
+			"instance": 89,
 			"name": "Coin"
 		},
 		{
@@ -4028,7 +4036,7 @@
 			],
 			"disabled": false,
 			"idx": 239,
-			"instance": 94,
+			"instance": 90,
 			"name": "Coin"
 		},
 		{
@@ -4041,7 +4049,7 @@
 			],
 			"disabled": false,
 			"idx": 240,
-			"instance": 95,
+			"instance": 91,
 			"name": "Coin"
 		},
 		{
@@ -4054,7 +4062,7 @@
 			],
 			"disabled": false,
 			"idx": 241,
-			"instance": 96,
+			"instance": 92,
 			"name": "Coin"
 		},
 		{
@@ -4067,7 +4075,7 @@
 			],
 			"disabled": false,
 			"idx": 242,
-			"instance": 193,
+			"instance": 185,
 			"name": "Coin"
 		},
 		{
@@ -4080,7 +4088,7 @@
 			],
 			"disabled": false,
 			"idx": 243,
-			"instance": 97,
+			"instance": 93,
 			"name": "Coin"
 		},
 		{
@@ -4093,7 +4101,7 @@
 			],
 			"disabled": false,
 			"idx": 244,
-			"instance": 98,
+			"instance": 94,
 			"name": "Coin"
 		},
 		{
@@ -4106,7 +4114,7 @@
 			],
 			"disabled": false,
 			"idx": 245,
-			"instance": 99,
+			"instance": 95,
 			"name": "Coin"
 		},
 		{
@@ -4119,7 +4127,7 @@
 			],
 			"disabled": false,
 			"idx": 246,
-			"instance": 100,
+			"instance": 96,
 			"name": "Coin"
 		},
 		{
@@ -4132,7 +4140,7 @@
 			],
 			"disabled": false,
 			"idx": 247,
-			"instance": 101,
+			"instance": 97,
 			"name": "Coin"
 		},
 		{
@@ -4169,7 +4177,7 @@
 			],
 			"disabled": false,
 			"idx": 250,
-			"instance": 102,
+			"instance": 98,
 			"name": "Coin"
 		},
 		{
@@ -4230,8 +4238,21 @@
 			],
 			"disabled": false,
 			"idx": 255,
-			"instance": 103,
-			"name": "g_block_tr_4x8"
+			"instance": 101,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				263,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 256,
+			"instance": 187,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
@@ -4242,9 +4263,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 256,
-			"instance": 104,
-			"name": "g_block_tr_8x8"
+			"idx": 257,
+			"instance": 190,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
@@ -4255,8 +4276,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 257,
-			"instance": 105,
+			"idx": 258,
+			"instance": 193,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -4268,9 +4289,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 258,
-			"instance": 106,
-			"name": "g_block_tr_4x4"
+			"idx": 259,
+			"instance": 197,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
@@ -4281,21 +4302,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 259,
-			"instance": 109,
-			"name": "g_block_tr_8x16"
-		},
-		{
-			"components": [
-				267,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
 			"idx": 260,
-			"instance": 195,
+			"instance": 105,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -4308,8 +4316,8 @@
 			],
 			"disabled": false,
 			"idx": 261,
-			"instance": 198,
-			"name": "g_block_tr_8x16"
+			"instance": 137,
+			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
@@ -4321,8 +4329,8 @@
 			],
 			"disabled": false,
 			"idx": 262,
-			"instance": 201,
-			"name": "g_block_tr_8x16"
+			"instance": 140,
+			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
@@ -4334,8 +4342,8 @@
 			],
 			"disabled": false,
 			"idx": 263,
-			"instance": 205,
-			"name": "g_block_tr_8x16"
+			"instance": 143,
+			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
@@ -4347,8 +4355,8 @@
 			],
 			"disabled": false,
 			"idx": 264,
-			"instance": 113,
-			"name": "g_block_tr_8x16"
+			"instance": 112,
+			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
@@ -4360,60 +4368,84 @@
 			],
 			"disabled": false,
 			"idx": 265,
-			"instance": 145,
+			"instance": 114,
 			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
-				230,
+				266,
+				4294967295,
+				60,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 497,
+			"name": "bonus_heal"
+		},
+		{
+			"components": [
+				267,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 266,
-			"instance": 148,
-			"name": "g_block_tr_4x4"
+			"idx": 498,
+			"instance": 234,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				231,
+				268,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 267,
-			"instance": 151,
-			"name": "g_block_tr_4x4"
+			"idx": 500,
+			"instance": 233,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				232,
+				269,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 268,
-			"instance": 120,
-			"name": "g_block_tr_4x4"
+			"idx": 502,
+			"instance": 232,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				233,
+				270,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 269,
-			"instance": 122,
-			"name": "g_block_tr_4x4"
+			"idx": 504,
+			"instance": 231,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				271,
+				4294967295,
+				61,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 506,
+			"name": "bonus_fuel"
 		}
 	],
 	"objects": [
@@ -9777,6 +9809,130 @@
 				}
 			],
 			"name": "assets/bonus/bonus_fast_clock.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "bonus_heal"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/bonus/bonus_heal.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/bonus_heal.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "bonus_fuel"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/bonus/bonus_fuel.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/bonus_fuel.geo"
 		}
 	],
 	"transforms": [
@@ -10473,7 +10629,7 @@
 			],
 			"rot": [
 				21.08810806274414,
-				13.798548698425293,
+				13.798547744750977,
 				-2.6659447485144483e-06
 			],
 			"scl": [
@@ -10527,7 +10683,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-3.7915146643204877e-22,
+				-3.791514411884998e-22,
 				0.0
 			],
 			"scl": [
@@ -10545,7 +10701,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-3.7915146643204877e-22,
+				-3.791514411884998e-22,
 				0.0
 			],
 			"scl": [
@@ -10562,9 +10718,9 @@
 				0.0
 			],
 			"rot": [
-				28.64787483215332,
+				28.647872924804688,
 				33.804508209228516,
-				-6.875489711761475
+				-6.875489234924316
 			],
 			"scl": [
 				1.0,
@@ -10599,7 +10755,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-3.7915146643204877e-22,
+				-3.791514411884998e-22,
 				0.0
 			],
 			"scl": [
@@ -10815,8 +10971,8 @@
 			],
 			"rot": [
 				-5.008959305996541e-06,
-				3.883831726434394e-20,
-				179.99996948242188
+				3.883831403316967e-20,
+				179.9999542236328
 			],
 			"scl": [
 				0.9999991655349731,
@@ -10958,9 +11114,9 @@
 				-1.0528576694923686e-06
 			],
 			"rot": [
-				-5.008956577512436e-06,
+				-5.008956122765085e-06,
 				5.008955668017734e-06,
-				-89.99999237060547
+				-89.99998474121094
 			],
 			"scl": [
 				0.9999998807907104,
@@ -11984,8 +12140,8 @@
 				-0.4409318268299103
 			],
 			"rot": [
-				89.99998474121094,
-				-8.570197367529717e-14,
+				89.9999771118164,
+				-8.570196689903359e-14,
 				-90.0
 			],
 			"scl": [
@@ -12274,7 +12430,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				-89.99998474121094
+				-89.9999771118164
 			],
 			"scl": [
 				0.9999989867210388,
@@ -12489,7 +12645,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-5.687274647053373e-22,
+				-5.687274142182394e-22,
 				27.000001907348633
 			],
 			"scl": [
@@ -12579,7 +12735,7 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-5.687280200634146e-22,
+				-5.687279695763167e-22,
 				-60.0
 			],
 			"scl": [
@@ -12885,8 +13041,8 @@
 			],
 			"rot": [
 				-7.0167078561561656e-15,
-				-5.687241325568737e-22,
-				-27.000003814697266
+				-5.687240820697757e-22,
+				-27.000001907348633
 			],
 			"scl": [
 				1.0000001192092896,
@@ -13172,8 +13328,8 @@
 				2.6940528750045304e-15
 			],
 			"rot": [
-				-7.016708279672639e-15,
-				-4.5198398010360187e-29,
+				-7.0167078561561656e-15,
+				-4.519839500109465e-29,
 				90.0
 			],
 			"scl": [
@@ -13208,8 +13364,8 @@
 				2.694053086762767e-15
 			],
 			"rot": [
-				-7.0167091267055864e-15,
-				-9.039679602072037e-29,
+				-7.016708279672639e-15,
+				-9.03967900021893e-29,
 				90.0
 			],
 			"scl": [
@@ -13743,78 +13899,6 @@
 		{
 			"parent": null,
 			"pos": [
-				41.96643829345703,
-				86.41522216796875,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				28.4492130279541,
-				84.71246337890625,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				13.479571342468262,
-				84.4121322631836,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				0.0,
-				84.54779052734375,
-				0.0
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
 				196.4674072265625,
 				29.71448516845703,
 				0.0
@@ -13838,9 +13922,9 @@
 				-0.19072982668876648
 			],
 			"rot": [
-				-7.243933918783868e-19,
-				-179.99998474121094,
-				-179.99998474121094
+				-7.243933401795985e-19,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999990463256836,
@@ -13856,9 +13940,9 @@
 				-0.19076034426689148
 			],
 			"rot": [
-				3.2568841287078376e-12,
+				3.256883911867403e-12,
 				-179.99989318847656,
-				-152.99998474121094
+				-152.99996948242188
 			],
 			"scl": [
 				0.9999988079071045,
@@ -13874,9 +13958,9 @@
 				-0.19072982668876648
 			],
 			"rot": [
-				-1.18278659186534e-18,
-				-179.99998474121094,
-				-179.99998474121094
+				-1.1827864884677634e-18,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999988079071045,
@@ -13892,9 +13976,9 @@
 				-0.19072982668876648
 			],
 			"rot": [
-				-1.58078723193222e-18,
-				-179.99998474121094,
-				-179.99998474121094
+				-1.5807870251370669e-18,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999984502792358,
@@ -13929,7 +14013,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.99998474121094,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -13948,7 +14032,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999995827674866,
@@ -13965,7 +14049,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.99998474121094,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -14019,7 +14103,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.99998474121094,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -14073,7 +14157,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.99998474121094,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -14092,7 +14176,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999997019767761,
@@ -14108,8 +14192,8 @@
 				-0.18354487419128418
 			],
 			"rot": [
-				1.8513263825043532e-25,
-				-179.99998474121094,
+				1.8513262592448368e-25,
+				-179.99996948242188,
 				179.99989318847656
 			],
 			"scl": [
@@ -14127,7 +14211,7 @@
 			],
 			"rot": [
 				-5.694518648956064e-19,
-				-179.99998474121094,
+				-179.99996948242188,
 				179.99989318847656
 			],
 			"scl": [
@@ -14145,7 +14229,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.99998474121094,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -14163,7 +14247,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.99998474121094,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -14181,7 +14265,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.99998474121094,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -14198,9 +14282,9 @@
 				-0.19072982668876648
 			],
 			"rot": [
-				-1.297882466849923e-18,
-				-179.99998474121094,
-				-179.99998474121094
+				-1.2978823634523465e-18,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999986886978149,
@@ -14236,7 +14320,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999996423721313,
@@ -14254,7 +14338,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999997019767761,
@@ -14307,7 +14391,7 @@
 			],
 			"rot": [
 				-0.0,
-				179.99998474121094,
+				179.99996948242188,
 				0.0
 			],
 			"scl": [
@@ -14325,8 +14409,8 @@
 			],
 			"rot": [
 				-9.89354127932571e-19,
-				-179.99998474121094,
-				-179.99998474121094
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.999998927116394,
@@ -14362,7 +14446,7 @@
 			"rot": [
 				-9.89354127932571e-19,
 				-1.2099214212168045e-32,
-				-179.99996948242188
+				-179.9999542236328
 			],
 			"scl": [
 				0.9999988079071045,
@@ -14380,7 +14464,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999997615814209,
@@ -14398,7 +14482,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999996423721313,
@@ -14416,7 +14500,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999996423721313,
@@ -14434,7 +14518,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999993443489075,
@@ -14450,9 +14534,9 @@
 				0.22915887832641602
 			],
 			"rot": [
-				-3.5590773867718075e-20,
-				-179.99998474121094,
-				-179.99998474121094
+				-3.559077063654381e-20,
+				-179.99996948242188,
+				-179.99996948242188
 			],
 			"scl": [
 				0.9999998807907104,
@@ -14541,7 +14625,7 @@
 			],
 			"rot": [
 				2.588127129202095e-20,
-				-179.99998474121094,
+				-179.99996948242188,
 				90.0
 			],
 			"scl": [
@@ -14560,7 +14644,7 @@
 			"rot": [
 				-0.0,
 				0.0,
-				179.99998474121094
+				179.99996948242188
 			],
 			"scl": [
 				0.9999998211860657,
@@ -14630,7 +14714,7 @@
 				-0.010535240173339844
 			],
 			"rot": [
-				89.99998474121094,
+				89.9999771118164,
 				0.0,
 				0.0
 			],
@@ -14638,6 +14722,114 @@
 				1.0,
 				0.9999999403953552,
 				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				168.03919982910156,
+				-44.93684387207031,
+				1.9073486328125e-06
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				146.65591430664063,
+				-47.87749481201172,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				127.75079345703125,
+				-47.72461700439453,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				115.93648529052734,
+				-47.914642333984375,
+				-3.814697265625e-06
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				111.5056381225586,
+				-19.870361328125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				99.92169952392578,
+				-20.777658462524414,
+				0.18874788284301758
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
 			]
 		}
 	]
