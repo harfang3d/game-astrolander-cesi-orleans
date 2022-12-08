@@ -1,8 +1,9 @@
 import harfang as hg
 
 def is_node_name_collision_enabled(node_name):
+	exclusion = ["g_block_tr_4x4", "g_block_tr_4x8", "g_block_tr_8x16", "g_block_tr_8x8"]
 	for name in ["g_block_", "start", "homebase", "colshape"]:
-		if node_name.lower().startswith(name):
+		if node_name.lower().startswith(name) and not(node_name in exclusion):
 			return True
 	return False
 
