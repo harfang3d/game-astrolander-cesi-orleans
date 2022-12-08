@@ -158,6 +158,8 @@ while not end_game:
 	coins = []
 	bonus_life = []
 	bonus_fuel = []
+	bonus_donuts = []
+	bomb_homing = []
 	bonus_slow_clock = []
 	bonus_fast_clock = []
 	engine_particles = []
@@ -177,6 +179,10 @@ while not end_game:
 			coins.append({"node": nd, "pos": nd.GetTransform().GetPos()})
 		if nd.HasObject() and nd.GetName().lower() == "bonus_fuel":
 			bonus_fuel.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.GetName().lower() == "donuts":
+			bonus_donuts.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.GetName().lower() == "homing_mine":
+			bomb_homing.append({"node": nd, "pos": nd.GetTransform().GetPos()})
 		if nd.HasObject() and nd.GetName().lower() == "bonus_heal":
 			bonus_life.append({"node": nd, "pos": nd.GetTransform().GetPos()})
 		if nd.HasObject() and nd.GetName().lower() == "bonus_slow_clock":
@@ -418,6 +424,19 @@ while not end_game:
 			# print(fuel_hit)
 			bonus_fuel[fuel_hit]["node"].Disable()
 			fuel = 100
+		# get a full bonus bomb_homing
+		donuts_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_donuts, 2.5)
+		if donuts_hit > -1:
+			# print(donuts_hit)
+			bonus_donuts[donuts_hit]["node"].Disable()
+			fuel = 100
+			life = 100
+		# homing mine dmg 
+		homing_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bomb_homing, 2.5)
+		if homing_hit > -1:
+			# print(homing_hit)
+			bomb_homing[homing_hit]["node"].Disable()
+			life = life - 80
 		# get a slow clock bonus
 		slow_clock_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_slow_clock, 2.5)
 		if slow_clock_hit > -1:

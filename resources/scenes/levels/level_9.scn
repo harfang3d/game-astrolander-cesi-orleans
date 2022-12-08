@@ -1,0 +1,10376 @@
+{
+	"cameras": [
+		{
+			"fov": 0.8569514155387878,
+			"ortho": false,
+			"size": 1.0,
+			"zrange": {
+				"zfar": 1000.0,
+				"znear": 0.009999999776482582
+			}
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			14,
+			104,
+			129,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			127
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": 44,
+		"fog_color": [
+			86,
+			219,
+			255,
+			255
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/donuts/donuts.scn"
+		},
+		{
+			"name": "assets/donuts/donuts.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_1x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_1x1.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_1x1.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/donuts/donuts.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		}
+	],
+	"key_values": null,
+	"lights": [
+		{
+			"diffuse": [
+				255,
+				255,
+				255,
+				255
+			],
+			"diffuse_intensity": 2.0,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.7679396271705627,
+			"priority": 1.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				500.0
+			],
+			"radius": 0.0,
+			"shadow_bias": 9.999999747378752e-06,
+			"shadow_type": "map",
+			"specular": [
+				255,
+				255,
+				255,
+				255
+			],
+			"specular_intensity": 2.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				255,
+				255,
+				255,
+				255
+			],
+			"diffuse_intensity": 2.0,
+			"inner_angle": 0.0,
+			"outer_angle": 0.0,
+			"priority": 0.0,
+			"pssm_split": [
+				200.0,
+				300.0,
+				400.0,
+				500.0
+			],
+			"radius": 0.0,
+			"shadow_bias": 0.0020000000949949026,
+			"shadow_type": "map",
+			"specular": [
+				255,
+				255,
+				255,
+				255
+			],
+			"specular_intensity": 2.0,
+			"type": "linear"
+		}
+	],
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 99,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 100,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 103,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 104,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 83,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 60,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 56,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 48,
+			"name": "g_block_4x8"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 101,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 102,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"instance": 3,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"instance": 67,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"instance": 44,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"instance": 54,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"instance": 46,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"instance": 43,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"instance": 42,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"instance": 41,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"instance": 57,
+			"name": "g_block_1x4"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"instance": 58,
+			"name": "g_block_1x1"
+		},
+		{
+			"components": [
+				20,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"instance": 59,
+			"name": "g_block_1x1"
+		},
+		{
+			"components": [
+				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"instance": 45,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				22,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 22,
+			"instance": 49,
+			"name": "g_block_4x8"
+		},
+		{
+			"components": [
+				23,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 23,
+			"instance": 40,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 24,
+			"instance": 53,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"instance": 55,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"instance": 52,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 51,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"instance": 50,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"instance": 47,
+			"name": "g_block_4x8"
+		},
+		{
+			"components": [
+				30,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 30,
+			"instance": 98,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"instance": 97,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 32,
+			"instance": 96,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				33,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 33,
+			"instance": 113,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				146,
+				4294967295,
+				22,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 34,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				147,
+				4294967295,
+				21,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 35,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				148,
+				4294967295,
+				20,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 36,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				149,
+				4294967295,
+				42,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 37,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				34,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 38,
+			"instance": 112,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				35,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 39,
+			"instance": 94,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				36,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 40,
+			"instance": 95,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				37,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 41,
+			"instance": 108,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				38,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 42,
+			"name": "start"
+		},
+		{
+			"components": [
+				39,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 43,
+			"name": "spawnpoint"
+		},
+		{
+			"components": [
+				40,
+				0,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 44,
+			"name": "Camera"
+		},
+		{
+			"components": [
+				41,
+				4294967295,
+				4294967295,
+				0,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 45,
+			"name": "Light"
+		},
+		{
+			"components": [
+				44,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 46,
+			"instance": 111,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				45,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 47,
+			"instance": 39,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				42,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 48,
+			"instance": 110,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				43,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 49,
+			"instance": 109,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				46,
+				4294967295,
+				4294967295,
+				1,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 50,
+			"name": "sun"
+		},
+		{
+			"components": [
+				150,
+				4294967295,
+				24,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 51,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				47,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 52,
+			"instance": 37,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				161,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 53,
+			"instance": 31,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				162,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 54,
+			"instance": 32,
+			"name": "donuts"
+		},
+		{
+			"components": [
+				160,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 56,
+			"instance": 69,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				48,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 57,
+			"instance": 34,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				49,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 58,
+			"name": "homebase"
+		},
+		{
+			"components": [
+				50,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 59,
+			"instance": 35,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				51,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 60,
+			"instance": 36,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				58,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 61,
+			"instance": 107,
+			"name": "donuts"
+		},
+		{
+			"components": [
+				52,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 62,
+			"instance": 106,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				53,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 63,
+			"instance": 2,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				54,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 64,
+			"instance": 0,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				55,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 65,
+			"instance": 1,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				56,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 66,
+			"instance": 105,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				57,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 67,
+			"instance": 70,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				59,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 68,
+			"instance": 93,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				60,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 69,
+			"instance": 92,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				61,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 70,
+			"instance": 91,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				62,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 71,
+			"instance": 90,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				63,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 72,
+			"instance": 89,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				64,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 73,
+			"instance": 88,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				65,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 74,
+			"instance": 87,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				66,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 75,
+			"instance": 86,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				67,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 76,
+			"instance": 85,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				68,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 77,
+			"instance": 84,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				69,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 78,
+			"instance": 72,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				70,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 79,
+			"instance": 73,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				71,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 80,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				72,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 81,
+			"name": "tree_0"
+		},
+		{
+			"components": [
+				73,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 82,
+			"name": "colshape"
+		},
+		{
+			"components": [
+				74,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 83,
+			"name": "colshape"
+		},
+		{
+			"components": [
+				75,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 84,
+			"instance": 74,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				76,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 85,
+			"instance": 75,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				77,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 86,
+			"instance": 76,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				78,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 87,
+			"instance": 77,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				79,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 88,
+			"instance": 78,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				80,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 89,
+			"instance": 79,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				81,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 90,
+			"instance": 80,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				82,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 91,
+			"instance": 81,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				83,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 92,
+			"instance": 82,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				84,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 93,
+			"instance": 114,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				85,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 94,
+			"instance": 71,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				86,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 95,
+			"instance": 12,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				87,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 96,
+			"instance": 11,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				88,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 97,
+			"instance": 10,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				89,
+				4294967295,
+				6,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 98,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				151,
+				4294967295,
+				37,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 99,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				90,
+				4294967295,
+				7,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 100,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				91,
+				4294967295,
+				8,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 101,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				92,
+				4294967295,
+				9,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 102,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				93,
+				4294967295,
+				10,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 103,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				94,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 104,
+			"instance": 9,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				95,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 105,
+			"instance": 8,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				96,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 106,
+			"instance": 68,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				97,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 107,
+			"instance": 66,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				98,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 108,
+			"instance": 65,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				99,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 109,
+			"instance": 64,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				100,
+				4294967295,
+				11,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 110,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				101,
+				4294967295,
+				12,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 111,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				102,
+				4294967295,
+				13,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 112,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				103,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 113,
+			"instance": 63,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				104,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 114,
+			"instance": 62,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				105,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 115,
+			"instance": 61,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				106,
+				4294967295,
+				14,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 116,
+			"name": "colshape"
+		},
+		{
+			"components": [
+				107,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 117,
+			"instance": 25,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				108,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 118,
+			"instance": 24,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				109,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 119,
+			"instance": 23,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				110,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 120,
+			"instance": 22,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				111,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 121,
+			"instance": 21,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				112,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 122,
+			"instance": 20,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				113,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 123,
+			"instance": 19,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				114,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 124,
+			"instance": 18,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				115,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 125,
+			"instance": 17,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				116,
+				4294967295,
+				15,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 126,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				117,
+				4294967295,
+				16,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 127,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				118,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 128,
+			"instance": 16,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				119,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 129,
+			"instance": 15,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				120,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 130,
+			"instance": 14,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				121,
+				4294967295,
+				17,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 131,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				122,
+				4294967295,
+				18,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 132,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				123,
+				4294967295,
+				19,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 133,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				124,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 134,
+			"instance": 13,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				152,
+				4294967295,
+				38,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 135,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				153,
+				4294967295,
+				39,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 136,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				154,
+				4294967295,
+				40,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 137,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				155,
+				4294967295,
+				41,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 138,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				156,
+				4294967295,
+				23,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 139,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				125,
+				4294967295,
+				25,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 140,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				126,
+				4294967295,
+				26,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 141,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				127,
+				4294967295,
+				27,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 142,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				128,
+				4294967295,
+				28,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 143,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				129,
+				4294967295,
+				29,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 144,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				130,
+				4294967295,
+				30,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 145,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				131,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 146,
+			"instance": 7,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				132,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 147,
+			"instance": 6,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				133,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 148,
+			"instance": 5,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				134,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 149,
+			"instance": 4,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				135,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 150,
+			"instance": 38,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				136,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 151,
+			"instance": 26,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				137,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 152,
+			"instance": 27,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				138,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 153,
+			"instance": 28,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				139,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 154,
+			"instance": 29,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				140,
+				4294967295,
+				31,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 155,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				141,
+				4294967295,
+				32,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 156,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				142,
+				4294967295,
+				33,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 157,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				143,
+				4294967295,
+				34,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 158,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				144,
+				4294967295,
+				35,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 159,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				145,
+				4294967295,
+				36,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 160,
+			"name": "homing_mine"
+		},
+		{
+			"components": [
+				157,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 277,
+			"instance": 33,
+			"name": "donuts"
+		},
+		{
+			"components": [
+				158,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 293,
+			"instance": 30,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				159,
+				4294967295,
+				43,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 295,
+			"name": "homing_mine"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "grey"
+				},
+				{
+					"name": "red"
+				},
+				{
+					"name": "white"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.9843137860298157,
+								0.2352941334247589,
+								0.05490196496248245,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.9411765336990356,
+								0.9411765336990356,
+								0.9411765336990356,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/target.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "grey"
+				},
+				{
+					"name": "red"
+				},
+				{
+					"name": "white"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.9843137860298157,
+								0.2352941334247589,
+								0.05490196496248245,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.9411765336990356,
+								0.9411765336990356,
+								0.9411765336990356,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/target.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "Bark"
+				},
+				{
+					"name": "pine_needles"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/prop_trees/diffuse_wood.jpg",
+							"stage": 0
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"path": "assets/prop_trees/diffuse_wood.jpg",
+							"stage": 1
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								0.0624999962747097
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "alpha",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/prop_trees/alpha_pine_needle_02.tga",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								1.0,
+								1.0,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.8740000128746033,
+								0.0,
+								0.5
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "assets/prop_trees/tree_0_42.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "add",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								9.999999974752427e-07,
+								9.999899930335232e-07,
+								9.999899930335232e-07,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "assets/generic_blocks/g_block_4x4.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "add",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								9.999999974752427e-07,
+								9.999899930335232e-07,
+								9.999899930335232e-07,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "assets/generic_blocks/g_block_4x4.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "add",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								9.999999974752427e-07,
+								9.999899930335232e-07,
+								9.999899930335232e-07,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": false
+				}
+			],
+			"name": "assets/generic_blocks/g_block_4x4.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "capsule_metal"
+				},
+				{
+					"name": "mine_indicator"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/mobiles_items/capsule_diffuse.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5879999995231628,
+								0.5879999995231628,
+								0.5879999995231628,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.0,
+								0.0,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/mobiles_items/homing_mine.geo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				-10.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				32.0,
+				-10.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.734943389892578,
+				5.963718414306641,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-41.819786071777344,
+				34.814247131347656,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				56.0,
+				-10.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				20.357101440429688,
+				5.977298259735107,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.0,
+				8.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.0,
+				2.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				38.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				48.0,
+				37.999000549316406,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.0,
+				38.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.759767532348633,
+				22.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				48.0,
+				48.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-6.0,
+				48.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.0,
+				-22.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.0,
+				-28.013999938964844,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-17.985000610351563,
+				-1.8329999446868896,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				65.8949966430664,
+				-1.8329999446868896,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.4909999966621399,
+				-0.04600000008940697,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.4790000021457672,
+				2.371000051498413,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				47.35300064086914,
+				-1.5549999475479126,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.192999839782715,
+				-8.444000244140625,
+				-3.1389999389648438
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-4.682000160217285,
+				-3.430999994277954,
+				-1.9980000257492065
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				45.611000061035156,
+				-9.052000045776367,
+				-4.313000202178955
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.25
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-5.800000190734863,
+				17.600000381469727,
+				-3.2990000247955322
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				3.6989998817443848,
+				34.0989990234375,
+				-3.2990000247955322
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				15.798999786376953,
+				34.5,
+				-3.2990000247955322
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				53.0989990234375,
+				18.5,
+				-3.2990000247955322
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				53.5,
+				2.5989999771118164,
+				-3.2990000247955322
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				4.880000114440918,
+				-6.2270002365112305,
+				-5.0320000648498535
+			],
+			"rot": [
+				74.48448944091797,
+				-2.86478853225708,
+				-22.91830825805664
+			],
+			"scl": [
+				0.39500001072883606,
+				1.0,
+				0.3790000081062317
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.0,
+				6.372000217437744,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.0,
+				8.218999862670898,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.0,
+				10.116999626159668,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-19.103866577148438,
+				41.248809814453125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				13.892145156860352,
+				59.59575271606445,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				13.892145156860352,
+				61.441749572753906,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				13.892145156860352,
+				63.339752197265625,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				13.892145156860352,
+				65.1727523803711,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.0,
+				-2.0299999713897705,
+				0.020999999716877937
+			],
+			"rot": [
+				0.0,
+				-179.9087371826172,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.0,
+				0.43299999833106995,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				25.948881149291992,
+				10.536819458007813,
+				-100.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.518497109413147,
+				42.97290802001953,
+				-42.28269577026367
+			],
+			"rot": [
+				21.08810806274414,
+				13.798548698425293,
+				-2.6659447485144483e-06
+			],
+			"scl": [
+				1.0000001192092896,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.0,
+				-26.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				42.0,
+				-26.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.0,
+				2.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915146643204877e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				17.984540939331055,
+				2.0,
+				-1.0229943288525423e-25
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915146643204877e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				28.64787483215332,
+				33.804508209228516,
+				-6.875489711761475
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.0,
+				2.0,
+				4.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915146643204877e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-42.02976608276367,
+				22.0,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				13.35920524597168,
+				46.229278564453125,
+				0.06561873108148575
+			],
+			"rot": [
+				-0.0,
+				-179.9087371826172,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-7.928718566894531,
+				52.947601318359375,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-5.90602970123291,
+				21.148468017578125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-46.68724822998047,
+				58.426029205322266,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-46.68724822998047,
+				47.319129943847656,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-46.68724822998047,
+				74.09773254394531,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-38.9737548828125,
+				89.58561706542969,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-39.1752815246582,
+				74.09773254394531,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-15.854785919189453,
+				86.25772094726563,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-10.670878410339355,
+				5.415741920471191,
+				0.0
+			],
+			"rot": [
+				-90.0,
+				90.0,
+				1.9999992847442627
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-7.917511463165283,
+				67.01888275146484,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-39.071075439453125,
+				110.5882797241211,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-24.73658561706543,
+				110.5882797241211,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-24.73658561706543,
+				81.07600402832031,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.276033878326416,
+				106.27470397949219,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-28.58311653137207,
+				126.82691192626953,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-7.876185417175293,
+				118.90568542480469,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				10.666694641113281,
+				86.25772094726563,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				22.50848388671875,
+				123.63911437988281,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.466312408447266,
+				98.16698455810547,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.396834373474121,
+				84.69741821289063,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.396834373474121,
+				88.61839294433594,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-27.334102630615234,
+				20.67934799194336,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-2.222724437713623,
+				76.26019287109375,
+				1.9431676889780647e-07
+			],
+			"rot": [
+				-7.016712938353849e-15,
+				90.0,
+				-1.5076163053702823e-29
+			],
+			"scl": [
+				2.0,
+				2.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-0.9834296703338623,
+				77.86624145507813,
+				-0.1823534220457077
+			],
+			"rot": [
+				-3.7915164313689154e-21,
+				90.0,
+				-4.5198398010360187e-29
+			],
+			"scl": [
+				2.0,
+				2.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-3.462019205093384,
+				77.712646484375,
+				-0.1823534220457077
+			],
+			"rot": [
+				-3.791516027472132e-21,
+				90.0,
+				-4.5198398010360187e-29
+			],
+			"scl": [
+				2.0,
+				2.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				53.10511016845703,
+				123.63911437988281,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				60.80776596069336,
+				98.16698455810547,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				102.96443176269531,
+				139.45718383789063,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				91.01647186279297,
+				105.552001953125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				153.59149169921875,
+				105.552001953125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999993443489075,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				122.7611312866211,
+				105.552001953125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999994039535522,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				178.584228515625,
+				105.552001953125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999992847442627,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				79.71651458740234,
+				131.5850372314453,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				102.96443176269531,
+				164.39952087402344,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				102.96443176269531,
+				191.66622924804688,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				125.7239990234375,
+				174.9574737548828,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999990463256836,
+				0.9999990463256836,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				154.74798583984375,
+				174.9574737548828,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.999998927116394,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				154.74798583984375,
+				174.9574737548828,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.999998927116394,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				179.91737365722656,
+				174.9574737548828,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999988675117493,
+				0.9999988675117493,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				125.70071411132813,
+				154.37831115722656,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				178.0660400390625,
+				154.37831115722656,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				125.74897003173828,
+				134.3505096435547,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				151.17935180664063,
+				134.3505096435547,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				178.0660400390625,
+				134.3505096435547,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				155.2115936279297,
+				144.3483428955078,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				177.6870574951172,
+				143.88360595703125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				125.78717803955078,
+				144.10971069335938,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				128.62913513183594,
+				162.49789428710938,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				155.28602600097656,
+				162.49789428710938,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				177.1968536376953,
+				162.49789428710938,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				138.3805694580078,
+				118.48690795898438,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				155.4444580078125,
+				118.48690795898438,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				183.4739227294922,
+				118.48690795898438,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				136.14588928222656,
+				119.56809997558594,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				157.85653686523438,
+				119.56809997558594,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				175.774658203125,
+				119.56809997558594,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-3.462019205093384,
+				77.712646484375,
+				-0.1823534220457077
+			],
+			"rot": [
+				-3.791516027472132e-21,
+				90.0,
+				-4.5198398010360187e-29
+			],
+			"scl": [
+				2.0,
+				2.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				204.13726806640625,
+				191.26011657714844,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				250.67318725585938,
+				87.20526123046875,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				209.443603515625,
+				105.552001953125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999992251396179,
+				0.9999992251396179,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				212.0860595703125,
+				140.55393981933594,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999991059303284,
+				0.9999991059303284,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				204.13726806640625,
+				160.38168334960938,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				242.97329711914063,
+				140.55393981933594,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999990463256836,
+				0.9999990463256836,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				250.67318725585938,
+				118.2727279663086,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				250.67318725585938,
+				61.11505889892578,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				230.98533630371094,
+				52.83081817626953,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999990463256836,
+				0.9999990463256836,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				234.86114501953125,
+				68.54471588134766,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.0,
+				4.0,
+				4.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				201.4405517578125,
+				90.77369689941406,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				170.8350830078125,
+				52.830810546875,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.999998927116394,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				200.0648651123047,
+				52.830814361572266,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999989867210388,
+				0.9999989867210388,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				141.15145874023438,
+				52.830806732177734,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999988675117493,
+				0.9999988675117493,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				201.4405517578125,
+				68.61199188232422,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				168.40975952148438,
+				68.61199188232422,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				176.6842041015625,
+				78.27848815917969,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				178.56903076171875,
+				66.87789154052734,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				2.0,
+				2.0,
+				2.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				192.84469604492188,
+				160.28793334960938,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.0,
+				4.0,
+				4.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				192.84469604492188,
+				150.71466064453125,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.0,
+				4.0,
+				4.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				192.84469604492188,
+				140.71998596191406,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.0,
+				4.0,
+				4.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				192.84469604492188,
+				131.00437927246094,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.0,
+				4.0,
+				4.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				187.24330139160156,
+				78.27848815917969,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.0,
+				4.0,
+				4.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				219.5253448486328,
+				80.14232635498047,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				122.7611312866211,
+				105.552001953125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999994039535522,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				104.52578735351563,
+				90.18924713134766,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999992847442627,
+				0.9999992847442627,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				89.66584014892578,
+				75.65275573730469,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999991655349731,
+				0.9999991655349731,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				84.40171813964844,
+				93.99188995361328,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				81.78848266601563,
+				93.99188995361328,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				123.42546081542969,
+				52.830806732177734,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999988079071045,
+				0.9999988079071045,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				170.584228515625,
+				67.48773193359375,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.999999463558197,
+				0.999999463558197,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				94.64473724365234,
+				50.697021484375,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999986886978149,
+				0.9999986886978149,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				68.11967468261719,
+				50.697017669677734,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999986290931702,
+				0.9999986290931702,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				57.76741027832031,
+				66.15209197998047,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				57.76741027832031,
+				78.4391098022461,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				83.92117309570313,
+				87.61248016357422,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0590579509735107,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				41.88047790527344,
+				82.69908905029297,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				41.88047790527344,
+				69.24525451660156,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				27.059715270996094,
+				52.86472702026367,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				163.9097900390625,
+				154.37831115722656,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				138.00779724121094,
+				154.37831115722656,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				138.00779724121094,
+				134.2393341064453,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				135.69757080078125,
+				79.93167877197266,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				178.0660400390625,
+				134.3505096435547,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				153.7498321533203,
+				154.37831115722656,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				4.0,
+				4.0,
+				4.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				128.38385009765625,
+				68.58824157714844,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				141.90200805664063,
+				68.61199188232422,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				154.8916015625,
+				68.58824157714844,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				154.8916015625,
+				90.21631622314453,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				164.62181091308594,
+				134.31822204589844,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				94.06571197509766,
+				118.99188232421875,
+				0.0
+			],
+			"rot": [
+				-89.99998474121094,
+				3.3702175983307825e-07,
+				92.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999995231628418,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				68.62967681884766,
+				98.39739990234375,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				0.999999463558197,
+				0.999999463558197,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				220.95590209960938,
+				118.48690795898438,
+				-2.980232238769531e-07
+			],
+			"rot": [
+				-7.22390524406525e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				6.0,
+				6.0,
+				6.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				227.2417755126953,
+				119.56810760498047,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				89.61460876464844,
+				90.07841491699219,
+				-7.045192241668701
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				235.2738800048828,
+				76.4017105102539,
+				-1.1356080449331785e-06
+			],
+			"rot": [
+				-89.99998474121094,
+				1.4717244312123512e-06,
+				92.0
+			],
+			"scl": [
+				0.999998927116394,
+				0.9999988079071045,
+				0.9999999403953552
+			]
+		}
+	]
+}
