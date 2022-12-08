@@ -141,11 +141,13 @@ while not end_game:
 	current_music_source = hg.PlayStereo(current_music_ref, music_source_state)
 
 	#sound
-	try:
+	if "sfx_collision" in levels[level_idx]:
 		collision_ref = hg.LoadWAVSoundAsset(levels[level_idx]['sfx_collision'])
-		collect_coin_ref = hg.LoadWAVSoundAsset(levels[level_idx]['sfx_coin'])
-	except:
+	else:
 		collision_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_metal_col_0.wav")
+	if "sfx_coin" in levels[level_idx]:
+		collect_coin_ref = hg.LoadWAVSoundAsset(levels[level_idx]['sfx_coin'])
+	else:
 		collect_coin_ref = hg.LoadWAVSoundAsset("audio/sfx/sfx_got_item.wav")
 
 	# background
