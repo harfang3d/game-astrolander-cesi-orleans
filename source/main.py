@@ -479,16 +479,16 @@ while not end_game:
 
 		# on-screen usage text
 		if(level_name == 'assets/titles/victory.scn'):
-			hg.DrawText(view_id, font, 'Restart game : Press R', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			DrawTextShadow(view_id, font, 'Restart game : Press R', font_program, hg.Vec3(200, res_y - 160, 0), text_uniform_values, text_render_state)
 		else:
 			if aaa_rendering:
-				hg.DrawText(view_id, font, 'Render : AAA (K to Switch)', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+				DrawTextShadow(view_id, font, 'Render : AAA (K to Switch)', font_program, hg.Vec3(200, res_y - 160, 0), text_uniform_values, text_render_state)
 			else: 
-				hg.DrawText(view_id, font, 'Render : Basic (K to Switch)', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 160, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+				DrawTextShadow(view_id, font, 'Render : Basic (K to Switch)', font_program, hg.Vec3(200, res_y - 160, 0), text_uniform_values, text_render_state)
 
-			hg.DrawText(view_id, font, 'Restart Level: Press R', font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 120, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
-			hg.DrawText(view_id, font, 'Time factor: %f' % time_factor, font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 80, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
-			hg.DrawText(view_id, font, 'Level %d' % (level_idx + 1), font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(200, res_y - 40, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+			DrawTextShadow(view_id, font, 'Restart Level: Press R', font_program, hg.Vec3(200, res_y - 120, 0), text_uniform_values, text_render_state)
+			DrawTextShadow(view_id, font, 'Time factor: %f' % time_factor, font_program, hg.Vec3(200, res_y - 80, 0), text_uniform_values, text_render_state)
+			DrawTextShadow(view_id, font, 'Level %d' % (level_idx + 1), font_program, hg.Vec3(200, res_y - 40, 0), text_uniform_values, text_render_state)
 
 		if life < 1 or fuel < 1:
 			if velocity < 0.03:
