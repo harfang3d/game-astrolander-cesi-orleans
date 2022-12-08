@@ -286,7 +286,7 @@ while not end_game:
 		
 
 		cam_target = hg.GetT(_pod_world) * hg.Vec3(1.0, 1.0, 0.0) + cam_pos * hg.Vec3(0.0, 0.0, 1.0)
-		cam_target += physics.NodeGetLinearVelocity(pod_master) * hg.Vec3(1.0, 1.0, 0.0)
+		cam_target += physics.NodeGetLinearVelocity(pod_master) * hg.Vec3(1.0, 1.0, 0.0) * time_factor * 2.0
 		cam_pos = hg.Lerp(cam_pos, cam_target, dtsmooth * 0.5)
 		cam.GetTransform().SetPos(cam_pos)
 
