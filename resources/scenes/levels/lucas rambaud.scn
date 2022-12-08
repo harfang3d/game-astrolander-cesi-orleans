@@ -67,42 +67,6 @@
 			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x8.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x8.scn"
-		},
-		{
 			"anim": "rotation",
 			"loop_mode": "loop",
 			"name": "assets/coin.scn"
@@ -123,16 +87,22 @@
 			"name": "assets/coin.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_16x32.scn"
+			"name": "assets/generic_blocks/g_block_16x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_16x32.scn"
+			"name": "assets/generic_blocks/g_block_8x32.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_16x32.scn"
+			"name": "assets/generic_blocks/g_block_16x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_16x32.scn"
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_16x16.scn"
@@ -153,88 +123,88 @@
 			"name": "assets/generic_blocks/g_block_16x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_1x1.scn"
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_1x1.scn"
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_1x4.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+			"name": "assets/generic_blocks/g_block_1x1.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x4.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x4.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+			"name": "assets/generic_blocks/g_block_1x1.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_16x16.scn"
@@ -255,22 +225,16 @@
 			"name": "assets/generic_blocks/g_block_16x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
+			"name": "assets/generic_blocks/g_block_16x32.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
+			"name": "assets/generic_blocks/g_block_16x32.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
+			"name": "assets/generic_blocks/g_block_16x32.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
+			"name": "assets/generic_blocks/g_block_16x32.scn"
 		},
 		{
 			"anim": "rotation",
@@ -293,10 +257,212 @@
 			"name": "assets/coin.scn"
 		},
 		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
 			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
@@ -317,183 +483,22 @@
 			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
 		},
 		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
 			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_8x8.scn"
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x8.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_16x16.scn"
@@ -502,7 +507,289 @@
 			"name": "assets/generic_blocks/g_block_8x32.scn"
 		},
 		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
 			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/prop_reservoir/prop_reservoir.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/prop_reservoir/prop_reservoir.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
@@ -512,6 +799,21 @@
 		},
 		{
 			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_8x32.scn"
@@ -535,54 +837,6 @@
 			"name": "assets/generic_blocks/g_block_8x32.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x8.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x4.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x4.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x4.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x4.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x8.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_4x8.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
 			"name": "assets/generic_blocks/g_block_8x32.scn"
 		},
 		{
@@ -592,70 +846,10 @@
 			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x8.scn"
-		},
-		{
-			"name": "assets/prop_reservoir/prop_reservoir.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
 			"name": "assets/generic_blocks/g_block_16x16.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
 		},
 		{
 			"name": "assets/generic_blocks/g_block_16x16.scn"
@@ -666,58 +860,6 @@
 			"name": "assets/coin.scn"
 		},
 		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
-		},
-		{
 			"anim": "rotation",
 			"loop_mode": "loop",
 			"name": "assets/coin.scn"
@@ -733,104 +875,7 @@
 			"name": "assets/coin.scn"
 		},
 		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/prop_reservoir/prop_reservoir.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_8x32.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_16x16.scn"
-		},
-		{
 			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"name": "assets/generic_blocks/g_block_tr_8x16.scn"
-		},
-		{
-			"anim": "rotation",
-			"loop_mode": "loop",
-			"name": "assets/coin.scn"
 		}
 	],
 	"key_values": null,
@@ -905,7 +950,7 @@
 			],
 			"disabled": false,
 			"idx": 0,
-			"instance": 18,
+			"instance": 55,
 			"name": "g_block_16x32"
 		},
 		{
@@ -918,7 +963,7 @@
 			],
 			"disabled": false,
 			"idx": 1,
-			"instance": 19,
+			"instance": 54,
 			"name": "g_block_16x32"
 		},
 		{
@@ -931,7 +976,7 @@
 			],
 			"disabled": false,
 			"idx": 2,
-			"instance": 22,
+			"instance": 51,
 			"name": "g_block_16x16"
 		},
 		{
@@ -944,7 +989,7 @@
 			],
 			"disabled": false,
 			"idx": 3,
-			"instance": 23,
+			"instance": 50,
 			"name": "g_block_16x16"
 		},
 		{
@@ -957,7 +1002,7 @@
 			],
 			"disabled": false,
 			"idx": 4,
-			"instance": 25,
+			"instance": 48,
 			"name": "g_block_16x16"
 		},
 		{
@@ -970,7 +1015,7 @@
 			],
 			"disabled": false,
 			"idx": 5,
-			"instance": 27,
+			"instance": 46,
 			"name": "g_block_16x16"
 		},
 		{
@@ -983,7 +1028,7 @@
 			],
 			"disabled": false,
 			"idx": 6,
-			"instance": 45,
+			"instance": 28,
 			"name": "g_block_4x4"
 		},
 		{
@@ -996,7 +1041,7 @@
 			],
 			"disabled": false,
 			"idx": 7,
-			"instance": 143,
+			"instance": 181,
 			"name": "g_block_4x8"
 		},
 		{
@@ -1009,7 +1054,7 @@
 			],
 			"disabled": false,
 			"idx": 8,
-			"instance": 20,
+			"instance": 53,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1022,7 +1067,7 @@
 			],
 			"disabled": false,
 			"idx": 9,
-			"instance": 21,
+			"instance": 52,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1035,7 +1080,7 @@
 			],
 			"disabled": false,
 			"idx": 10,
-			"instance": 24,
+			"instance": 49,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1048,7 +1093,7 @@
 			],
 			"disabled": false,
 			"idx": 11,
-			"instance": 26,
+			"instance": 47,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1061,7 +1106,7 @@
 			],
 			"disabled": false,
 			"idx": 12,
-			"instance": 147,
+			"instance": 210,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1074,7 +1119,7 @@
 			],
 			"disabled": false,
 			"idx": 13,
-			"instance": 141,
+			"instance": 183,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1087,7 +1132,7 @@
 			],
 			"disabled": false,
 			"idx": 14,
-			"instance": 145,
+			"instance": 212,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1100,7 +1145,7 @@
 			],
 			"disabled": false,
 			"idx": 15,
-			"instance": 148,
+			"instance": 209,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1113,7 +1158,7 @@
 			],
 			"disabled": false,
 			"idx": 16,
-			"instance": 149,
+			"instance": 208,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1126,7 +1171,7 @@
 			],
 			"disabled": false,
 			"idx": 17,
-			"instance": 30,
+			"instance": 43,
 			"name": "g_block_1x4"
 		},
 		{
@@ -1139,7 +1184,7 @@
 			],
 			"disabled": false,
 			"idx": 18,
-			"instance": 29,
+			"instance": 44,
 			"name": "g_block_1x1"
 		},
 		{
@@ -1152,7 +1197,7 @@
 			],
 			"disabled": false,
 			"idx": 19,
-			"instance": 28,
+			"instance": 45,
 			"name": "g_block_1x1"
 		},
 		{
@@ -1165,7 +1210,7 @@
 			],
 			"disabled": false,
 			"idx": 20,
-			"instance": 146,
+			"instance": 211,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1178,7 +1223,7 @@
 			],
 			"disabled": false,
 			"idx": 21,
-			"instance": 137,
+			"instance": 187,
 			"name": "g_block_4x8"
 		},
 		{
@@ -1191,7 +1236,7 @@
 			],
 			"disabled": false,
 			"idx": 22,
-			"instance": 150,
+			"instance": 207,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1204,7 +1249,7 @@
 			],
 			"disabled": false,
 			"idx": 23,
-			"instance": 140,
+			"instance": 184,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1217,7 +1262,7 @@
 			],
 			"disabled": false,
 			"idx": 24,
-			"instance": 46,
+			"instance": 27,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1230,7 +1275,7 @@
 			],
 			"disabled": false,
 			"idx": 25,
-			"instance": 139,
+			"instance": 185,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1243,7 +1288,7 @@
 			],
 			"disabled": false,
 			"idx": 26,
-			"instance": 138,
+			"instance": 186,
 			"name": "g_block_4x4"
 		},
 		{
@@ -1256,7 +1301,7 @@
 			],
 			"disabled": false,
 			"idx": 27,
-			"instance": 144,
+			"instance": 213,
 			"name": "g_block_4x8"
 		},
 		{
@@ -1269,7 +1314,7 @@
 			],
 			"disabled": false,
 			"idx": 28,
-			"instance": 17,
+			"instance": 56,
 			"name": "Coin"
 		},
 		{
@@ -1282,7 +1327,7 @@
 			],
 			"disabled": false,
 			"idx": 29,
-			"instance": 16,
+			"instance": 57,
 			"name": "Coin"
 		},
 		{
@@ -1295,12 +1340,12 @@
 			],
 			"disabled": false,
 			"idx": 30,
-			"instance": 136,
+			"instance": 188,
 			"name": "Coin"
 		},
 		{
 			"components": [
-				249,
+				246,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1308,7 +1353,7 @@
 			],
 			"disabled": false,
 			"idx": 31,
-			"instance": 78,
+			"instance": 107,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -1321,7 +1366,7 @@
 			],
 			"disabled": false,
 			"idx": 32,
-			"instance": 135,
+			"instance": 189,
 			"name": "Coin"
 		},
 		{
@@ -1334,12 +1379,12 @@
 			],
 			"disabled": false,
 			"idx": 33,
-			"instance": 15,
+			"instance": 58,
 			"name": "Coin"
 		},
 		{
 			"components": [
-				103,
+				95,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1347,12 +1392,12 @@
 			],
 			"disabled": false,
 			"idx": 34,
-			"instance": 123,
+			"instance": 225,
 			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
-				104,
+				96,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1360,7 +1405,7 @@
 			],
 			"disabled": false,
 			"idx": 35,
-			"instance": 122,
+			"instance": 226,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1373,7 +1418,7 @@
 			],
 			"disabled": false,
 			"idx": 36,
-			"instance": 14,
+			"instance": 59,
 			"name": "Coin"
 		},
 		{
@@ -1446,7 +1491,7 @@
 			],
 			"disabled": false,
 			"idx": 42,
-			"instance": 13,
+			"instance": 60,
 			"name": "g_block_8x8"
 		},
 		{
@@ -1459,7 +1504,7 @@
 			],
 			"disabled": false,
 			"idx": 43,
-			"instance": 12,
+			"instance": 61,
 			"name": "g_block_8x8"
 		},
 		{
@@ -1472,7 +1517,7 @@
 			],
 			"disabled": false,
 			"idx": 44,
-			"instance": 133,
+			"instance": 215,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1485,7 +1530,7 @@
 			],
 			"disabled": false,
 			"idx": 45,
-			"instance": 134,
+			"instance": 214,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1510,7 +1555,7 @@
 			],
 			"disabled": false,
 			"idx": 47,
-			"instance": 155,
+			"instance": 176,
 			"name": "prop_reservoir"
 		},
 		{
@@ -1523,7 +1568,7 @@
 			],
 			"disabled": false,
 			"idx": 48,
-			"instance": 154,
+			"instance": 177,
 			"name": "g_block_8x8"
 		},
 		{
@@ -1564,7 +1609,7 @@
 		},
 		{
 			"components": [
-				105,
+				97,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1572,12 +1617,12 @@
 			],
 			"disabled": false,
 			"idx": 52,
-			"instance": 142,
+			"instance": 182,
 			"name": "Coin"
 		},
 		{
 			"components": [
-				106,
+				98,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1585,66 +1630,66 @@
 			],
 			"disabled": false,
 			"idx": 53,
-			"instance": 128,
+			"instance": 220,
 			"name": "g_block_16x32"
 		},
 		{
 			"components": [
-				107,
+				99,
 				4294967295,
-				32,
+				24,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 54,
-			"instance": 66,
+			"instance": 7,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				108,
+				100,
+				4294967295,
+				17,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 55,
+			"instance": 222,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				101,
+				4294967295,
+				27,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 56,
+			"instance": 223,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				102,
 				4294967295,
 				25,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 55,
-			"instance": 126,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				109,
-				4294967295,
-				35,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 56,
-			"instance": 125,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				110,
-				4294967295,
-				33,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
 			"idx": 57,
-			"instance": 124,
+			"instance": 224,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				111,
+				103,
 				4294967295,
-				34,
+				26,
 				4294967295,
 				4294967295
 			],
@@ -1662,7 +1707,7 @@
 			],
 			"disabled": false,
 			"idx": 59,
-			"instance": 11,
+			"instance": 62,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1675,7 +1720,7 @@
 			],
 			"disabled": false,
 			"idx": 60,
-			"instance": 10,
+			"instance": 63,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1688,7 +1733,7 @@
 			],
 			"disabled": false,
 			"idx": 61,
-			"instance": 9,
+			"instance": 64,
 			"name": "g_block_16x32"
 		},
 		{
@@ -1701,7 +1746,7 @@
 			],
 			"disabled": false,
 			"idx": 62,
-			"instance": 8,
+			"instance": 65,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1714,7 +1759,7 @@
 			],
 			"disabled": false,
 			"idx": 63,
-			"instance": 7,
+			"instance": 66,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1727,7 +1772,7 @@
 			],
 			"disabled": false,
 			"idx": 64,
-			"instance": 6,
+			"instance": 67,
 			"name": "g_block_16x16"
 		},
 		{
@@ -1739,13 +1784,26 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 66,
-			"instance": 5,
+			"idx": 65,
+			"instance": 68,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				250,
+				247,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 66,
+			"instance": 118,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				248,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1753,12 +1811,12 @@
 			],
 			"disabled": false,
 			"idx": 67,
-			"instance": 199,
+			"instance": 115,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				251,
+				234,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -1766,33 +1824,20 @@
 			],
 			"disabled": false,
 			"idx": 68,
-			"instance": 202,
+			"instance": 114,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				242,
+				235,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 70,
-			"instance": 203,
-			"name": "g_block_tr_8x16"
-		},
-		{
-			"components": [
-				243,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 71,
-			"instance": 200,
+			"idx": 69,
+			"instance": 117,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -1804,8 +1849,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 72,
-			"instance": 4,
+			"idx": 70,
+			"instance": 69,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1817,20 +1862,20 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 73,
+			"idx": 71,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				244,
+				236,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 74,
-			"instance": 183,
+			"idx": 72,
+			"instance": 141,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -1842,8 +1887,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 75,
-			"instance": 3,
+			"idx": 73,
+			"instance": 70,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1855,8 +1900,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 76,
-			"instance": 2,
+			"idx": 74,
+			"instance": 71,
 			"name": "g_block_8x32"
 		},
 		{
@@ -1868,8 +1913,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 78,
-			"instance": 1,
+			"idx": 75,
+			"instance": 72,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1881,8 +1926,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 79,
-			"instance": 73,
+			"idx": 76,
+			"instance": 0,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1894,8 +1939,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 80,
-			"instance": 72,
+			"idx": 77,
+			"instance": 1,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1907,8 +1952,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 81,
-			"instance": 0,
+			"idx": 78,
+			"instance": 73,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -1920,9 +1965,61 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 82,
-			"instance": 186,
+			"idx": 79,
+			"instance": 138,
 			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				237,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 80,
+			"instance": 147,
+			"name": "g_block_tr_4x4"
+		},
+		{
+			"components": [
+				238,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 81,
+			"instance": 146,
+			"name": "g_block_tr_4x4"
+		},
+		{
+			"components": [
+				239,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 82,
+			"instance": 149,
+			"name": "g_block_tr_4x4"
+		},
+		{
+			"components": [
+				240,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 83,
+			"instance": 150,
+			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
@@ -1933,104 +2030,125 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 83,
+			"idx": 84,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				241,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 85,
+			"instance": 119,
 			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
 				66,
 				4294967295,
-				10,
 				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 84,
-			"name": "g_block_tr_4x4"
-		},
-		{
-			"components": [
-				67,
-				4294967295,
-				11,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 85,
-			"name": "g_block_tr_4x4"
-		},
-		{
-			"components": [
-				68,
-				4294967295,
-				12,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 86,
-			"name": "g_block_tr_4x4"
+			"instance": 2,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				69,
+				67,
 				4294967295,
-				13,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 87,
-			"name": "g_block_tr_4x4"
+			"instance": 3,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				70,
+				68,
 				4294967295,
-				14,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 88,
-			"name": "g_block_tr_4x4"
+			"instance": 137,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				71,
+				69,
 				4294967295,
-				15,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 89,
-			"name": "g_block_tr_4x16"
+			"instance": 136,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				72,
+				70,
 				4294967295,
-				16,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 90,
-			"name": "g_block_tr_4x4"
+			"instance": 4,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				73,
+				71,
 				4294967295,
-				17,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 91,
-			"name": "g_block_tr_4x4"
+			"instance": 178,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				72,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 92,
+			"instance": 5,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				73,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 93,
+			"instance": 194,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -2041,8 +2159,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 92,
-			"instance": 71,
+			"idx": 94,
+			"instance": 135,
 			"name": "Coin"
 		},
 		{
@@ -2054,39 +2172,13 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 93,
-			"instance": 70,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				76,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 94,
-			"instance": 187,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				77,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
 			"idx": 95,
-			"instance": 188,
+			"instance": 134,
 			"name": "Coin"
 		},
 		{
 			"components": [
-				78,
+				242,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2094,25 +2186,25 @@
 			],
 			"disabled": false,
 			"idx": 96,
-			"instance": 69,
-			"name": "Coin"
+			"instance": 112,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				79,
+				76,
 				4294967295,
-				4294967295,
+				10,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 97,
-			"instance": 153,
-			"name": "Coin"
+			"instance": 133,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				80,
+				104,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2120,8 +2212,56 @@
 			],
 			"disabled": false,
 			"idx": 98,
-			"instance": 68,
-			"name": "Coin"
+			"instance": 227,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				77,
+				4294967295,
+				11,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 99,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				78,
+				4294967295,
+				12,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 100,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				79,
+				4294967295,
+				13,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 101,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				80,
+				4294967295,
+				14,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 102,
+			"name": "g_block_4x4"
 		},
 		{
 			"components": [
@@ -2132,8 +2272,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 99,
-			"instance": 219,
+			"idx": 103,
+			"instance": 132,
 			"name": "Coin"
 		},
 		{
@@ -2145,9 +2285,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 100,
-			"instance": 189,
-			"name": "Coin"
+			"idx": 104,
+			"instance": 131,
+			"name": "prop_reservoir"
 		},
 		{
 			"components": [
@@ -2158,100 +2298,50 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 101,
-			"instance": 190,
+			"idx": 105,
+			"instance": 130,
 			"name": "Coin"
 		},
 		{
 			"components": [
-				245,
+				84,
 				4294967295,
-				4294967295,
+				15,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 102,
-			"instance": 205,
-			"name": "g_block_tr_8x16"
+			"idx": 106,
+			"name": "bonus_fast_clock"
 		},
 		{
 			"components": [
-				84,
+				85,
+				4294967295,
+				16,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 107,
+			"name": "bonus_heal"
+		},
+		{
+			"components": [
+				86,
 				4294967295,
 				18,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 103,
-			"instance": 191,
+			"idx": 108,
+			"instance": 221,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				112,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 104,
-			"instance": 121,
-			"name": "g_block_16x16"
-		},
-		{
-			"components": [
-				85,
-				4294967295,
-				19,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 105,
-			"name": "g_block_4x4"
-		},
-		{
-			"components": [
-				86,
-				4294967295,
-				20,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 106,
-			"name": "g_block_4x4"
-		},
-		{
-			"components": [
 				87,
-				4294967295,
-				21,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 107,
-			"name": "g_block_4x4"
-		},
-		{
-			"components": [
-				88,
-				4294967295,
-				22,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 108,
-			"name": "g_block_4x4"
-		},
-		{
-			"components": [
-				89,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2259,8 +2349,33 @@
 			],
 			"disabled": false,
 			"idx": 109,
-			"instance": 192,
-			"name": "Coin"
+			"instance": 129,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				88,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 110,
+			"instance": 156,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				89,
+				4294967295,
+				19,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 111,
+			"name": "bonus_slow_clock"
 		},
 		{
 			"components": [
@@ -2271,63 +2386,39 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 110,
-			"instance": 193,
-			"name": "prop_reservoir"
+			"idx": 112,
+			"instance": 155,
+			"name": "Coin"
 		},
 		{
 			"components": [
 				91,
 				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 111,
-			"instance": 194,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				92,
-				4294967295,
-				23,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 112,
-			"name": "bonus_fast_clock"
-		},
-		{
-			"components": [
-				93,
-				4294967295,
-				24,
+				20,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 113,
-			"name": "bonus_heal"
+			"instance": 154,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				94,
+				243,
 				4294967295,
-				26,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 114,
-			"instance": 127,
-			"name": "g_block_8x32"
+			"instance": 204,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				95,
+				244,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2335,37 +2426,37 @@
 			],
 			"disabled": false,
 			"idx": 115,
-			"instance": 195,
-			"name": "g_block_16x16"
+			"instance": 206,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				96,
+				92,
 				4294967295,
-				4294967295,
+				21,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 116,
-			"instance": 175,
-			"name": "g_block_16x16"
+			"instance": 153,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				97,
+				93,
 				4294967295,
-				27,
+				22,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 117,
-			"name": "bonus_slow_clock"
+			"name": "bonus_heal"
 		},
 		{
 			"components": [
-				98,
+				245,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2373,38 +2464,51 @@
 			],
 			"disabled": false,
 			"idx": 118,
-			"instance": 176,
-			"name": "Coin"
+			"instance": 200,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				99,
+				94,
+				4294967295,
+				23,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 119,
+			"instance": 152,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				105,
 				4294967295,
 				28,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 119,
-			"instance": 177,
+			"idx": 120,
+			"instance": 127,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				246,
+				249,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 120,
-			"instance": 208,
+			"idx": 121,
+			"instance": 111,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				247,
+				106,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2412,37 +2516,51 @@
 			],
 			"disabled": false,
 			"idx": 122,
-			"instance": 206,
+			"instance": 126,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				250,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 123,
+			"instance": 140,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				100,
+				107,
 				4294967295,
-				29,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 124,
-			"instance": 178,
-			"name": "g_block_8x32"
+			"instance": 75,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				101,
+				108,
 				4294967295,
-				30,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 125,
-			"name": "bonus_heal"
+			"instance": 192,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				248,
+				109,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2450,38 +2568,38 @@
 			],
 			"disabled": false,
 			"idx": 126,
-			"instance": 212,
-			"name": "g_block_tr_8x16"
+			"instance": 191,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				102,
+				110,
 				4294967295,
-				31,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 127,
-			"instance": 179,
-			"name": "g_block_8x32"
+			"instance": 233,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				113,
+				111,
 				4294967295,
-				36,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 128,
-			"instance": 197,
-			"name": "g_block_8x32"
+			"instance": 190,
+			"name": "Coin"
 		},
 		{
 			"components": [
-				252,
+				112,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2489,8 +2607,21 @@
 			],
 			"disabled": false,
 			"idx": 129,
-			"instance": 74,
-			"name": "g_block_tr_8x16"
+			"instance": 232,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				113,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 130,
+			"instance": 231,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -2501,22 +2632,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 130,
-			"instance": 198,
-			"name": "g_block_16x16"
-		},
-		{
-			"components": [
-				253,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
 			"idx": 131,
-			"instance": 184,
-			"name": "g_block_tr_8x16"
+			"instance": 230,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -2528,25 +2646,24 @@
 			],
 			"disabled": false,
 			"idx": 132,
-			"instance": 111,
+			"instance": 128,
 			"name": "Coin"
 		},
 		{
 			"components": [
 				116,
 				4294967295,
-				4294967295,
+				29,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 133,
-			"instance": 112,
-			"name": "Coin"
+			"name": "bonus_fuel"
 		},
 		{
 			"components": [
-				117,
+				251,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2554,12 +2671,12 @@
 			],
 			"disabled": false,
 			"idx": 134,
-			"instance": 113,
-			"name": "Coin"
+			"instance": 203,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				118,
+				252,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -2567,8 +2684,32 @@
 			],
 			"disabled": false,
 			"idx": 135,
-			"instance": 114,
-			"name": "Coin"
+			"instance": 199,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				117,
+				4294967295,
+				30,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 136,
+			"name": "bonus_slow_clock"
+		},
+		{
+			"components": [
+				118,
+				4294967295,
+				31,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 137,
+			"name": "g_block_tr_2x8"
 		},
 		{
 			"components": [
@@ -2579,9 +2720,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 136,
-			"instance": 115,
-			"name": "Coin"
+			"idx": 138,
+			"instance": 229,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
@@ -2592,60 +2733,73 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 137,
-			"instance": 116,
-			"name": "Coin"
+			"idx": 139,
+			"instance": 6,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
 				121,
 				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 138,
-			"instance": 117,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				122,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 139,
-			"instance": 118,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				123,
-				4294967295,
-				4294967295,
+				32,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 140,
-			"instance": 196,
-			"name": "Coin"
+			"instance": 228,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				124,
+				122,
 				4294967295,
-				37,
+				33,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 141,
-			"name": "bonus_fuel"
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				123,
+				4294967295,
+				34,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 142,
+			"instance": 179,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				124,
+				4294967295,
+				35,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 143,
+			"instance": 180,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				253,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 144,
+			"instance": 121,
+			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
@@ -2656,46 +2810,35 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 142,
-			"instance": 209,
-			"name": "g_block_tr_8x16"
-		},
-		{
-			"components": [
-				255,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 143,
-			"instance": 213,
+			"idx": 145,
+			"instance": 202,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
 				125,
 				4294967295,
-				38,
+				36,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 144,
-			"name": "bonus_slow_clock"
+			"idx": 146,
+			"instance": 175,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
 				126,
 				4294967295,
-				39,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 145,
-			"name": "g_block_tr_2x8"
+			"idx": 147,
+			"instance": 174,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
@@ -2706,8 +2849,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 146,
-			"instance": 119,
+			"idx": 148,
+			"instance": 173,
 			"name": "g_block_16x16"
 		},
 		{
@@ -2719,110 +2862,100 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 147,
-			"instance": 67,
+			"idx": 149,
+			"instance": 172,
 			"name": "g_block_16x16"
 		},
 		{
 			"components": [
 				129,
 				4294967295,
-				40,
 				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 148,
-			"instance": 120,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				130,
-				4294967295,
-				41,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 149,
-			"name": "g_block_tr_2x8"
-		},
-		{
-			"components": [
-				131,
-				4294967295,
-				42,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 150,
-			"instance": 152,
+			"instance": 171,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				130,
+				4294967295,
+				37,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 151,
+			"instance": 170,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				131,
+				4294967295,
+				38,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 152,
+			"instance": 169,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
 				132,
 				4294967295,
-				43,
+				39,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 151,
-			"instance": 151,
+			"idx": 153,
+			"instance": 168,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
 				133,
 				4294967295,
-				44,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 152,
-			"name": "g_block_tr_4x4"
-		},
-		{
-			"components": [
-				134,
-				4294967295,
-				45,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 153,
-			"name": "g_block_tr_4x4"
-		},
-		{
-			"components": [
-				256,
-				4294967295,
-				4294967295,
+				40,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 154,
-			"instance": 210,
-			"name": "g_block_tr_8x16"
+			"instance": 167,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
-				135,
+				134,
 				4294967295,
-				46,
+				41,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 155,
-			"instance": 156,
+			"instance": 166,
 			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				135,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 156,
+			"instance": 165,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -2833,9 +2966,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 156,
-			"instance": 157,
-			"name": "g_block_16x16"
+			"idx": 157,
+			"instance": 164,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -2846,22 +2979,47 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 157,
-			"instance": 158,
+			"idx": 158,
+			"instance": 163,
 			"name": "g_block_16x16"
 		},
 		{
 			"components": [
 				138,
 				4294967295,
+				42,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 159,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				255,
+				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 158,
-			"instance": 159,
-			"name": "g_block_16x16"
+			"idx": 160,
+			"instance": 116,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				256,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 161,
+			"instance": 142,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
@@ -2872,125 +3030,48 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 159,
-			"instance": 160,
+			"idx": 162,
+			"instance": 162,
 			"name": "g_block_16x16"
 		},
 		{
 			"components": [
 				140,
 				4294967295,
-				47,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 160,
+			"idx": 163,
 			"instance": 161,
-			"name": "g_block_8x32"
+			"name": "Coin"
 		},
 		{
 			"components": [
 				141,
 				4294967295,
-				48,
+				43,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 161,
-			"instance": 162,
+			"idx": 164,
+			"instance": 160,
 			"name": "g_block_8x32"
 		},
 		{
 			"components": [
 				142,
 				4294967295,
-				49,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 162,
-			"instance": 163,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				143,
-				4294967295,
-				50,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 163,
-			"instance": 164,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				144,
-				4294967295,
-				51,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 164,
-			"instance": 165,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				145,
-				4294967295,
-				4294967295,
+				44,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 165,
-			"instance": 166,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				146,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 166,
-			"instance": 167,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				147,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 168,
-			"instance": 168,
-			"name": "g_block_16x16"
-		},
-		{
-			"components": [
-				148,
-				4294967295,
-				52,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 169,
-			"name": "g_block_tr_8x16"
+			"instance": 159,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
@@ -3001,9 +3082,35 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 170,
-			"instance": 201,
+			"idx": 166,
+			"instance": 196,
 			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				143,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 167,
+			"instance": 158,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				144,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 168,
+			"instance": 157,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
@@ -3014,61 +3121,45 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 171,
-			"instance": 182,
+			"idx": 169,
+			"instance": 234,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				149,
+				145,
 				4294967295,
-				4294967295,
+				45,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 173,
-			"instance": 169,
-			"name": "g_block_16x16"
+			"idx": 170,
+			"name": "g_block_4x4"
 		},
 		{
 			"components": [
-				150,
+				146,
 				4294967295,
-				4294967295,
+				46,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 174,
-			"instance": 170,
-			"name": "Coin"
+			"idx": 171,
+			"name": "g_block_4x4"
 		},
 		{
 			"components": [
-				151,
+				147,
 				4294967295,
-				53,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 175,
-			"instance": 171,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				152,
-				4294967295,
-				54,
+				47,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 176,
-			"instance": 172,
-			"name": "g_block_8x32"
+			"idx": 172,
+			"name": "g_block_4x4"
 		},
 		{
 			"components": [
@@ -3079,9 +3170,100 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 177,
-			"instance": 217,
+			"idx": 173,
+			"instance": 197,
 			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				260,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 174,
+			"instance": 108,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				261,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 175,
+			"instance": 110,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				148,
+				4294967295,
+				48,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 176,
+			"instance": 219,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				149,
+				4294967295,
+				49,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 177,
+			"instance": 218,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				150,
+				4294967295,
+				50,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 178,
+			"instance": 217,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				151,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 179,
+			"instance": 216,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				152,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 180,
+			"instance": 8,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
@@ -3092,8 +3274,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 178,
-			"instance": 173,
+			"idx": 181,
+			"instance": 9,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3105,71 +3287,22 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 179,
-			"instance": 174,
-			"name": "g_block_16x16"
-		},
-		{
-			"components": [
-				260,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 180,
-			"instance": 216,
-			"name": "g_block_tr_8x16"
+			"idx": 182,
+			"instance": 10,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
 				155,
 				4294967295,
-				55,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 181,
-			"name": "g_block_4x4"
-		},
-		{
-			"components": [
-				156,
-				4294967295,
-				56,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 182,
-			"name": "g_block_4x4"
-		},
-		{
-			"components": [
-				157,
-				4294967295,
-				57,
+				51,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 183,
-			"name": "g_block_4x4"
-		},
-		{
-			"components": [
-				261,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 184,
-			"instance": 215,
-			"name": "g_block_tr_8x16"
+			"instance": 11,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
@@ -3180,13 +3313,26 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 185,
-			"instance": 77,
+			"idx": 184,
+			"instance": 143,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				263,
+				269,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 185,
+			"instance": 74,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				156,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3194,47 +3340,60 @@
 			],
 			"disabled": false,
 			"idx": 186,
-			"instance": 75,
-			"name": "g_block_tr_8x16"
+			"instance": 12,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
-				158,
+				157,
 				4294967295,
-				58,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 187,
-			"instance": 129,
-			"name": "g_block_8x32"
+			"instance": 13,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
-				159,
+				158,
 				4294967295,
-				59,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 188,
-			"instance": 130,
-			"name": "g_block_8x32"
+			"instance": 14,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
-				160,
+				159,
 				4294967295,
-				60,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 189,
-			"instance": 131,
-			"name": "g_block_8x32"
+			"instance": 15,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				160,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 190,
+			"instance": 16,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
@@ -3245,9 +3404,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 190,
-			"instance": 132,
-			"name": "g_block_tr_4x16"
+			"idx": 191,
+			"instance": 17,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
@@ -3258,9 +3417,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 191,
-			"instance": 65,
-			"name": "g_block_16x16"
+			"idx": 192,
+			"instance": 18,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
@@ -3271,9 +3430,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 192,
-			"instance": 64,
-			"name": "g_block_16x16"
+			"idx": 193,
+			"instance": 19,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
@@ -3284,26 +3443,13 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 193,
-			"instance": 63,
-			"name": "g_block_8x32"
+			"idx": 194,
+			"instance": 20,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
 				165,
-				4294967295,
-				61,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 194,
-			"instance": 62,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				264,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3311,20 +3457,21 @@
 			],
 			"disabled": false,
 			"idx": 195,
-			"instance": 181,
-			"name": "g_block_tr_8x16"
+			"instance": 21,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
 				166,
 				4294967295,
-				62,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 196,
-			"name": "g_block_tr_8x16"
+			"instance": 22,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
@@ -3336,7 +3483,7 @@
 			],
 			"disabled": false,
 			"idx": 197,
-			"instance": 61,
+			"instance": 23,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3349,7 +3496,7 @@
 			],
 			"disabled": false,
 			"idx": 198,
-			"instance": 60,
+			"instance": 24,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3362,7 +3509,7 @@
 			],
 			"disabled": false,
 			"idx": 199,
-			"instance": 59,
+			"instance": 25,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3375,7 +3522,7 @@
 			],
 			"disabled": false,
 			"idx": 200,
-			"instance": 58,
+			"instance": 26,
 			"name": "g_block_16x16"
 		},
 		{
@@ -3388,34 +3535,46 @@
 			],
 			"disabled": false,
 			"idx": 201,
-			"instance": 57,
+			"instance": 29,
 			"name": "g_block_16x16"
 		},
 		{
 			"components": [
 				172,
 				4294967295,
-				4294967295,
+				52,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 202,
-			"instance": 56,
-			"name": "g_block_16x16"
+			"instance": 30,
+			"name": "g_block_8x32"
 		},
 		{
 			"components": [
 				173,
+				4294967295,
+				53,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 203,
+			"name": "bonus_fuel"
+		},
+		{
+			"components": [
+				263,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 203,
-			"instance": 55,
-			"name": "g_block_tr_4x16"
+			"idx": 204,
+			"instance": 144,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
@@ -3426,8 +3585,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 204,
-			"instance": 54,
+			"idx": 205,
+			"instance": 31,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3439,8 +3598,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 205,
-			"instance": 53,
+			"idx": 206,
+			"instance": 32,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3452,8 +3611,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 206,
-			"instance": 52,
+			"idx": 207,
+			"instance": 33,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3465,8 +3624,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 207,
-			"instance": 51,
+			"idx": 208,
+			"instance": 34,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3478,9 +3637,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 208,
-			"instance": 50,
-			"name": "g_block_16x16"
+			"idx": 209,
+			"instance": 35,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
@@ -3491,9 +3650,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 209,
-			"instance": 49,
-			"name": "g_block_16x16"
+			"idx": 210,
+			"instance": 36,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
@@ -3504,9 +3663,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 210,
-			"instance": 48,
-			"name": "g_block_16x16"
+			"idx": 211,
+			"instance": 37,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
@@ -3517,9 +3676,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 211,
-			"instance": 47,
-			"name": "g_block_16x16"
+			"idx": 212,
+			"instance": 38,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
@@ -3530,38 +3689,39 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 212,
-			"instance": 44,
-			"name": "g_block_16x16"
+			"idx": 213,
+			"instance": 39,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
 				183,
 				4294967295,
-				63,
 				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 213,
-			"instance": 43,
-			"name": "g_block_8x32"
-		},
-		{
-			"components": [
-				184,
-				4294967295,
-				64,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
 			"idx": 214,
-			"name": "bonus_fuel"
+			"instance": 40,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
-				265,
+				264,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 215,
+			"instance": 124,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				184,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3569,8 +3729,8 @@
 			],
 			"disabled": false,
 			"idx": 216,
-			"instance": 180,
-			"name": "g_block_tr_8x16"
+			"instance": 41,
+			"name": "g_block_tr_4x16"
 		},
 		{
 			"components": [
@@ -3587,7 +3747,7 @@
 		},
 		{
 			"components": [
-				186,
+				265,
 				4294967295,
 				4294967295,
 				4294967295,
@@ -3595,8 +3755,21 @@
 			],
 			"disabled": false,
 			"idx": 218,
-			"instance": 41,
-			"name": "g_block_tr_4x16"
+			"instance": 125,
+			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				186,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 219,
+			"instance": 76,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
@@ -3607,9 +3780,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 219,
-			"instance": 40,
-			"name": "g_block_tr_4x16"
+			"idx": 220,
+			"instance": 77,
+			"name": "g_block_16x16"
 		},
 		{
 			"components": [
@@ -3620,8 +3793,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 220,
-			"instance": 39,
+			"idx": 221,
+			"instance": 78,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3633,8 +3806,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 221,
-			"instance": 38,
+			"idx": 222,
+			"instance": 79,
 			"name": "g_block_tr_4x16"
 		},
 		{
@@ -3646,9 +3819,22 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 222,
-			"instance": 37,
+			"idx": 223,
+			"instance": 80,
 			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				268,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 224,
+			"instance": 123,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
@@ -3659,9 +3845,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 223,
-			"instance": 36,
-			"name": "g_block_tr_4x16"
+			"idx": 225,
+			"instance": 81,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3672,9 +3858,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 224,
-			"instance": 35,
-			"name": "g_block_tr_4x16"
+			"idx": 226,
+			"instance": 82,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3685,9 +3871,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 225,
-			"instance": 34,
-			"name": "g_block_tr_4x16"
+			"idx": 227,
+			"instance": 83,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3698,21 +3884,22 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 226,
-			"instance": 33,
-			"name": "g_block_tr_4x16"
+			"idx": 228,
+			"instance": 84,
+			"name": "Coin"
 		},
 		{
 			"components": [
 				195,
 				4294967295,
-				65,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 227,
-			"name": "g_block_tr_8x16"
+			"idx": 229,
+			"instance": 85,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3723,9 +3910,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 228,
-			"instance": 32,
-			"name": "g_block_tr_4x16"
+			"idx": 230,
+			"instance": 86,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3736,21 +3923,22 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 229,
-			"instance": 31,
-			"name": "g_block_tr_4x16"
+			"idx": 231,
+			"instance": 87,
+			"name": "Coin"
 		},
 		{
 			"components": [
 				198,
 				4294967295,
-				66,
+				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 230,
-			"name": "g_block_tr_8x16"
+			"idx": 232,
+			"instance": 88,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3761,9 +3949,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 388,
-			"instance": 110,
-			"name": "g_block_16x16"
+			"idx": 233,
+			"instance": 89,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3774,9 +3962,22 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 390,
-			"instance": 109,
-			"name": "g_block_16x16"
+			"idx": 234,
+			"instance": 90,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				266,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 235,
+			"instance": 139,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3787,9 +3988,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 392,
-			"instance": 108,
-			"name": "g_block_tr_4x16"
+			"idx": 236,
+			"instance": 91,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3800,9 +4001,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 394,
-			"instance": 107,
-			"name": "g_block_tr_4x16"
+			"idx": 237,
+			"instance": 92,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3813,21 +4014,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 396,
-			"instance": 106,
-			"name": "g_block_tr_4x16"
-		},
-		{
-			"components": [
-				268,
-				4294967295,
-				73,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 398,
-			"name": "g_block_tr_4x4"
+			"idx": 238,
+			"instance": 93,
+			"name": "Coin"
 		},
 		{
 			"components": [
@@ -3838,8 +4027,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 399,
-			"instance": 105,
+			"idx": 239,
+			"instance": 94,
 			"name": "Coin"
 		},
 		{
@@ -3851,8 +4040,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 401,
-			"instance": 104,
+			"idx": 240,
+			"instance": 95,
 			"name": "Coin"
 		},
 		{
@@ -3864,8 +4053,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 403,
-			"instance": 103,
+			"idx": 241,
+			"instance": 96,
 			"name": "Coin"
 		},
 		{
@@ -3877,8 +4066,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 405,
-			"instance": 102,
+			"idx": 242,
+			"instance": 193,
 			"name": "Coin"
 		},
 		{
@@ -3890,8 +4079,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 407,
-			"instance": 101,
+			"idx": 243,
+			"instance": 97,
 			"name": "Coin"
 		},
 		{
@@ -3903,8 +4092,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 409,
-			"instance": 100,
+			"idx": 244,
+			"instance": 98,
 			"name": "Coin"
 		},
 		{
@@ -3916,7 +4105,7 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 411,
+			"idx": 245,
 			"instance": 99,
 			"name": "Coin"
 		},
@@ -3929,8 +4118,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 413,
-			"instance": 98,
+			"idx": 246,
+			"instance": 100,
 			"name": "Coin"
 		},
 		{
@@ -3942,48 +4131,33 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 415,
-			"instance": 97,
+			"idx": 247,
+			"instance": 101,
 			"name": "Coin"
 		},
 		{
 			"components": [
 				213,
 				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 417,
-			"instance": 96,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				266,
-				4294967295,
-				4294967295,
+				54,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 420,
-			"instance": 185,
-			"name": "Coin"
+			"idx": 248,
+			"name": "bonus_fast_clock"
 		},
 		{
 			"components": [
 				214,
 				4294967295,
-				4294967295,
+				55,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 421,
-			"instance": 95,
-			"name": "Coin"
+			"idx": 249,
+			"name": "bonus_slow_clock"
 		},
 		{
 			"components": [
@@ -3994,61 +4168,57 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 423,
-			"instance": 94,
+			"idx": 250,
+			"instance": 102,
 			"name": "Coin"
 		},
 		{
 			"components": [
 				216,
 				4294967295,
-				4294967295,
+				56,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 425,
-			"instance": 93,
-			"name": "Coin"
+			"idx": 251,
+			"name": "bonus_fast_clock"
 		},
 		{
 			"components": [
 				217,
 				4294967295,
-				4294967295,
+				57,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 427,
-			"instance": 92,
-			"name": "Coin"
+			"idx": 252,
+			"name": "bonus_fast_clock"
 		},
 		{
 			"components": [
 				218,
 				4294967295,
-				4294967295,
+				58,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 429,
-			"instance": 91,
-			"name": "Coin"
+			"idx": 253,
+			"name": "bonus_fast_clock"
 		},
 		{
 			"components": [
 				219,
 				4294967295,
-				4294967295,
+				59,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 431,
-			"instance": 90,
-			"name": "Coin"
+			"idx": 254,
+			"name": "bonus_fast_clock"
 		},
 		{
 			"components": [
@@ -4059,9 +4229,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 433,
-			"instance": 89,
-			"name": "Coin"
+			"idx": 255,
+			"instance": 103,
+			"name": "g_block_tr_4x8"
 		},
 		{
 			"components": [
@@ -4072,9 +4242,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 435,
-			"instance": 88,
-			"name": "Coin"
+			"idx": 256,
+			"instance": 104,
+			"name": "g_block_tr_8x8"
 		},
 		{
 			"components": [
@@ -4085,9 +4255,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 437,
-			"instance": 87,
-			"name": "Coin"
+			"idx": 257,
+			"instance": 105,
+			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
@@ -4098,9 +4268,9 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 439,
-			"instance": 86,
-			"name": "Coin"
+			"idx": 258,
+			"instance": 106,
+			"name": "g_block_tr_4x4"
 		},
 		{
 			"components": [
@@ -4111,171 +4281,8 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 441,
-			"instance": 85,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				225,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 443,
-			"instance": 84,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				226,
-				4294967295,
-				67,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 445,
-			"name": "bonus_fast_clock"
-		},
-		{
-			"components": [
-				227,
-				4294967295,
-				68,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 446,
-			"name": "bonus_slow_clock"
-		},
-		{
-			"components": [
-				228,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 447,
-			"instance": 83,
-			"name": "Coin"
-		},
-		{
-			"components": [
-				229,
-				4294967295,
-				69,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 449,
-			"name": "bonus_fast_clock"
-		},
-		{
-			"components": [
-				230,
-				4294967295,
-				70,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 450,
-			"name": "bonus_fast_clock"
-		},
-		{
-			"components": [
-				231,
-				4294967295,
-				71,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 451,
-			"name": "bonus_fast_clock"
-		},
-		{
-			"components": [
-				232,
-				4294967295,
-				72,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 452,
-			"name": "bonus_fast_clock"
-		},
-		{
-			"components": [
-				233,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 453,
-			"instance": 82,
-			"name": "g_block_tr_4x8"
-		},
-		{
-			"components": [
-				234,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 455,
-			"instance": 81,
-			"name": "g_block_tr_8x8"
-		},
-		{
-			"components": [
-				235,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 457,
-			"instance": 80,
-			"name": "g_block_tr_8x16"
-		},
-		{
-			"components": [
-				236,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 459,
-			"instance": 79,
-			"name": "g_block_tr_4x4"
-		},
-		{
-			"components": [
-				237,
-				4294967295,
-				4294967295,
-				4294967295,
-				4294967295
-			],
-			"disabled": false,
-			"idx": 463,
-			"instance": 76,
+			"idx": 259,
+			"instance": 109,
 			"name": "g_block_tr_8x16"
 		},
 		{
@@ -4287,61 +4294,126 @@
 				4294967295
 			],
 			"disabled": false,
-			"idx": 468,
-			"instance": 218,
+			"idx": 260,
+			"instance": 195,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				238,
+				225,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 473,
-			"instance": 214,
+			"idx": 261,
+			"instance": 198,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				239,
+				226,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 476,
-			"instance": 211,
+			"idx": 262,
+			"instance": 201,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				240,
+				227,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 480,
-			"instance": 207,
+			"idx": 263,
+			"instance": 205,
 			"name": "g_block_tr_8x16"
 		},
 		{
 			"components": [
-				241,
+				228,
 				4294967295,
 				4294967295,
 				4294967295,
 				4294967295
 			],
 			"disabled": false,
-			"idx": 483,
-			"instance": 204,
+			"idx": 264,
+			"instance": 113,
 			"name": "g_block_tr_8x16"
+		},
+		{
+			"components": [
+				229,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 265,
+			"instance": 145,
+			"name": "g_block_tr_4x4"
+		},
+		{
+			"components": [
+				230,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 266,
+			"instance": 148,
+			"name": "g_block_tr_4x4"
+		},
+		{
+			"components": [
+				231,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 267,
+			"instance": 151,
+			"name": "g_block_tr_4x4"
+		},
+		{
+			"components": [
+				232,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 268,
+			"instance": 120,
+			"name": "g_block_tr_4x4"
+		},
+		{
+			"components": [
+				233,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 269,
+			"instance": 122,
+			"name": "g_block_tr_4x4"
 		}
 	],
 	"objects": [
@@ -5272,600 +5344,6 @@
 					"write_z": true
 				}
 			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
 			"name": "assets/generic_blocks/g_block_tr_4x16.geo"
 		},
 		{
@@ -5965,204 +5443,6 @@
 					"write_z": true
 				}
 			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
 			"name": "assets/generic_blocks/g_block_8x32.geo"
 		},
 		{
@@ -8478,204 +7758,6 @@
 					"write_z": true
 				}
 			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
 			"name": "assets/generic_blocks/g_block_8x32.geo"
 		},
 		{
@@ -10162,105 +9244,6 @@
 				}
 			],
 			"name": "assets/generic_blocks/g_block_8x32.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_8x16.geo"
 		},
 		{
 			"bones": [],
@@ -10422,204 +9405,6 @@
 				}
 			],
 			"name": "assets/bonus/bonus_fuel.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_8x16.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_8x16.geo"
 		},
 		{
 			"bones": [],
@@ -10992,105 +9777,6 @@
 				}
 			],
 			"name": "assets/bonus/bonus_fast_clock.geo"
-		},
-		{
-			"bones": [],
-			"material_infos": [
-				{
-					"name": "blocks"
-				}
-			],
-			"materials": [
-				{
-					"blend_mode": "opaque",
-					"depth_test": "less",
-					"face_culling": "cw",
-					"flags": [],
-					"program": "core/shader/pbr.hps",
-					"textures": [
-						{
-							"name": "uBaseOpacityMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uDiffuseMap",
-							"path": "assets/generic_blocks/dirt_color.png",
-							"stage": 0
-						},
-						{
-							"name": "uNormalMap",
-							"stage": 2
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessMap",
-							"stage": 1
-						},
-						{
-							"name": "uSelfMap",
-							"stage": 4
-						}
-					],
-					"values": [
-						{
-							"name": "uBaseOpacityColor",
-							"type": "vec4",
-							"value": [
-								0.75,
-								0.75,
-								0.75,
-								1.0
-							]
-						},
-						{
-							"name": "uDiffuseColor",
-							"type": "vec4",
-							"value": [
-								0.5882353186607361,
-								0.5882353186607361,
-								0.5882353186607361,
-								1.0
-							]
-						},
-						{
-							"name": "uOcclusionRoughnessMetalnessColor",
-							"type": "vec4",
-							"value": [
-								1.0,
-								0.800000011920929,
-								0.10000000149011612,
-								1.0
-							]
-						},
-						{
-							"name": "uSelfColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								-1.0
-							]
-						},
-						{
-							"name": "uSpecularColor",
-							"type": "vec4",
-							"value": [
-								0.0,
-								0.0,
-								0.0,
-								0.03124999813735485
-							]
-						}
-					],
-					"write_a": true,
-					"write_b": true,
-					"write_g": true,
-					"write_r": true,
-					"write_z": true
-				}
-			],
-			"name": "assets/generic_blocks/g_block_tr_4x4.geo"
 		}
 	],
 	"transforms": [
@@ -12267,114 +10953,6 @@
 		{
 			"parent": null,
 			"pos": [
-				78.02405548095703,
-				-1.9793353080749512,
-				2.4239862135909493e-16
-			],
-			"rot": [
-				-7.0167078561561656e-15,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				110.12017822265625,
-				-1.9793353080749512,
-				2.4239862135909493e-16
-			],
-			"rot": [
-				-7.0167078561561656e-15,
-				0.0,
-				0.0
-			],
-			"scl": [
-				1.0,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				98.09276580810547,
-				-1.9793353080749512,
-				7.288133208049885e-09
-			],
-			"rot": [
-				-7.016709973738534e-15,
-				-179.99998474121094,
-				3.009225665336676e-30
-			],
-			"scl": [
-				0.9999999403953552,
-				1.0,
-				0.9999999403953552
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				130.1415252685547,
-				-1.9793353080749512,
-				-2.783862100841361e-06
-			],
-			"rot": [
-				-7.016712938353849e-15,
-				-179.99998474121094,
-				2.109452862030834e-29
-			],
-			"scl": [
-				0.9999998211860657,
-				1.0,
-				0.9999998211860657
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				53.69086837768555,
-				14.16359806060791,
-				-0.2817763090133667
-			],
-			"rot": [
-				0.9999999403953552,
-				-179.99998474121094,
-				-179.99998474121094
-			],
-			"scl": [
-				0.9999996423721313,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				73.62356567382813,
-				14.163595199584961,
-				-0.2817792594432831
-			],
-			"rot": [
-				0.9999999403953552,
-				5.386902878520665e-14,
-				-179.99996948242188
-			],
-			"scl": [
-				0.999999463558197,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
 				103.21286010742188,
 				12.043290138244629,
 				-1.0528576694923686e-06
@@ -12388,42 +10966,6 @@
 				0.9999998807907104,
 				0.9999998807907104,
 				0.9999998807907104
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				113.26399230957031,
-				14.163610458374023,
-				-0.2817789912223816
-			],
-			"rot": [
-				0.9999999403953552,
-				8.527378157980117e-14,
-				-179.99996948242188
-			],
-			"scl": [
-				0.9999994039535522,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				93.1830062866211,
-				14.163602828979492,
-				-0.28177914023399353
-			],
-			"rot": [
-				0.9999996423721313,
-				180.0,
-				-179.99989318847656
-			],
-			"scl": [
-				0.9999993443489075,
-				1.0,
-				1.0
 			]
 		},
 		{
@@ -12501,7 +11043,7 @@
 		{
 			"parent": null,
 			"pos": [
-				150.00991821289063,
+				151.71456909179688,
 				3.8113903999328613,
 				0.0
 			],
@@ -12717,7 +11259,7 @@
 		{
 			"parent": null,
 			"pos": [
-				143.84425354003906,
+				144.92616271972656,
 				-1.8216547966003418,
 				0.0
 			],
@@ -12727,9 +11269,9 @@
 				0.0
 			],
 			"scl": [
-				1.0,
-				1.0,
-				1.0
+				0.8999999761581421,
+				0.8999999761581421,
+				0.8999999761581421
 			]
 		},
 		{
@@ -13491,42 +12033,6 @@
 		{
 			"parent": null,
 			"pos": [
-				208.8252410888672,
-				153.36260986328125,
-				-0.9940036535263062
-			],
-			"rot": [
-				-7.016741737474056e-15,
-				-179.99998474121094,
-				-1.9581033263319538e-28
-			],
-			"scl": [
-				1.0999996662139893,
-				1.100000023841858,
-				1.0999996662139893
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				212.80430603027344,
-				152.69512939453125,
-				-0.5370350480079651
-			],
-			"rot": [
-				9.000003814697266,
-				3.7485111486547084e-36,
-				-2.681216353628988e-28
-			],
-			"scl": [
-				1.0999995470046997,
-				1.0999994277954102,
-				1.099998950958252
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
 				220.16302490234375,
 				166.66871643066406,
 				-2.2884306076628377e-14
@@ -14085,24 +12591,6 @@
 		{
 			"parent": null,
 			"pos": [
-				245.70631408691406,
-				-19.71342658996582,
-				-0.5924327969551086
-			],
-			"rot": [
-				0.9999996423721313,
-				3.182215961957313e-15,
-				-179.99998474121094
-			],
-			"scl": [
-				0.9999991655349731,
-				1.0,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
 				55.839820861816406,
 				-73.0218734741211,
 				0.0
@@ -14607,24 +13095,6 @@
 		{
 			"parent": null,
 			"pos": [
-				224.61207580566406,
-				-46.68558120727539,
-				0.2561650276184082
-			],
-			"rot": [
-				-0.0,
-				0.0,
-				120.00000762939453
-			],
-			"scl": [
-				0.9999992847442627,
-				0.9999992847442627,
-				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
 				77.42605590820313,
 				-25.400222778320313,
 				0.0
@@ -14656,24 +13126,6 @@
 				0.9999991655349731,
 				0.9999991655349731,
 				1.0
-			]
-		},
-		{
-			"parent": null,
-			"pos": [
-				222.5518341064453,
-				-47.22355651855469,
-				0.25616520643234253
-			],
-			"rot": [
-				-2.2000703697831873e-19,
-				-179.99998474121094,
-				90.0
-			],
-			"scl": [
-				0.9999991059303284,
-				0.999998927116394,
-				0.9999998211860657
 			]
 		},
 		{
@@ -15165,7 +13617,7 @@
 		{
 			"parent": null,
 			"pos": [
-				149.9559326171875,
+				151.6668701171875,
 				0.3948030471801758,
 				1.6043872833251953
 			],
@@ -15453,6 +13905,96 @@
 		{
 			"parent": null,
 			"pos": [
+				78.04025268554688,
+				-2.0418930053710938,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				130.2996368408203,
+				-2.161632537841797,
+				3.0517578125e-05
+			],
+			"rot": [
+				-0.0,
+				179.99998474121094,
+				0.0
+			],
+			"scl": [
+				0.9999997615814209,
+				1.0,
+				0.9999997615814209
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				113.2077865600586,
+				14.0548095703125,
+				-0.18354487419128418
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				179.99998474121094
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				208.6762237548828,
+				153.62020874023438,
+				-1.4882543087005615
+			],
+			"rot": [
+				-0.0,
+				179.99998474121094,
+				0.0
+			],
+			"scl": [
+				1.0999990701675415,
+				1.100000023841858,
+				1.0999990701675415
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				184.3192138671875,
+				-50.064056396484375,
+				-1.52587890625e-05
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
 				156.4813995361328,
 				14.191825866699219,
 				0.22912836074829102
@@ -15502,6 +14044,96 @@
 				1.0,
 				1.0,
 				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				110.13438415527344,
+				-2.1300735473632813,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				98.01929473876953,
+				-2.032733917236328,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				179.99998474121094,
+				0.0
+			],
+			"scl": [
+				0.9999998211860657,
+				1.0,
+				0.9999998211860657
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				73.69139862060547,
+				14.035659790039063,
+				-0.18354487419128418
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				179.99998474121094
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				53.76428985595703,
+				14.130165100097656,
+				-0.18354487419128418
+			],
+			"rot": [
+				1.8513263825043532e-25,
+				-179.99998474121094,
+				179.99989318847656
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999996423721313,
+				0.9999998807907104
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				93.31087493896484,
+				14.217926025390625,
+				-0.18354487419128418
+			],
+			"rot": [
+				-5.694518648956064e-19,
+				-179.99998474121094,
+				179.99989318847656
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999995827674866,
+				0.9999998211860657
 			]
 		},
 		{
@@ -15705,6 +14337,24 @@
 		{
 			"parent": null,
 			"pos": [
+				212.7659912109375,
+				152.76930236816406,
+				-0.15835213661193848
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.9999996423721313
+			],
+			"scl": [
+				1.0999993085861206,
+				1.100000023841858,
+				1.0999990701675415
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
 				172.05538940429688,
 				152.92739868164063,
 				-0.19072982668876648
@@ -15741,8 +14391,8 @@
 		{
 			"parent": null,
 			"pos": [
-				177.3815460205078,
-				-34.776893615722656,
+				177.07473754882813,
+				-34.77008819580078,
 				0.22912836074829102
 			],
 			"rot": [
@@ -15751,8 +14401,8 @@
 				179.99998474121094
 			],
 			"scl": [
-				0.9999997615814209,
-				0.9999997615814209,
+				0.9999996423721313,
+				0.9999996423721313,
 				1.0
 			]
 		},
@@ -15885,6 +14535,42 @@
 		{
 			"parent": null,
 			"pos": [
+				222.6417694091797,
+				-46.873512268066406,
+				0.22912836074829102
+			],
+			"rot": [
+				2.588127129202095e-20,
+				-179.99998474121094,
+				90.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.999999463558197,
+				0.9999999403953552
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				245.60745239257813,
+				-20.358055114746094,
+				-0.13890743255615234
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				179.99998474121094
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
 				225.575927734375,
 				122.97743225097656,
 				0.0
@@ -15921,19 +14607,37 @@
 		{
 			"parent": null,
 			"pos": [
-				184.3054656982422,
-				-49.94935607910156,
-				6.117030964197063e-15
+				224.76333618164063,
+				-46.46442794799805,
+				0.22912836074829102
 			],
 			"rot": [
-				-7.0167078561561656e-15,
+				-0.0,
+				0.0,
+				120.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				145.53543090820313,
+				-4.541134357452393,
+				-0.010535240173339844
+			],
+			"rot": [
+				89.99998474121094,
 				0.0,
 				0.0
 			],
 			"scl": [
 				1.0,
-				1.0,
-				1.0
+				0.9999999403953552,
+				0.9999999403953552
 			]
 		}
 	]
