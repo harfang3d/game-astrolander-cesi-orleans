@@ -132,6 +132,7 @@ while not end_game:
 	collected_all_coins = False
 	level_done = False
 	level_restart = False
+	not_dead = False
 	restart_timer = 5
 
 	# world
@@ -255,6 +256,12 @@ while not end_game:
 		if keyboard.Pressed(hg.K_K):
 			aaa_rendering = not aaa_rendering
 
+		if keyboard.Pressed(hg.K_R):
+			level_restart = True
+			not_dead = True
+
+
+
 		dt = hg.TickClock()
 		dt_history.append(hg.time_to_sec_f(dt))
 		if len(dt_history) > 120:
@@ -267,10 +274,13 @@ while not end_game:
 		# Player ship control
 		thrust_left = False
 		thrust_right = False
+		thrust_up = False
 		if keyboard.Down(hg.K_Left):
 			thrust_left = True
 		if keyboard.Down(hg.K_Right):
 			thrust_right = True
+		if keyboard.Down(hg.K_Up):
+			thrust_up = True
 
 		_pod_world = pod_master.GetTransform().GetWorld()
 		
@@ -331,7 +341,7 @@ while not end_game:
 				hg.SetSourceVolume(dirty_thrust_source, 1 - dirty_thrust_ratio)
 
 			# up
-			if thrust_left and thrust_right:
+			if thrust_up or (thrust_left and thrust_right):
 				physics.NodeAddForce(pod_master, hg.MakeVec3(hg.GetRow(_pod_world, 1) * pod_thrust), hg.GetTranslation(_pod_world))
 				flame_item_l.Enable()
 				flame_item_r.Enable()
@@ -340,7 +350,7 @@ while not end_game:
 				hg.SetSourceVolume(dirty_thrust_source, 1 - dirty_thrust_ratio)
 
 
-			if not thrust_left and not thrust_right:
+			if not (thrust_left or thrust_right or thrust_up):
 				flame_item_l.Disable()
 				flame_item_m.Disable()
 				flame_item_r.Disable()
@@ -455,7 +465,10 @@ while not end_game:
 				level_restart = True
 				hg.PlayStereo(game_over_ref, source_state)
 		
-		if level_restart == True and restart_timer > 0:
+		if level_restart == True and not_dead == True:
+			DrawTextShadow(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), text_uniform_values, text_render_state)
+			restart_timer -= dtsmooth
+		if level_restart == True and restart_timer > 0 and not_dead == False:
 			DrawTextShadow(view_id, font, 'GAME OVER', font_program, hg.Vec3(res_x / 2, res_y / 2, 0), text_uniform_values, text_render_state)
 			DrawTextShadow(view_id, font, 'RESTARTING LEVEL IN ' + str(restart_timer)[:3] + ' SECONDS', font_program, hg.Vec3(res_x / 2, res_y / 2 + 100, 0), text_uniform_values, text_render_state)
 			restart_timer -= dtsmooth
