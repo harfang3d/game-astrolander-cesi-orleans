@@ -292,7 +292,7 @@ while not end_game:
 		
 
 		cam_target = hg.GetT(_pod_world) * hg.Vec3(1.0, 1.0, 0.0) + cam_pos * hg.Vec3(0.0, 0.0, 1.0)
-		cam_target += physics.NodeGetLinearVelocity(pod_master) * hg.Vec3(1.0, 1.0, 0.0)
+		cam_target += physics.NodeGetLinearVelocity(pod_master) * hg.Vec3(1.0, 1.0, 0.0) * time_factor * 2.0
 		cam_pos = hg.Lerp(cam_pos, cam_target, dtsmooth * 0.5)
 		cam.GetTransform().SetPos(cam_pos)
 
@@ -510,7 +510,7 @@ while not end_game:
 
 		# debug physics
 		view_id += 1
-		# display_physics_debug(scene, physics, view_id, res_x, res_y, vtx_decl_lines, physx_debug_lines_program)
+		display_physics_debug(scene, physics, view_id, res_x, res_y, vtx_decl_lines, physx_debug_lines_program)
 
 		frame = hg.Frame()
 		hg.UpdateWindow(win)
