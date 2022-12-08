@@ -8,7 +8,7 @@ from gameplay import test_pos_vs_nodes_table
 from levels import *
 from utils import clamp, range_adjust
 from statistics import mean
-from particles import InitParticle, UpdateParticleSystem
+from particles import InitParticle, UpdateParticleSystem, UpdateBlockParticleSystem
 
 level_idx = 0
 consumption = 2.5
@@ -150,10 +150,14 @@ while not end_game:
 	bonus_fuel = []
 	bonus_slow_clock = []
 	bonus_fast_clock = []
+	bonus_damage = []
+	bonus_damage_particles = []
 	engine_particles = []
 	coll_nodes = []
 	target_tex, _ = hg.LoadTextureFromAssets("assets/pod/touch_feedback.png", 0)
+	fire_tex, _ = hg.LoadTextureFromAssets("assets/pod/explosion.png", 0)
 	texture_smoke = hg.MakeUniformSetTexture("s_texTexture", target_tex, 0)
+	texture_fire = hg.MakeUniformSetTexture("s_texTexture", fire_tex, 0)
 	coll_id = 0
 	for i in range(nodes.size()):
 		nd = nodes.at(i)
@@ -173,6 +177,8 @@ while not end_game:
 			bonus_slow_clock.append({"node": nd, "pos": nd.GetTransform().GetPos()})
 		if nd.HasObject() and nd.GetName().lower() == "bonus_fast_clock":
 			bonus_fast_clock.append({"node": nd, "pos": nd.GetTransform().GetPos()})
+		if nd.HasObject() and nd.GetName().lower() == "bonus_damage":
+			bonus_damage.append({"node": nd, "pos": nd.GetTransform().GetPos()})
 
 	pod_bbox = hg.Vec3(3.0, 4.0, 2.0)
 
@@ -411,6 +417,30 @@ while not end_game:
 			# print(fast_clock_hit)
 			bonus_fast_clock[fast_clock_hit]["node"].Disable()
 			time_factor *= 2
+		# take damages on bonus_damage
+		damage_hit = test_pos_vs_nodes_table(hg.GetTranslation(_pod_world), bonus_damage, 2.5)
+		if damage_hit > -1:
+			# print(fast_clock_hit)
+			life -= 10
+			InitParticle(bonus_damage_particles, bonus_damage[damage_hit]["pos"], 10, shader_texture, hg.Vec3(random_scale, random_scale, random_scale))
+			for x in range(0, 10):
+				bonus_damage_particles = UpdateBlockParticleSystem(bonus_damage_particles, render_state_quad_occluded, dtsmooth, cam_rot, view_id_scene_alpha, vtx_layout_particles, texture_fire)
+			bonus_damage[damage_hit]["node"].Disable()
+			bonus_damage_particles = []
+
+			# adding force vector tu push the pod
+			pushInX = 0
+			pushInY = 0
+			if hg.GetTranslation(_pod_world).y - bonus_damage[damage_hit]["pos"].y > 1:
+				pushInY = 100
+			if hg.GetTranslation(_pod_world).y - bonus_damage[damage_hit]["pos"].y < -1:
+				pushInY = -200
+			if hg.GetTranslation(_pod_world).x - bonus_damage[damage_hit]["pos"].x > 1:
+				pushInX = 100
+			if hg.GetTranslation(_pod_world).x - bonus_damage[damage_hit]["pos"].x < -1:
+				pushInX = -100
+			physics.NodeAddImpulse(pod_master, hg.Vec3(pushInX, pushInY, 0))
+
 
 
 		if collected_all_coins and life > 0:
