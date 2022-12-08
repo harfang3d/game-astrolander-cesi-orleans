@@ -1,0 +1,6375 @@
+{
+	"cameras": [
+		{
+			"fov": 0.8569514155387878,
+			"ortho": false,
+			"size": 1.0,
+			"zrange": {
+				"zfar": 1000.0,
+				"znear": 0.009999999776482582
+			}
+		}
+	],
+	"canvas": {
+		"clear_color": true,
+		"clear_z": true,
+		"color": [
+			14,
+			104,
+			129,
+			255
+		]
+	},
+	"environment": {
+		"ambient": [
+			0,
+			0,
+			0,
+			127
+		],
+		"brdf_map": "core/pbr/brdf.dds",
+		"current_camera": 35,
+		"fog_color": [
+			86,
+			219,
+			255,
+			255
+		],
+		"fog_far": 0.0,
+		"fog_near": 0.0,
+		"probe": {
+			"irradiance_map": "core/pbr/probe.hdr.irradiance",
+			"parallax": 0.0,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"radiance_map": "core/pbr/probe.hdr.radiance",
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			],
+			"type": "sphere"
+		}
+	},
+	"instances": [
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/prop_trees/tree_0.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/prop_trees/tree_0.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/prop_reservoir/prop_reservoir.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_1x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_1x1.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/prop_trees/tree_0.scn"
+		},
+		{
+			"name": "assets/prop_trees/tree_0.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_2x8.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/prop_reservoir/prop_reservoir.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_16x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_4x4.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x32.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_8x8.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"name": "assets/generic_blocks/g_block_tr_4x16.scn"
+		},
+		{
+			"anim": "rotation",
+			"loop_mode": "loop",
+			"name": "assets/coin.scn"
+		}
+	],
+	"key_values": null,
+	"lights": [
+		{
+			"diffuse": [
+				255,
+				255,
+				255,
+				255
+			],
+			"diffuse_intensity": 2.0,
+			"inner_angle": 9.999999747378752e-05,
+			"outer_angle": 0.7679396271705627,
+			"priority": 1.0,
+			"pssm_split": [
+				10.0,
+				50.0,
+				100.0,
+				500.0
+			],
+			"radius": 0.0,
+			"shadow_bias": 9.999999747378752e-06,
+			"shadow_type": "map",
+			"specular": [
+				255,
+				255,
+				255,
+				255
+			],
+			"specular_intensity": 2.0,
+			"type": "spot"
+		},
+		{
+			"diffuse": [
+				255,
+				255,
+				255,
+				255
+			],
+			"diffuse_intensity": 2.0,
+			"inner_angle": 0.0,
+			"outer_angle": 0.0,
+			"priority": 0.0,
+			"pssm_split": [
+				200.0,
+				300.0,
+				400.0,
+				500.0
+			],
+			"radius": 0.0,
+			"shadow_bias": 0.0020000000949949026,
+			"shadow_type": "map",
+			"specular": [
+				255,
+				255,
+				255,
+				255
+			],
+			"specular_intensity": 2.0,
+			"type": "linear"
+		}
+	],
+	"nodes": [
+		{
+			"components": [
+				0,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 0,
+			"instance": 13,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				1,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 1,
+			"instance": 100,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				2,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 2,
+			"instance": 98,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				3,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 3,
+			"instance": 97,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				4,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 4,
+			"instance": 95,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				5,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 5,
+			"instance": 93,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				6,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 6,
+			"instance": 90,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				7,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 7,
+			"instance": 82,
+			"name": "g_block_4x8"
+		},
+		{
+			"components": [
+				8,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 8,
+			"instance": 113,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				9,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 9,
+			"instance": 99,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				10,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 10,
+			"instance": 96,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				11,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 11,
+			"instance": 94,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				12,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 12,
+			"instance": 83,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				13,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 13,
+			"instance": 88,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				136,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 14,
+			"instance": 20,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				14,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 15,
+			"instance": 74,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				15,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 16,
+			"instance": 91,
+			"name": "g_block_1x4"
+		},
+		{
+			"components": [
+				16,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 17,
+			"instance": 92,
+			"name": "g_block_1x1"
+		},
+		{
+			"components": [
+				17,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 18,
+			"instance": 84,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				18,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 19,
+			"instance": 85,
+			"name": "g_block_4x8"
+		},
+		{
+			"components": [
+				19,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 20,
+			"instance": 28,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				20,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 21,
+			"instance": 87,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				21,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 22,
+			"instance": 89,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				22,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 23,
+			"instance": 86,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				23,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 24,
+			"instance": 12,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				115,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 25,
+			"instance": 18,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				24,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 26,
+			"instance": 38,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				25,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 27,
+			"instance": 101,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				26,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 28,
+			"instance": 102,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				27,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 29,
+			"instance": 109,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				28,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 30,
+			"instance": 110,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				29,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 31,
+			"instance": 48,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				30,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 32,
+			"name": "homebase"
+		},
+		{
+			"components": [
+				31,
+				4294967295,
+				0,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 33,
+			"name": "start"
+		},
+		{
+			"components": [
+				32,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 34,
+			"name": "spawnpoint"
+		},
+		{
+			"components": [
+				33,
+				0,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 35,
+			"name": "Camera"
+		},
+		{
+			"components": [
+				34,
+				4294967295,
+				4294967295,
+				0,
+				4294967295
+			],
+			"disabled": true,
+			"idx": 36,
+			"name": "Light"
+		},
+		{
+			"components": [
+				35,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 37,
+			"instance": 30,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				36,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 38,
+			"instance": 31,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				37,
+				4294967295,
+				4294967295,
+				1,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 39,
+			"name": "sun"
+		},
+		{
+			"components": [
+				38,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 40,
+			"instance": 75,
+			"name": "prop_reservoir"
+		},
+		{
+			"components": [
+				39,
+				4294967295,
+				1,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 41,
+			"name": "bonus_fuel"
+		},
+		{
+			"components": [
+				57,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 42,
+			"instance": 43,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				42,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 43,
+			"instance": 104,
+			"name": "tree_0"
+		},
+		{
+			"components": [
+				43,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 44,
+			"instance": 35,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				44,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 45,
+			"instance": 72,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				45,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 46,
+			"instance": 33,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				46,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 47,
+			"instance": 71,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				47,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 48,
+			"instance": 73,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				40,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 49,
+			"instance": 117,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				41,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 50,
+			"instance": 32,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				51,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 51,
+			"instance": 24,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				48,
+				4294967295,
+				2,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 52,
+			"instance": 25,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				49,
+				4294967295,
+				3,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 53,
+			"instance": 26,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				50,
+				4294967295,
+				4,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 54,
+			"instance": 27,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				52,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 55,
+			"instance": 34,
+			"name": "tree_0"
+		},
+		{
+			"components": [
+				53,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 56,
+			"instance": 29,
+			"name": "g_block_4x8"
+		},
+		{
+			"components": [
+				54,
+				4294967295,
+				5,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 57,
+			"name": "bonus_slow_clock"
+		},
+		{
+			"components": [
+				55,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 58,
+			"instance": 36,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				56,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 59,
+			"instance": 37,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				60,
+				4294967295,
+				6,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 60,
+			"name": "bonus_fast_clock"
+		},
+		{
+			"components": [
+				58,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 61,
+			"instance": 41,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				59,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 62,
+			"instance": 42,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				61,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 63,
+			"instance": 39,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				62,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 64,
+			"instance": 40,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				63,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 65,
+			"instance": 23,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				64,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 66,
+			"instance": 11,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				65,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 67,
+			"instance": 10,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				66,
+				4294967295,
+				7,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 68,
+			"instance": 9,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				67,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 69,
+			"instance": 8,
+			"name": "g_block_8x16"
+		},
+		{
+			"components": [
+				68,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 70,
+			"instance": 7,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				69,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 71,
+			"instance": 6,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				70,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 72,
+			"instance": 5,
+			"name": "tree_0"
+		},
+		{
+			"components": [
+				71,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 73,
+			"instance": 4,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				72,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 74,
+			"instance": 3,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				73,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 75,
+			"instance": 2,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				74,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 76,
+			"instance": 1,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				75,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 77,
+			"instance": 0,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				76,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 78,
+			"instance": 76,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				77,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 79,
+			"instance": 107,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				78,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 80,
+			"instance": 108,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				79,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 81,
+			"instance": 77,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				80,
+				4294967295,
+				8,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 82,
+			"instance": 78,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				81,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 83,
+			"instance": 79,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				82,
+				4294967295,
+				9,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 84,
+			"instance": 111,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				117,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 85,
+			"instance": 47,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				83,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 86,
+			"instance": 112,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				84,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 87,
+			"instance": 80,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				85,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 88,
+			"instance": 81,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				86,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 89,
+			"instance": 22,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				87,
+				4294967295,
+				10,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 90,
+			"instance": 21,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				88,
+				4294967295,
+				11,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 91,
+			"instance": 14,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				116,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 92,
+			"instance": 19,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				118,
+				4294967295,
+				13,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 93,
+			"instance": 46,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				89,
+				4294967295,
+				12,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 94,
+			"instance": 17,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				90,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 95,
+			"instance": 16,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				91,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 96,
+			"instance": 15,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				92,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 97,
+			"instance": 45,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				93,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 98,
+			"instance": 44,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				94,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 99,
+			"instance": 67,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				95,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 100,
+			"instance": 66,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				96,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 101,
+			"instance": 65,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				97,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 102,
+			"instance": 64,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				98,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 103,
+			"instance": 63,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				99,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 104,
+			"instance": 62,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				100,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 105,
+			"instance": 61,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				101,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 106,
+			"instance": 60,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				102,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 107,
+			"instance": 59,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				103,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 108,
+			"instance": 58,
+			"name": "g_block_8x16"
+		},
+		{
+			"components": [
+				104,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 109,
+			"instance": 57,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				105,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 110,
+			"instance": 56,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				106,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 111,
+			"instance": 55,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				107,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 112,
+			"instance": 54,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				108,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 113,
+			"instance": 106,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				109,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 114,
+			"instance": 53,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				110,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 115,
+			"instance": 52,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				111,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 116,
+			"instance": 51,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				112,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 117,
+			"instance": 50,
+			"name": "g_block_tr_2x8"
+		},
+		{
+			"components": [
+				113,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 118,
+			"instance": 49,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				114,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 119,
+			"instance": 105,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				119,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 120,
+			"instance": 116,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				120,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 121,
+			"instance": 115,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				121,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 122,
+			"instance": 114,
+			"name": "prop_reservoir"
+		},
+		{
+			"components": [
+				139,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 123,
+			"instance": 69,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				122,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 124,
+			"instance": 123,
+			"name": "g_block_8x8"
+		},
+		{
+			"components": [
+				123,
+				4294967295,
+				14,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 125,
+			"name": "bonus_heal"
+		},
+		{
+			"components": [
+				124,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 126,
+			"instance": 124,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				125,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 127,
+			"instance": 125,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				126,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 128,
+			"instance": 126,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				127,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 129,
+			"instance": 127,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				128,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 130,
+			"instance": 128,
+			"name": "g_block_tr_4x16"
+		},
+		{
+			"components": [
+				129,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 131,
+			"instance": 129,
+			"name": "Coin"
+		},
+		{
+			"components": [
+				130,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 132,
+			"instance": 103,
+			"name": "tree_0"
+		},
+		{
+			"components": [
+				131,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 133,
+			"instance": 118,
+			"name": "g_block_16x32"
+		},
+		{
+			"components": [
+				132,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 134,
+			"instance": 119,
+			"name": "g_block_16x16"
+		},
+		{
+			"components": [
+				133,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 135,
+			"instance": 120,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				134,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 136,
+			"instance": 121,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				135,
+				4294967295,
+				15,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 137,
+			"instance": 122,
+			"name": "g_block_8x32"
+		},
+		{
+			"components": [
+				137,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 273,
+			"instance": 70,
+			"name": "g_block_4x4"
+		},
+		{
+			"components": [
+				138,
+				4294967295,
+				4294967295,
+				4294967295,
+				4294967295
+			],
+			"disabled": false,
+			"idx": 276,
+			"instance": 68,
+			"name": "g_block_4x8"
+		}
+	],
+	"objects": [
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "grey"
+				},
+				{
+					"name": "red"
+				},
+				{
+					"name": "white"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.9843137860298157,
+								0.2352941334247589,
+								0.05490196496248245,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				},
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.9411765336990356,
+								0.9411765336990356,
+								0.9411765336990356,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03125
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/target.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "bonus_fuel"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/bonus/bonus_fuel.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/bonus_fuel.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "bonus_slow_clock"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/bonus/bonus_slow_clock.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/bonus_slow_clock.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "bonus_fast_clock"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/bonus/bonus_fast_clock.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/bonus_fast_clock.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "bonus_heal"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/default.hps",
+					"textures": [
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/bonus/bonus_heal.jpg",
+							"stage": 0
+						}
+					],
+					"values": [
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/bonus/bonus_heal.geo"
+		},
+		{
+			"bones": [],
+			"material_infos": [
+				{
+					"name": "blocks"
+				}
+			],
+			"materials": [
+				{
+					"blend_mode": "opaque",
+					"depth_test": "less",
+					"face_culling": "cw",
+					"flags": [],
+					"program": "core/shader/pbr.hps",
+					"textures": [
+						{
+							"name": "uBaseOpacityMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
+							"path": "assets/generic_blocks/dirt_color.png",
+							"stage": 0
+						},
+						{
+							"name": "uNormalMap",
+							"stage": 2
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessMap",
+							"stage": 1
+						},
+						{
+							"name": "uSelfMap",
+							"stage": 4
+						}
+					],
+					"values": [
+						{
+							"name": "uBaseOpacityColor",
+							"type": "vec4",
+							"value": [
+								0.75,
+								0.75,
+								0.75,
+								1.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
+								1.0
+							]
+						},
+						{
+							"name": "uOcclusionRoughnessMetalnessColor",
+							"type": "vec4",
+							"value": [
+								1.0,
+								0.800000011920929,
+								0.10000000149011612,
+								1.0
+							]
+						},
+						{
+							"name": "uSelfColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								-1.0
+							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
+						}
+					],
+					"write_a": true,
+					"write_b": true,
+					"write_g": true,
+					"write_r": true,
+					"write_z": true
+				}
+			],
+			"name": "assets/generic_blocks/g_block_8x32.geo"
+		}
+	],
+	"transforms": [
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				-10.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				32.0,
+				-10.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-8.0,
+				5.947999954223633,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-8.0,
+				22.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				56.0,
+				-10.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				75.77240753173828,
+				-1.7986468076705933,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.0,
+				8.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.0,
+				2.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				38.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				48.0,
+				37.9979133605957,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.0,
+				38.0,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				72.029052734375,
+				37.93889617919922,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				39.90522766113281,
+				48.006446838378906,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.402425765991211,
+				55.25696563720703,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				65.8949966430664,
+				-1.8329999446868896,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.4909999966621399,
+				-0.04600000008940697,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.4790000021457672,
+				2.371000051498413,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.192999839782715,
+				-8.444000244140625,
+				-3.1389999389648438
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-4.682000160217285,
+				-3.430999994277954,
+				-1.9980000257492065
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				45.611000061035156,
+				-9.052000045776367,
+				-4.313000202178955
+			],
+			"rot": [
+				0.0,
+				0.0,
+				89.9543685913086
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.25
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-5.800000190734863,
+				17.600000381469727,
+				-3.2990000247955322
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.7464251518249512,
+				34.0989990234375,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				15.798999786376953,
+				34.5,
+				-3.2990000247955322
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				42.19852828979492,
+				53.0530891418457,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				69.55709075927734,
+				26.041091918945313,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				72.92044067382813,
+				26.041091918945313,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				76.18309020996094,
+				26.041091918945313,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				24.08305549621582,
+				13.668012619018555,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				45.47651290893555,
+				1.1351360082626343,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				42.619667053222656,
+				1.0896246433258057,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				97.9165267944336,
+				60.98323059082031,
+				0.01207481138408184
+			],
+			"rot": [
+				-0.0,
+				-179.9087371826172,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.0,
+				-2.0299999713897705,
+				0.020999999716877937
+			],
+			"rot": [
+				0.0,
+				-179.9087371826172,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.0,
+				0.43299999833106995,
+				0.0
+			],
+			"rot": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				25.948881149291992,
+				10.536819458007813,
+				-100.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-1.518497109413147,
+				42.97290802001953,
+				-42.28269577026367
+			],
+			"rot": [
+				21.08810806274414,
+				13.79854679107666,
+				-2.6659447485144483e-06
+			],
+			"scl": [
+				1.0000001192092896,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.0,
+				2.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				18.0,
+				2.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rot": [
+				28.647871017456055,
+				33.804508209228516,
+				-6.875488758087158
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				88.00592041015625,
+				5.5603132247924805,
+				2.1214022636413574
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				71.90349578857422,
+				79.44698333740234,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.0,
+				2.0,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				87.53665924072266,
+				2.224240779876709,
+				-2.746130445835195e-17
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				69.96800994873047,
+				6.963794708251953,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				55.921199798583984,
+				28.077787399291992,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				76.05717468261719,
+				-0.9498986005783081,
+				-4.313000202178955
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.25
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				87.6000747680664,
+				2.2779030799865723,
+				4.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				87.38629913330078,
+				-5.7863945960998535,
+				9.53558351799843e-16
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				40.048484802246094,
+				28.07778549194336,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				90.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				103.47126770019531,
+				38.09598922729492,
+				-6.854271342009584e-17
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				83.59672546386719,
+				56.91602325439453,
+				-3.373498659578673e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-1.8079353185612998e-28,
+				90.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				103.47126770019531,
+				44.89955139160156,
+				-9.017386760318377e-16
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				99.45951080322266,
+				6.2316999435424805,
+				-7.631629741302909e-16
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				98.69070434570313,
+				51.4080924987793,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				120.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				101.76441955566406,
+				55.54948806762695,
+				-3.9626946449279785
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.400747050665104e-22,
+				49.99999237060547
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.142330169677734,
+				0.5187015533447266,
+				-2.3014007996676692e-15
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				51.12090301513672,
+				1.1831965446472168,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				53.6812629699707,
+				1.1831965446472168,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				37.14039611816406,
+				53.03654479980469,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				89.3964614868164,
+				42.33901596069336,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				89.3964614868164,
+				38.88809585571289,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				89.34695434570313,
+				31.39818572998047,
+				-1.7504739477518824e-15
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				43.93294143676758,
+				22.015703201293945,
+				1.9436609477452294e-07
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				51.844573974609375,
+				22.015703201293945,
+				1.9436609477452294e-07
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				29.802085876464844,
+				34.5,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				44.81910705566406,
+				34.5,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				60.79985046386719,
+				34.5,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				68.59954833984375,
+				72.77330017089844,
+				-5.3154544635736385e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-1.3559494125277536e-28,
+				90.0
+			],
+			"scl": [
+				0.999999463558197,
+				0.999999463558197,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				88.64762878417969,
+				68.83061981201172,
+				-7.449601408025894e-15
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.5071792602539,
+				64.89978790283203,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				53.599937438964844,
+				64.98424530029297,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				55.437984466552734,
+				65.98846435546875,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				-120.00000762939453
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				45.924415588378906,
+				64.98424530029297,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				45.924415588378906,
+				72.78189086914063,
+				-9.549362626467888e-16
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				45.924415588378906,
+				80.43034362792969,
+				-1.891601177588355e-15
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				76.1708755493164,
+				78.96531677246094,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				57.65804672241211,
+				83.4117202758789,
+				-2.2567143059858477e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-4.5198398010360187e-29,
+				90.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				49.99662399291992,
+				83.4117202758789,
+				-2.2567143059858477e-15
+			],
+			"rot": [
+				-7.0167091267055864e-15,
+				-9.039679602072037e-29,
+				90.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				56.33851623535156,
+				79.46923828125,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				65.50334167480469,
+				83.4117202758789,
+				-2.2567143059858477e-15
+			],
+			"rot": [
+				-7.0167091267055864e-15,
+				-9.039679602072037e-29,
+				90.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				73.18191528320313,
+				83.4117202758789,
+				-2.2567143059858477e-15
+			],
+			"rot": [
+				-7.0167091267055864e-15,
+				-9.039679602072037e-29,
+				90.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				29.34539794921875,
+				65.00003814697266,
+				-5.3154544635736385e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-1.807930744477682e-28,
+				90.0
+			],
+			"scl": [
+				0.9999994039535522,
+				0.9999994039535522,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				17.343063354492188,
+				57.1290397644043,
+				1.9436609477452294e-07
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-11.959329605102539,
+				60.709678649902344,
+				-4.790036114743533e-15
+			],
+			"rot": [
+				-7.0167044680243765e-15,
+				-1.8079250870584703e-28,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999993443489075,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				17.441726684570313,
+				57.647422790527344,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0411376953125,
+				44.581295013427734,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0411376953125,
+				64.91364288330078,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				74.76371002197266,
+				57.570770263671875,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-11.959329605102539,
+				92.45311737060547,
+				-8.677484085288251e-15
+			],
+			"rot": [
+				-7.016703197474956e-15,
+				-1.8079248463172272e-28,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999993443489075,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				5.616291046142578,
+				104.42691802978516,
+				-1.0143850582915951e-14
+			],
+			"rot": [
+				-7.016701503409061e-15,
+				-1.8078454017070213e-28,
+				90.0
+			],
+			"scl": [
+				0.9999991655349731,
+				0.9999991655349731,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				17.33600616455078,
+				77.0554428100586,
+				-6.791815102945992e-15
+			],
+			"rot": [
+				-7.016699385826693e-15,
+				-1.8079242444641196e-28,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999993443489075,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.35808563232422,
+				92.50698852539063,
+				1.1909226063671523e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039677194659607e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				30.35808563232422,
+				81.07123565673828,
+				2.591398199269703e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039676592806499e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.64764404296875,
+				82.8492660522461,
+				-3.814697265625e-06
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.64764404296875,
+				87.54271697998047,
+				-3.814697265625e-06
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.64764404296875,
+				92.15585327148438,
+				-3.814697265625e-06
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.45965576171875,
+				80.96478271484375,
+				7.62939453125e-06
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				38.74369812011719,
+				92.57489013671875,
+				1.1826064368910096e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039674787247176e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				52.825096130371094,
+				86.77075958251953,
+				1.8934070518319013e-15
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-4.6283110258802255e-26,
+				-60.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				48.39786911010742,
+				98.65464782714844,
+				1.0621229881659002e-15
+			],
+			"rot": [
+				-7.0167091267055864e-15,
+				-1.35594676437408e-28,
+				90.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				62.12190246582031,
+				102.32591247558594,
+				-1.1549732641537038e-17
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-1.8513244103520902e-25,
+				-60.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				57.65804672241211,
+				85.26058197021484,
+				-2.4831348948746316e-15
+			],
+			"rot": [
+				-7.0167091267055864e-15,
+				-9.039679602072037e-29,
+				90.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				55.28451156616211,
+				85.26058197021484,
+				-2.4831348948746316e-15
+			],
+			"rot": [
+				-7.0167091267055864e-15,
+				-9.039679602072037e-29,
+				90.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				57.65804672241211,
+				87.11862182617188,
+				-2.710679284726185e-15
+			],
+			"rot": [
+				-7.0167091267055864e-15,
+				-9.039679602072037e-29,
+				90.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				69.16580963134766,
+				88.26805877685547,
+				5.538297397051457e-16
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039679602072037e-29,
+				90.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				57.65804672241211,
+				88.52806854248047,
+				-2.8832863881682455e-15
+			],
+			"rot": [
+				-7.016709973738534e-15,
+				-1.8079359204144075e-28,
+				90.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				73.11425018310547,
+				94.31330871582031,
+				-2.746130445835195e-17
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				69.79574584960938,
+				93.17082214355469,
+				-2.710679284726185e-15
+			],
+			"rot": [
+				-7.016709973738534e-15,
+				-1.8079359204144075e-28,
+				90.0
+			],
+			"scl": [
+				0.9999996423721313,
+				0.9999996423721313,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				36.13190841674805,
+				104.44086456298828,
+				-3.5960505842995503e-17
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				43.88786315917969,
+				104.44086456298828,
+				-3.59604529034363e-17
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				51.69137191772461,
+				104.44086456298828,
+				-3.5960403272599547e-17
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				58.82470703125,
+				104.44086456298828,
+				-3.5960356950485244e-17
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				64.10602569580078,
+				107.44519805908203,
+				-2.6925320273477353e-15
+			],
+			"rot": [
+				-7.016710820771481e-15,
+				-1.3559519403108056e-28,
+				90.0
+			],
+			"scl": [
+				0.9999995231628418,
+				0.9999995231628418,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				64.10602569580078,
+				105.91358947753906,
+				-2.5049642044747958e-15
+			],
+			"rot": [
+				-7.016709973738534e-15,
+				-9.039679602072037e-29,
+				90.0
+			],
+			"scl": [
+				0.999999463558197,
+				0.999999463558197,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				80.25385284423828,
+				98.38591003417969,
+				1.3600372870885649e-15
+			],
+			"rot": [
+				-7.0167091267055864e-15,
+				-3.703482548073386e-25,
+				90.0
+			],
+			"scl": [
+				0.9999997615814209,
+				0.9999997615814209,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				75.20697021484375,
+				106.46016693115234,
+				3.7122685339209646e-16
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.702643397285457e-25,
+				90.0
+			],
+			"scl": [
+				0.9999999403953552,
+				0.9999999403953552,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				36.36738967895508,
+				98.65464782714844,
+				1.0621230940450186e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-1.3559494125277536e-28,
+				90.0
+			],
+			"scl": [
+				0.9999995827674866,
+				0.9999995827674866,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				66.53327941894531,
+				94.6851806640625,
+				9.241696966619077e-16
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-9.256622051760451e-26,
+				-60.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				38.74369812011719,
+				81.07123565673828,
+				2.591398199269703e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039675990953392e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				16.382892608642578,
+				104.42691802978516,
+				-1.0143850582915951e-14
+			],
+			"rot": [
+				-7.016701503409061e-15,
+				-1.807754882999635e-28,
+				90.0
+			],
+			"scl": [
+				0.9999991059303284,
+				0.9999991059303284,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				91.0418701171875,
+				106.46016693115234,
+				3.7122669457341885e-16
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-3.703067656541046e-25,
+				90.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				97.05363464355469,
+				96.60009765625,
+				1.1762783596211911e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039672981687853e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				88.70174407958984,
+				70.88536071777344,
+				1.83577299118042
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				88.53705596923828,
+				72.81459045410156,
+				4.04036808013916
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				-3.7915141594495084e-22,
+				0.0
+			],
+			"scl": [
+				0.9999998807907104,
+				0.9999998807907104,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				34.544090270996094,
+				94.05154418945313,
+				0.0
+			],
+			"rot": [
+				-7.0167078561561656e-15,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				105.53864288330078,
+				68.60774993896484,
+				1.1762783596211911e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039672379834746e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				105.53864288330078,
+				84.5311508178711,
+				-7.737759793220321e-16
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039671777981638e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				100.77096557617188,
+				100.45225524902344,
+				-2.723547621019109e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039669972422315e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				105.53864288330078,
+				100.39331817626953,
+				-2.716330476792029e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039670574275423e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				103.69850158691406,
+				100.39331817626953,
+				-2.716330476792029e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-9.039669972422315e-29,
+				0.0
+			],
+			"scl": [
+				0.9999997019767761,
+				0.9999997019767761,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				101.38703155517578,
+				90.4234390258789,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				77.54378509521484,
+				94.63294982910156,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				-120.00000762939453
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				79.5064926147461,
+				-10.013792991638184,
+				1.2263356774633153e-15
+			],
+			"rot": [
+				-7.016708279672639e-15,
+				-4.5198398010360187e-29,
+				90.0
+			],
+			"scl": [
+				0.9999998211860657,
+				0.9999998211860657,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				99.44496154785156,
+				-10.034602165222168,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-12.0411376953125,
+				84.71187591552734,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-11.388617515563965,
+				104.88789367675781,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				-11.959329605102539,
+				92.45311737060547,
+				-8.677484085288251e-15
+			],
+			"rot": [
+				-7.016704044507903e-15,
+				-1.8079249666878488e-28,
+				0.0
+			],
+			"scl": [
+				0.9999993443489075,
+				0.9999993443489075,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				44.868831634521484,
+				104.40874481201172,
+				-4.313000202178955
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				89.95436096191406
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.25
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				6.591435432434082,
+				104.88789367675781,
+				-3.2990000247955322
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				0.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				2.328982353210449,
+				29.4655818939209,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				-60.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		},
+		{
+			"parent": null,
+			"pos": [
+				8.043596267700195,
+				26.61459732055664,
+				0.0
+			],
+			"rot": [
+				-0.0,
+				0.0,
+				-60.0
+			],
+			"scl": [
+				1.0,
+				1.0,
+				1.0
+			]
+		}
+	]
+}
