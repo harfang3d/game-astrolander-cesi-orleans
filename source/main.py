@@ -462,6 +462,11 @@ while not end_game:
 		hg.DrawText(view_id, font, 'Life: %d' % life, font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x - 200, res_y - 80, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
 		hg.DrawText(view_id, font, 'Fuel: %d' % fuel, font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(res_x - 200, res_y - 40, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
 
+		# display FPS
+		if hg.time_to_sec_f(dt) > 0.0:
+			hg.DrawText(view_id, font, 'FPS: %i' % int(1.0 / hg.time_to_sec_f(dt)), font_program, 'u_tex', 0, hg.Mat4.Identity, hg.Vec3(16, 16, 0), hg.DTHA_Left, hg.DTVA_Bottom, text_uniform_values, [], text_render_state)
+
+
 		# debug physics
 		view_id += 1
 		# display_physics_debug(scene, physics, view_id, res_x, res_y, vtx_decl_lines, physx_debug_lines_program)
