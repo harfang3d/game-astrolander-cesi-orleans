@@ -11,9 +11,9 @@
 	},
 	"environment": {
 		"ambient": [
-			62,
-			62,
-			62,
+			0,
+			0,
+			0,
 			255
 		],
 		"brdf_map": "core/pbr/brdf.dds",
@@ -60,7 +60,7 @@
 			],
 			"disabled": false,
 			"idx": 0,
-			"name": "g_block_16x32"
+			"name": "g_block_16x16"
 		}
 	],
 	"objects": [
@@ -81,11 +81,16 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
+							"stage": 0
+						},
+						{
+							"name": "uDiffuseMap",
 							"path": "assets/generic_blocks/dirt_color.png",
 							"stage": 0
 						},
 						{
 							"name": "uNormalMap",
+							"path": "assets/generic_blocks/white_brick.png",
 							"stage": 2
 						},
 						{
@@ -102,9 +107,19 @@
 							"name": "uBaseOpacityColor",
 							"type": "vec4",
 							"value": [
-								0.75,
-								0.75,
-								0.75,
+								1.0,
+								1.0,
+								1.0,
+								0.0
+							]
+						},
+						{
+							"name": "uDiffuseColor",
+							"type": "vec4",
+							"value": [
+								0.5882353186607361,
+								0.5882353186607361,
+								0.5882353186607361,
 								1.0
 							]
 						},
@@ -127,6 +142,16 @@
 								0.0,
 								-1.0
 							]
+						},
+						{
+							"name": "uSpecularColor",
+							"type": "vec4",
+							"value": [
+								0.0,
+								0.0,
+								0.0,
+								0.03124999813735485
+							]
 						}
 					],
 					"write_a": true,
@@ -136,7 +161,7 @@
 					"write_z": true
 				}
 			],
-			"name": "assets/generic_blocks/g_block_16x32.geo"
+			"name": "assets/generic_blocks/g_block_16x16.geo"
 		}
 	],
 	"transforms": [
@@ -148,7 +173,7 @@
 				0.0
 			],
 			"rot": [
-				-0.0,
+				-7.0167078561561656e-15,
 				0.0,
 				0.0
 			],

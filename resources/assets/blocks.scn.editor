@@ -1,7 +1,8 @@
 {
 	"editor": {
 		"animeditor_plugin": {
-			"show_trajectories": 0,
+			"quantize_time": true,
+			"show_trajectories": null,
 			"trajectories_tick_seconds": 1.0,
 			"trajectories_tick_size": 0.10000000149011612
 		},
@@ -22,16 +23,28 @@
 					10,
 					11,
 					12,
-					26,
-					28,
-					31
+					13,
+					14,
+					15,
+					16,
+					17
 				]
 			},
 			"node_sort_method": "custom",
 			"show_node_uid": false
 		},
+		"grid_plugin": {
+			"enabled": true,
+			"grid_color_b": 1.0,
+			"grid_color_g": 1.0,
+			"grid_color_r": 1.0,
+			"n_subdivs": 10,
+			"offset": 0.0,
+			"opacity": 0.5,
+			"subdiv_size": 1.0
+		},
 		"navigation_plugin": {
-			"orbit_distance": 191.0778045654297,
+			"orbit_distance": 74.0274429321289,
 			"speed": 0.10000000149011612,
 			"turbo": 1.0
 		},
@@ -48,10 +61,26 @@
 		},
 		"view_plugin": {
 			"show_cameras": true,
+			"show_collisions": false,
 			"show_lights": true,
-			"show_node_origin": true
+			"show_nodes": true,
+			"show_probe": true
 		},
 		"views": {
+			"back": [
+				-0.9999999403953552,
+				0.0,
+				-8.742277657347586e-08,
+				0.0,
+				0.0,
+				1.0,
+				-0.0,
+				0.0,
+				8.742277657347586e-08,
+				-0.0,
+				-0.9999999403953552,
+				0.0
+			],
 			"bottom": [
 				1.0,
 				-0.0,
@@ -71,6 +100,20 @@
 				"znear": -1000.0
 			},
 			"current_camera": 0,
+			"front": [
+				1.0,
+				0.0,
+				0.0,
+				0.0,
+				0.0,
+				1.0,
+				-0.0,
+				0.0,
+				0.0,
+				0.0,
+				1.0,
+				0.0
+			],
 			"left": [
 				-8.742277657347586e-08,
 				0.0,
@@ -91,18 +134,18 @@
 			},
 			"orthographic_size": 1.0,
 			"perspective": [
-				1.0,
+				0.9989878535270691,
+				-0.011456049047410488,
+				-0.04350198060274124,
+				29.01654624938965,
 				0.0,
-				0.0,
-				77.29338073730469,
-				0.0,
-				1.0,
-				0.0,
-				6.161129951477051,
-				0.0,
-				0.0,
-				1.0,
-				-181.0778045654297
+				0.9670302271842957,
+				-0.2546639144420624,
+				12.381261825561523,
+				0.044984444975852966,
+				0.25440627336502075,
+				0.9660524725914001,
+				-64.16741943359375
 			],
 			"perspective_fov": 0.27385133504867554,
 			"perspective_zrange": {
